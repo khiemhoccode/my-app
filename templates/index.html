@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Trắc nghiệm</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="wrap center">
+    <div class="card intro">
+      <h1>Trắc nghiệm ôn thi</h1>
+      <p class="muted">Mỗi lượt thi tối đa 40 câu, thời gian làm bài 30 phút.</p>
+
+      <!-- Chế độ 1: Ngẫu nhiên -->
+      <div class="mode-block">
+        <div class="mode-title">🎲 Ngẫu nhiên</div>
+        <p class="muted small">Trộn câu hỏi từ tất cả {{ decks|length }} đề ({{ total_all }} câu) và bốc ngẫu nhiên 40 câu.</p>
+        <a href="{{ url_for('start_random') }}" class="btn">Làm bài ngẫu nhiên</a>
+      </div>
+
+      <div class="divider">hoặc</div>
+
+      <!-- Chế độ 2: Chọn đề cụ thể -->
+      <div class="mode-block">
+        <div class="mode-title">📄 Chọn đề cụ thể</div>
+        <div class="deck-list">
+          {% for d in decks %}
+          <div class="deck-item">
+            <div class="deck-info">
+              <div class="deck-name">{{ d.title }}</div>
+              <div class="muted small">{{ d.total }} câu hỏi
+                {% if not d.has_answers %}
+                <span class="tag tag-wrong">Chưa có đáp án</span>
+                {% endif %}
+              </div>
+            </div>
+            <a href="{{ url_for('start_quiz', deck_id=d.id) }}" class="btn btn-small">Làm đề này</a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% if decks|selectattr('has_answers', 'equalto', false)|list %}
+      <p class="muted small note">* Đề đánh dấu "Chưa có đáp án" vẫn làm được bình thường, nhưng phần chấm điểm sẽ không tính các câu này cho đến khi được bổ sung đáp án đúng.</p>
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

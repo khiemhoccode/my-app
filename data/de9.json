@@ -1,0 +1,676 @@
+{
+  "title": "Tin học cơ bản - Tổng hợp (đề 9)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Trong một máy tính, các thành phần cơ bản bao gồm:",
+      "options": {
+        "a": "Chuột, Bàn phím, Thùng máy, Màn hình",
+        "b": "Bàn phím, Thùng máy, Màn hình, Máy chiếu",
+        "c": "Thùng máy, Màn hình, CPU, Bàn phím",
+        "d": "CPU, Mainboard, Ram, HDD"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 2,
+      "question": "Trong hệ thống máy tính, thiết bị nào sau đây là thiết bị nhập/xuất cơ bản:",
+      "options": {
+        "a": "Bàn phím, Màn hình",
+        "b": "Bàn phím, Chuột, Máy chiếu",
+        "c": "Máy chiếu, Máy scan",
+        "d": "Máy In, Máy Scan, Máy chiếu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 3,
+      "question": "Các thành phần cơ bản của một thùng máy tính bao gồm:",
+      "options": {
+        "a": "Vỏ thùng, CPU, Ram, Mainboard",
+        "b": "CPU, Ram, Mainboard, HDD, Power",
+        "c": "CPU, Ram, DVD-Rom, MainBoard, Power",
+        "d": "Vỏ máy, CPU, Ram, HDD, Mainboard, Power"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 4,
+      "question": "Trong một hệ thống máy tính cá nhân, các thiết bị nào được liệt kê dưới đây là thiết bị nhập/xuất không chuẩn?",
+      "options": {
+        "a": "Bàn phím, Mouse, Màn hình",
+        "b": "Bàn phím, Máy chiếu, Máy In",
+        "c": "Máy chiếu, Máy In, Máy Scan, Mouse",
+        "d": "Máy chiếu, Máy Scan, Máy quét từ"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 5,
+      "question": "Trong một máy tính, các thiết bị nào sau đây có thể gắn trực tiếp lên thùng máy khi đang hoạt động?",
+      "options": {
+        "a": "USB, HDD, Ram, Thẻ nhớ",
+        "b": "USB, Thẻ nhớ, DVD, Ram",
+        "c": "Bàn phím, USB, Mouse, Ổ cứng di động",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 6,
+      "question": "Có bao nhiêu loại bộ nhớ chính?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 7,
+      "question": "Khái niệm nào sau đây là đúng khi nói về hệ điều hành?",
+      "options": {
+        "a": "Hệ điều hành là một phần mềm hệ thống quan trọng",
+        "b": "Hệ điều hành là một phần mềm hệ thống dùng để điều khiển toàn bộ hoạt động của máy tính trong suốt thời gian máy tính hoạt động",
+        "c": "Hệ điều hành là một phần mềm hệ thống dùng để điều khiển toàn bộ cấu trúc của máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 8,
+      "question": "Khái niệm cơ bản về phần mềm?",
+      "options": {
+        "a": "Phần mềm là chương trình máy tính khi được thực thi mang hiệu quả và chức năng mong muốn",
+        "b": "Phần mềm là chương trình máy tính khi thực thi mang lại kết quả mong muốn",
+        "c": "Phần mềm là chương trình máy tính được thực thi mang lại một chương trình khác",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 9,
+      "question": "Khi hệ thống máy tính khởi động, thiết bị được truy xuất đầu tiên là?",
+      "options": {
+        "a": "ROM",
+        "b": "RAM",
+        "c": "Ổ cứng",
+        "d": "CPU"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 10,
+      "question": "Trong các hoạt động của máy tính thì hoạt động nào là quan trọng nhất?",
+      "options": {
+        "a": "Xử lý thông tin",
+        "b": "Lưu giữ thông tin",
+        "c": "Trao đổi thông tin",
+        "d": "Truyền thông tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 11,
+      "question": "Hệ điều hành máy tính tương tác với người dùng thông qua?",
+      "options": {
+        "a": "Giao diện đồ họa",
+        "b": "Thiết bị xuất nhập",
+        "c": "Giao diện dòng lệnh",
+        "d": "Bàn phím"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 12,
+      "question": "Đơn vị đo lường thông tin cơ bản của máy tính là gì?",
+      "options": {
+        "a": "Byte",
+        "b": "Kilo Byte",
+        "c": "Mega Byte",
+        "d": "Giga Byte"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Có bao nhiêu loại đơn vị đo thông tin cơ bản?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "1"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Trong các đơn vị đo lường thông tin cơ bản, nhà sản xuất quy định 1KB bằng bao nhiêu Byte?",
+      "options": {
+        "a": "1024 B",
+        "b": "1000 B",
+        "c": "2048 B",
+        "d": "948 B"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 15,
+      "question": "Hãy cho biết kết quả của phép toán 1MB = ? GB",
+      "options": {
+        "a": "1024",
+        "b": "1/1024",
+        "c": "1/2048",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 16,
+      "question": "Phát biểu nào sau đây là đúng khi nói về đơn vị đo lường cơ bản?",
+      "options": {
+        "a": "Đơn vị đo lường thông tin cơ bản chỉ dùng đo dung lượng của đĩa cứng",
+        "b": "Đơn vị đo lường thông tin cơ bản chỉ đo lường trọng lượng của máy tính",
+        "c": "Đơn vị đo lường thông tin cơ bản là đơn vị đo dung lượng dữ liệu lưu trữ tổng máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 17,
+      "question": "Khái niệm nào sau đây là đúng khi nói về đơn vị đo lường thông tin cơ bản?",
+      "options": {
+        "a": "Đơn vị nhỏ nhất trong máy tính là Bit",
+        "b": "Đơn vị nhỏ nhất trong máy tính là Byte",
+        "c": "Không có đơn vị nhỏ nhất trong máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 18,
+      "question": "Thông tin lưu trữ trong máy tính dưới dạng gì?",
+      "options": {
+        "a": "Thập phân",
+        "b": "Bát phân",
+        "c": "Nhị phân",
+        "d": "Thập lục phân"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 19,
+      "question": "Trong các đơn vị đo thông tin sau đây, đơn vị nào là nhỏ nhất?",
+      "options": {
+        "a": "Byte",
+        "b": "KB",
+        "c": "MB",
+        "d": "TB"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "Các thiết bị nào sau đây sử dụng đơn vị đo thông tin cơ bản để đánh giá?",
+      "options": {
+        "a": "Đĩa cứng",
+        "b": "CPU",
+        "c": "Mainboard",
+        "d": "Màn hình"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 21,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Open?",
+      "options": {
+        "a": "F12",
+        "b": "Shift + F12",
+        "c": "Alt + F12",
+        "d": "Ctrl + F12"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 22,
+      "question": "Lựa chọn nào sau đây không phải là một chức năng của thước (Ruler)?",
+      "options": {
+        "a": "Tab stop",
+        "b": "Left Indent",
+        "c": "Right Indent",
+        "d": "Center Indent"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 23,
+      "question": "Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu chỉ hiển thị trong:",
+      "options": {
+        "a": "Print Layout view",
+        "b": "Reading View",
+        "c": "Print View",
+        "d": "Outline View"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 24,
+      "question": "Tập tin tài liệu có thể chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì?",
+      "options": {
+        "a": "Page",
+        "b": "Document",
+        "c": "Section",
+        "d": "Page Setup"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 25,
+      "question": "Borders được áp dụng cho:",
+      "options": {
+        "a": "Cells",
+        "b": "Paragraph",
+        "c": "Text",
+        "d": "Cells, Text, Paragraph"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 26,
+      "question": "Tùy chọn nào sau đây không phải là thuộc tính lề của trang?",
+      "options": {
+        "a": "Left",
+        "b": "Right",
+        "c": "Center",
+        "d": "Top"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 27,
+      "question": "Portrait và Landscape là:",
+      "options": {
+        "a": "Page Orientation",
+        "b": "Page Size",
+        "c": "Page Layout",
+        "d": "Page Margin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 28,
+      "question": "Lựa chọn nào sau đây không thuộc nhóm font style?",
+      "options": {
+        "a": "Bold",
+        "b": "Italics",
+        "c": "Regular",
+        "d": "Superscript"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 29,
+      "question": "Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau gọi là gì?",
+      "options": {
+        "a": "Macros",
+        "b": "Template",
+        "c": "Mail Merge",
+        "d": "Merge cells"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 30,
+      "question": "Khi soạn thảo văn bản trong Word, phím Home dùng để:",
+      "options": {
+        "a": "Di chuyển con trỏ về đầu của tài liệu",
+        "b": "Di chuyển con trỏ đầu đoạn văn",
+        "c": "Di chuyển con trỏ đầu màn hình",
+        "d": "Di chuyển con trỏ đầu dòng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 31,
+      "question": "Tổ hợp phím Ctrl + phím mũi tên phải được dùng để:",
+      "options": {
+        "a": "Di chuyển con trỏ về bên phải của một từ",
+        "b": "Di chuyển con trỏ đến cuối dòng",
+        "c": "Di chuyển con trỏ cuối tài liệu",
+        "d": "Di chuyển con trỏ xuống cuối của một đoạn"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 32,
+      "question": "Khi soạn thảo văn bản trong Word, phím End dùng để:",
+      "options": {
+        "a": "Di chuyển con trỏ đến cuối dòng",
+        "b": "Di chuyển con trỏ cuối của tài liệu",
+        "c": "Di chuyển con trỏ cuối của đoạn văn",
+        "d": "Di chuyển con trỏ cuối của màn hình"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 33,
+      "question": "Tổ hợp phím “Ctrl + PageDown” được sử dụng để di chuyển con trỏ đến:",
+      "options": {
+        "a": "Cuối một đoạn (Paragraph)",
+        "b": "Cuối trang (Page)",
+        "c": "Cuối dòng (Line)",
+        "d": "Cuối màn hình (Screen)"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 34,
+      "question": "Tổ hợp phím nào sau đây dùng để ẩn/hiện thanh Ribbon?",
+      "options": {
+        "a": "Ctrl + F11",
+        "b": "Ctrl + F1",
+        "c": "Shift + F1",
+        "d": "Alt + F1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 35,
+      "question": "Thao tác nào sau đây thực hiện chức năng ngắt trang?",
+      "options": {
+        "a": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert -> Page Break",
+        "b": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout -> Breaks -> Page",
+        "c": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert -> Breaks -> Page",
+        "d": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout -> Page Break"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 36,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở trang tiếp theo?",
+      "options": {
+        "a": "Section Breaks -> Next Page",
+        "b": "Section Breaks -> Continuous",
+        "c": "Section Breaks -> Even Page",
+        "d": "Section Breaks -> Odd Page"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 37,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở trang chẵn tiếp theo?",
+      "options": {
+        "a": "Section Breaks -> Next Page",
+        "b": "Section Breaks -> Continuous",
+        "c": "Section Breaks -> Even Page",
+        "d": "Section Breaks -> Odd Page"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 38,
+      "question": "Tính năng nào giúp chèn nội dung từ Clipboard như một văn bản không có định dạng?",
+      "options": {
+        "a": "Paste Special",
+        "b": "Format Painter",
+        "c": "Page Setup",
+        "d": "Styles"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 39,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Find and Replace, và tab Goto được kích hoạt?",
+      "options": {
+        "a": "Ctrl + G",
+        "b": "Ctrl + F",
+        "c": "Ctrl + H",
+        "d": "Ctrl + R"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 40,
+      "question": "Tổ hợp phím nào dùng để ngắt dòng?",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Shift + Enter",
+        "d": "Alt + Enter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 41,
+      "question": "Khi khởi động máy tính, phần mềm nào sẽ được thực hiện trước?",
+      "options": {
+        "a": "Phần mềm gõ tiếng Việt",
+        "b": "Hệ điều hành",
+        "c": "Chương trình diệt Virus máy tính",
+        "d": "Phần mềm MS Word, MS Excel"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 42,
+      "question": "Trong môi trường Windows, ta có thể chạy cùng lúc:",
+      "options": {
+        "a": "Nhiều chương trình ứng dụng khác nhau",
+        "b": "2 chương trình",
+        "c": "Chỉ chạy một chương trình",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 43,
+      "question": "Microsoft Windows là hệ điều hành với giao diện đồ họa, nghĩa là:",
+      "options": {
+        "a": "Có các màn hình giao tiếp với người sử dụng rất thân thiện và dễ sử dụng",
+        "b": "Có các màn hình giao tiếp với người sử dụng được xây dựng từ các thành phần đồ họa đẹp, có tính thẩm mĩ cao",
+        "c": "Có các màn hình giao tiếp với người dùng gồm các biểu tượng và cửa sổ",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 44,
+      "question": "Nhấp chuột phải vào ổ đĩa T: trong cửa sổ Windows Explorer và chọn menu Format có mục đích:",
+      "options": {
+        "a": "Xem các thông tin chi tiết về ổ đĩa T:",
+        "b": "Thực hiện chức năng định dạng lại ổ đĩa T:",
+        "c": "Thực hiện chức năng sao chép dữ liệu ổ đĩa T:",
+        "d": "Thực hiện chức năng phân vùng cho ổ đĩa T:"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 45,
+      "question": "Thao tác nhấp chuột phải vào biểu tượng của thư mục/tập tin và chọn Properties là để:",
+      "options": {
+        "a": "Xem thuộc tính thư mục/tập tin",
+        "b": "Sao chép thư mục/tập tin",
+        "c": "Đổi tên thư mục/tập tin",
+        "d": "Xóa thư mục/tập tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 46,
+      "question": "Trong tin học, tập tin (file) là khái niệm chỉ:",
+      "options": {
+        "a": "Một văn bản chứa các thông tin do người dùng tạo ra",
+        "b": "Một đơn vị lưu trữ thông tin cơ bản",
+        "c": "Tập hợp các thông tin có cùng bản chất được lưu trữ trên đĩa từ",
+        "d": "Một gói tin chứa các thông tin có cùng bản chất"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 47,
+      "question": "Trong tin học, thư mục (folder) là một:",
+      "options": {
+        "a": "Tập tin đặc biệt không có phần mở rộng",
+        "b": "Tập hợp các tập tin và thư mục con",
+        "c": "Phần ổ đĩa chứa một tập hợp các tập tin",
+        "d": "Mục lục để tra cứu thông tin"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 48,
+      "question": "Trong Windows, muốn xem tổ chức các tập tin và thư mục trên đĩa, ta có thể sử dụng:",
+      "options": {
+        "a": "My Computer hoặc Windows Explorer",
+        "b": "My Computer hoặc Recycle Bin",
+        "c": "Windows Explorer hoặc Recycle Bin",
+        "d": "My Computer hoặc My Network Places"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 49,
+      "question": "Trong hệ điều hành Windows, tên của thư mục được đặt:",
+      "options": {
+        "a": "Bắt buộc phải dùng chữ in hoa để đặt tên thư mục",
+        "b": "Bắt buộc không được có phần mở rộng",
+        "c": "Thường được đặt theo quy cách đặt phần tên của tập tin",
+        "d": "Bắt buộc phải có phần mở rộng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 50,
+      "question": "Muốn khởi động chương trình Windows Explorer, người dùng có thể:",
+      "options": {
+        "a": "Nhấp chuột phải vào biểu tượng Computer trên Desktop, chọn Explore",
+        "b": "Nhấp chuột phải vào Menu Start, chọn Explore",
+        "c": "Nhấn tổ hợp phím Windows + E",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 51,
+      "question": "Trong Windows, để chọn một lúc các file/folder nằm liền nhau trong một danh sách, ta thực hiện:",
+      "options": {
+        "a": "Giữ phím Ctrl và nhấp chuột vào từng mục muốn chọn trong danh sách",
+        "b": "Giữ phím Alt và nhấp chuột vào từng mục muốn chọn trong danh sách",
+        "c": "Nháy chuột ở mục đầu, ấn và giữ Shift nhấp chuột ở mục cuối",
+        "d": "Giữ phím Tab và nhấp chuột vào từng mục cuối muốn chọn trong danh sách"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 52,
+      "question": "Trong Windows, để chọn một lúc các file/folder nằm không kề nhau trong một danh sách, ta thực hiện:",
+      "options": {
+        "a": "Giữ phím Ctrl và nhấp chuột vào từng mục muốn chọn trong danh sách",
+        "b": "Giữ phím Alt và nhấp chuột vào từng mục muốn chọn trong danh sách",
+        "c": "Nháy chuột ở mục đầu, ấn giữ Shift nhấp chuột ở mục cuối",
+        "d": "Giữ phím Tab và nhấp chuột vào từng mục cuối muốn chọn trong danh sách"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 53,
+      "question": "Thực hiện trình tự các thao tác nào để sao chép đối tượng?",
+      "options": {
+        "a": "Chọn đối tượng, giữ phím Shift và kéo sang folder muốn sao chép đến",
+        "b": "Chọn đối tượng, nhấn Ctrl + C, chọn vị trí sao chép đến, nhấn Ctrl + X",
+        "c": "Chọn đối tượng, nhấn Ctrl + C, chọn vị trí sao chép đến, nhấn Ctrl + V",
+        "d": "Chọn đối tượng, nhấn Ctrl + X, chọn vị trí sao chép đến, nhấn Ctrl + V"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 54,
+      "question": "Trong Windows, Shortcut có ý nghĩa gì?",
+      "options": {
+        "a": "Tạo đường tắt để truy cập nhanh",
+        "b": "Là một thư mục có chứa tập tin khởi động chương trình",
+        "c": "Là một chương trình trên màn hình Desktop",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 55,
+      "question": "Chúng ta sử dụng chương trình nào của Windows để quản lý các tập tin và thư mục?",
+      "options": {
+        "a": "Microsoft Office",
+        "b": "Accessories",
+        "c": "Control Panel",
+        "d": "Windows Explorer"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 56,
+      "question": "Trong Windows, phím tắt nào giúp bạn truy cập nhanh menu Start để có thể Shutdown máy?",
+      "options": {
+        "a": "Alt + Esc",
+        "b": "Ctrl + Esc",
+        "c": "Ctrl + Alt + Esc",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 57,
+      "question": "Tổ hợp phím nào có chức năng xem màn hình Desktop?",
+      "options": {
+        "a": "Shift + D",
+        "b": "Alt + D",
+        "c": "Ctrl + D",
+        "d": "Windows + D"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 58,
+      "question": "Trong Windows, vị trí mặc định của thanh Taskbar là:",
+      "options": {
+        "a": "Bên phải màn hình",
+        "b": "Bên trái màn hình",
+        "c": "Dưới đáy màn hình",
+        "d": "Lề bên màn hình"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 59,
+      "question": "Trong Windows, để lưu nội dung màn hình vào bộ nhớ Clipboard ta sử dụng phím nào?",
+      "options": {
+        "a": "Ctrl + C",
+        "b": "Ctrl + Ins",
+        "c": "Print Screen",
+        "d": "Ins"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 60,
+      "question": "Đơn vị nào sau đây dùng để biểu thị dung lượng thông tin của tập tin?",
+      "options": {
+        "a": "Bps",
+        "b": "Byte",
+        "c": "Bit",
+        "d": "KB"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 61,
+      "question": "Chế độ nào sau đây dùng để tạm dừng làm việc với máy tính trong một khoảng thời gian ngắn (khi cần làm việc trở lại chỉ cần di chuyển chuột hoặc ấn phím bất kỳ)?",
+      "options": {
+        "a": "Restart",
+        "b": "Shut down",
+        "c": "Stand by",
+        "d": "Restart in MS-DOS Mode"
+      },
+      "answer": "c"
+    }
+  ]
+}

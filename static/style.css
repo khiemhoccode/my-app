@@ -1,0 +1,219 @@
+:root {
+  --primary: #2563eb;
+  --bg: #f4f6f9;
+  --card-bg: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --green: #16a34a;
+  --red: #dc2626;
+  --border: #e5e7eb;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 24px 16px 60px;
+}
+
+.center {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.intro {
+  max-width: 480px;
+  text-align: center;
+}
+
+.intro h1 { margin-top: 0; }
+
+.rules {
+  text-align: left;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 12px 28px;
+  font-size: 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.btn:hover { background: #1d4ed8; }
+
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+
+/* Top bar with timer */
+.topbar {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+}
+
+.topbar-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+}
+
+.progress-text { color: var(--muted); font-size: 14px; }
+
+.timer {
+  font-size: 20px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--primary);
+  background: #eef2ff;
+  padding: 6px 14px;
+  border-radius: 8px;
+}
+
+.timer.warning {
+  color: #fff;
+  background: var(--red);
+}
+
+/* Questions */
+.qtitle {
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.options { display: flex; flex-direction: column; gap: 8px; }
+
+.option {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.option:hover { background: #f9fafb; }
+
+.option input { margin-top: 3px; }
+
+.submit-area { text-align: center; }
+
+/* Result page */
+.result-summary { text-align: center; }
+.score { font-size: 32px; font-weight: 700; margin: 8px 0 0; }
+.percent { color: var(--muted); margin-top: 0; }
+.review-title { margin-top: 28px; }
+
+.question.ok { border-left: 4px solid var(--green); }
+.question.bad { border-left: 4px solid var(--red); }
+
+.option.review { cursor: default; }
+.option.review.correct { border-color: var(--green); background: #f0fdf4; }
+.option.review.wrong { border-color: var(--red); background: #fef2f2; }
+
+.letter { font-weight: 600; }
+
+.tag {
+  margin-left: 8px;
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.tag-correct { background: #dcfce7; color: var(--green); }
+.tag-wrong { background: #fee2e2; color: var(--red); }
+.tag-neutral { background: #e5e7eb; color: var(--muted); }
+
+.option.review.chosen-neutral { border-color: #9ca3af; background: #f3f4f6; }
+
+/* Deck selection list */
+.deck-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.deck-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.deck-name { font-weight: 600; }
+
+.btn-small {
+  padding: 8px 16px;
+  font-size: 14px;
+  margin-top: 0;
+  white-space: nowrap;
+}
+
+.note { margin-top: 16px; }
+
+.mode-block {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.mode-title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+  margin: 20px 0;
+}
+.divider::before, .divider::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid var(--border);
+}
+.divider::before { margin-right: 12px; }
+.divider::after { margin-left: 12px; }
+
+.deck-source {
+  margin-top: -6px;
+  margin-bottom: 12px;
+}

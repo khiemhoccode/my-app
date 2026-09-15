@@ -1,0 +1,214 @@
+{
+  "title": "Tin học văn phòng - Internet (đề 7)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "www.cuibap.com.”com” có nghĩa là” (trang 339)",
+      "options": {
+        "a": "Đây là địa chỉ các trang web giáo dục",
+        "b": "Đây là địa chỉ các trang web Thương mại và dịch vụe",
+        "c": "Đây là địa chỉ các trang web giải trí",
+        "d": "Đây là địa chỉ các trang web thông thường"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "Để truy cập vào một trang Web chúng ta cần",
+      "options": {
+        "a": "Hệ điều hành đang sử dụng",
+        "b": "Trang web đó của nước nào",
+        "c": "Tên miền của trang web",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 3,
+      "question": "Chọn một trong các trường hợp sau đây không phải là một trình duyệt",
+      "options": {
+        "a": "Microsofts Bing",
+        "b": "Internet Explorer",
+        "c": "Mozilla Firefox",
+        "d": "Google Chrome"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 4,
+      "question": "Chọn phát biếu đúng, để truy cập vào một trang web chúng ta cần biết",
+      "options": {
+        "a": "Hệ điều hành đang sử dụng",
+        "b": "Địa chỉ IP của trang web đó",
+        "c": "Trang web đó của nước nào",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Để có được một trang web trên Internet cho người khác truy cập vào thì cần phải có",
+      "options": {
+        "a": "Một tên miền truy cập hoặc IP máy chủ",
+        "b": "Một máy chủ là nơi để chứa nội dugn trang web, hay còn gọi là hosting",
+        "c": "Kết nối tên miền đến máy chủ hosting chứa trang web",
+        "d": "Cả 3 điều kiện trên"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 6,
+      "question": "Khi đang duyệt web bằng một web (Browser) Internet Explorer phím F5 có công dụng gì",
+      "options": {
+        "a": "Quay về trang chủ",
+        "b": "Quay về trang trước",
+        "c": "Quay xuống phía dưới",
+        "d": "Tải lại trang"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 7,
+      "question": "Web (Browser ) Internet Explorer ta có thể mở một tab mới bằng cách",
+      "options": {
+        "a": "Ctrl + N",
+        "b": "Ctrl + W",
+        "c": "Ctrl + T",
+        "d": "Alt + F4"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 8,
+      "question": "Có thể mở lịch duyệt web Internet Explorer bẳng cách",
+      "options": {
+        "a": "Ctrl + H",
+        "b": "Ctrl + J",
+        "c": "Ctrl + D",
+        "d": "Ctrl + Shift + Del"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 9,
+      "question": "Có thể mở lịch sử download của Internet Explorer bằng cách",
+      "options": {
+        "a": "Ctrl + H",
+        "b": "Ctrl + J",
+        "c": "Ctrl + D",
+        "d": "Ctrl + Shift + Del"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Trình duyệt web (Browser ) Internet Explorer tổ hợp phím Ctrl + F ta có thể mở",
+      "options": {
+        "a": "Một công cụ tìm kiếmGoogle",
+        "b": "Mở một file html",
+        "c": "Mở hộp tìm kiếm văn bản trong trang web hiện tại",
+        "d": "Mở công cụ tìm kiếm Bing"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "Web (Browser ) Internet Explorer tổ hợp phím giúp chúng ta có thể mở lại tab vừa đóng",
+      "options": {
+        "a": "Ctrl + H",
+        "b": "Ctrl + Alt + N",
+        "c": "Alt + Shift  + N",
+        "d": "Ctrl + Shift + T"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Trình duyệt web (Browser ) Internet Explorer tổ hợp phím đóng tad hiện tại",
+      "options": {
+        "a": "Ctrl + W",
+        "b": "Ctrl +F4",
+        "c": "Cả A và B đều đúng",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 13,
+      "question": "Web Server là gì?",
+      "options": {
+        "a": "Là máy tính đang được sử dụng để xem các nội dung trang web",
+        "b": "Là một dịch vụ của internet",
+        "c": "Là máy chủ dung để đặt các trang web trên internet",
+        "d": "Tất cả các cau trên đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 14,
+      "question": "Trang chủ là gì?",
+      "options": {
+        "a": "Là tập hợp các trang web có liên quan đến nhau",
+        "b": "Là một trang web đầu tiên của website",
+        "c": "Là địa chỉ của website",
+        "d": "Tất cả các câu trên đều đúng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 15,
+      "question": "Web (Browser ) Internet Explorer ta có thể xem chế độ toàn màn hình bằng cách",
+      "options": {
+        "a": "F11",
+        "b": "Ctrl + Alt + F",
+        "c": "Alt + Shift  + F",
+        "d": "Ctrl + F"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 16,
+      "question": "Để tìm kiếm thông tin trên mạng internet, ta có thể tìm bằng cách",
+      "options": {
+        "a": "Chọn Start -> Search",
+        "b": "Chọn View -> Explorer -> Search",
+        "c": "Chọn View -> Toolbar -> Search",
+        "d": "Mở một trang web tìm kiếm, nhập từ khóa cần tìm và chọn Search"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Thuật ngữ Search Engines được hiểu là",
+      "options": {
+        "a": "Tìm kiếm trên máy tính",
+        "b": "Tìm các máy tính trên mạng",
+        "c": "Máy tìm kiếm hay là công cụ tìm kiếm",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Thuật ngữ Search Keywords được hiểu là",
+      "options": {
+        "a": "Tìm kiếm trên máy tính",
+        "b": "Tìm kiếm bằng Google",
+        "c": "Dùng công cụ tìm kiếm nội dung “Keywowd”",
+        "d": "Từ khóa mà người dung sử dụng để tìm kiếm thông tin"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 19,
+      "question": "Trang web nào sau đây không hỗ trợ máy tìm kiếm",
+      "options": {
+        "a": "www.google.com",
+        "b": "www.yahoo.com",
+        "c": "www.baamboo.com",
+        "d": "www.bbc.com"
+      },
+      "answer": "d"
+    }
+  ]
+}

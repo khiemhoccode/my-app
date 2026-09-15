@@ -1,0 +1,885 @@
+{
+  "title": "Tin học văn phòng - Word (đề 4)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Phím F12 dùng để mở hộp thoại________________________",
+      "options": {
+        "a": "Save As",
+        "b": "Open",
+        "c": "Save",
+        "d": "Close"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Open",
+      "options": {
+        "a": "F12",
+        "b": "Shift F12",
+        "c": "Alt + F12",
+        "d": "Ctrl + F12"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 3,
+      "question": "Lựa chọn nào sau đây KHÔNG phải là một chức năng trên thước (Ruler)",
+      "options": {
+        "a": "Tab stop",
+        "b": "Left Indent",
+        "c": "Right Indent",
+        "d": "Center Indent"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 4,
+      "question": "Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu chỉ hiển thị trong __________",
+      "options": {
+        "a": "Print Layout view",
+        "b": "Reading View",
+        "c": "Print Preview",
+        "d": "Outline View"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 5,
+      "question": "Tập tin tài liệu có thể được chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì?",
+      "options": {
+        "a": "Page",
+        "b": "Document",
+        "c": "Section",
+        "d": "Page Setup"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 6,
+      "question": "Borders được áp dụng cho _______________",
+      "options": {
+        "a": "Cells",
+        "b": "Paragraph",
+        "c": "Text",
+        "d": "Cells, Text, Paragraph"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 7,
+      "question": "Tùy chọn nào sau đây KHÔNG PHẢI là thuộc tính lề của trang?",
+      "options": {
+        "a": "Left",
+        "b": "Right",
+        "c": "Center",
+        "d": "Top"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 8,
+      "question": "Portrait và Landscape là __________________",
+      "options": {
+        "a": "Page Orientation (Hướng trang)",
+        "b": "Paper Size",
+        "c": "Page Layout",
+        "d": "Page Margin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 9,
+      "question": "Lựa chọn nào sau đây không thuộc nhóm font style?",
+      "options": {
+        "a": "Bold",
+        "b": "Italics",
+        "c": "Regular",
+        "d": "Superscript"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 10,
+      "question": "Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau gọi là gì",
+      "options": {
+        "a": "Macros",
+        "b": "Template",
+        "c": "mail merge",
+        "d": "Merge cells"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "Khi soạn thảo văn bản trong Word, Phím Home dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ về đầu của tài liệu",
+        "b": "Di chuyển con trỏ đầu của đoạn văn",
+        "c": "Di chuyển con trỏ đầu của màn hình",
+        "d": "Di chuyển con trỏ đầu dòng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Tổ hợp phím Ctrl + phím mũi tên phải được dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ về bên phải của một từ",
+        "b": "Di chuyển con trỏ đến cuối dòng",
+        "c": "Di chuyển con trỏ cuối của tài liệu",
+        "d": "Di chuyển con trỏ xuống cuối của một đoạn"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Khi soạn thảo văn bản trong Word , phím End dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ đến cuối dòng",
+        "b": "Di chuyển con trỏ cuối của tài liệu",
+        "c": "Di chuyển con trỏ cuối của đoạn văn",
+        "d": "Di chuyển con trỏ cuối của màn hình"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Tổ hợp phím “Ctrl + PageDown” được sử dụng để di chuyển con trỏ đến",
+      "options": {
+        "a": "Cuối một đoạn (Paragraph)",
+        "b": "Cuối trang (Page)",
+        "c": "Cuối dòng (Line)",
+        "d": "Cuối màn hình (Screen)"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 15,
+      "question": "Tổ hợp phím nào sau đây dùng để ẩn/hiện thanh Ribbon",
+      "options": {
+        "a": "Ctrl + F11",
+        "b": "Ctrl + F1",
+        "c": "Shift + F1",
+        "d": "Alt + F1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 16,
+      "question": "Thao tác nào sau đây thực hiện chức năng ngắt trang",
+      "options": {
+        "a": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert-> Page Break",
+        "b": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout-> Breaks-> Page",
+        "c": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert-> Breaks-> Page",
+        "d": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout -> Page Break"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 17,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở đầu trang tiếp theo",
+      "options": {
+        "a": "Section Breaks-> Next Page",
+        "b": "Section Breaks-> Continuous",
+        "c": "Section Breaks-> Even Page",
+        "d": "Section Breaks-> Odd Page"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 18,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở đầu trang CHẴN tiếp theo",
+      "options": {
+        "a": "Section Breaks-> Next Page",
+        "b": "Section Breaks-> Continuous",
+        "c": "Section Breaks-> Even Page",
+        "d": "Section Breaks-> Odd Page"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 19,
+      "question": "Lựa chọn nào sau đây không phải là tùy chọn của Section Break",
+      "options": {
+        "a": "Next Page",
+        "b": "Previous Page",
+        "c": "Odd Page",
+        "d": "Even Page"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 20,
+      "question": "Mặc định, header và Footer xuất hiện ở trang nào?",
+      "options": {
+        "a": "Trang đầu tiên của tài liệu",
+        "b": "Trang cuối cùng của tài liệu",
+        "c": "Những trang được chỉ định",
+        "d": "Tất cả các trang"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 21,
+      "question": "Chức năng nào dùng để thiết lập header và footer ở trang chẳn và trang lẻ có nội dung khác nhau?",
+      "options": {
+        "a": "Different first page",
+        "b": "Different Odd & even pages",
+        "c": "Different sections",
+        "d": "Different Odd pages & Different even pages"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 22,
+      "question": "Thao tác nào để bật hoặc tắt thước (Ruler) trong cửa sổ soạn thảo",
+      "options": {
+        "a": "Chọn tab Review-> đánh dấu chọn vào ô Ruler",
+        "b": "Chọn tab View-> đánh dấu chọn vào ô Ruler",
+        "c": "Chọn tab Insert Ruler",
+        "d": "Chọn tab Page Layout-> đánh dấu chọn vào ô Ruler"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 23,
+      "question": "Chức năng Link to Previous được sử dụng để chỉ định _______________",
+      "options": {
+        "a": "Section hiện tại tiếp tục sử dụng Header và Footer của section trước",
+        "b": "Section hiện tại tiếp tục sử dụng định dạng của section trước",
+        "c": "Section hiện tại tiếp tục với section trước trên cùng một trang",
+        "d": "Section hiện tại liên kết với section trước"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 24,
+      "question": "Lựa chọn nào không liên quan đến định dạng thụt lề của đoạn văn bản",
+      "options": {
+        "a": "First line",
+        "b": "Hanging",
+        "c": "Left indent, Right indent",
+        "d": "Spacing"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 25,
+      "question": "Tính năng nào giúp chèn nội dung từ Clipboard như một văn bản không có định dạng",
+      "options": {
+        "a": "Paste Special",
+        "b": "Format Painter",
+        "c": "Page Setup",
+        "d": "Styles"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 26,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Find and Replace, và tab Goto được kích hoạt",
+      "options": {
+        "a": "Ctrl + G",
+        "b": "Ctrl + F",
+        "c": "Ctrl + H",
+        "d": "Ctrl + R"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 27,
+      "question": "Tổ hợp phím nào dùng để ngắt dòng",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Shift + Enter",
+        "d": "Alt + Enter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 28,
+      "question": "Tổ hợp phím nào dùng để ngắt cột",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Shift + Enter",
+        "d": "Alt + Enter"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 29,
+      "question": "Thao tác nào sau đây dùng để thay đổi Font chữ của toàn bộ tài liệu",
+      "options": {
+        "a": "Chọn tab Design-> Font-> chọn bộ Font cần thay đổi",
+        "b": "Chọn tab Home, chọn Font trong nhóm lệnh Font",
+        "c": "Chọn tab Home -> mở hộp thoại Font, chọn font cần thay đổi",
+        "d": "Chọn tab Design-> mở hộp thoại Font, chọn font cần thay đổi"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 30,
+      "question": "Tổ hợp phím Ctrl + Shift + C được sử dụng để ______________",
+      "options": {
+        "a": "Sao chép nội dung",
+        "b": "Sao chép định dạng",
+        "c": "Sao chép công thức",
+        "d": "Sao chép hình ảnh"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 31,
+      "question": "Tab stop position KHÔNG thể canh lề kiểu",
+      "options": {
+        "a": "Decimal",
+        "b": "Center",
+        "c": "Bar",
+        "d": "Justify"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 32,
+      "question": "Cách nào sau đây có thể sử dụng chức năng Format Painter nhiều lần",
+      "options": {
+        "a": "Click biểu tượng Lock Format Painter",
+        "b": "Double click trên biểu tượng Format Painter",
+        "c": "Chọn View-> Format Painter -> Multiple Use",
+        "d": "Chức năng Format Painter không thể sử dụng nhiều lần"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 33,
+      "question": "Tổ hợp phím Ctrl + T được sử dụng để thực hiện chức năng ________",
+      "options": {
+        "a": "Hanging Indent (Thụt lề)",
+        "b": "Left Indent",
+        "c": "Mở hộp thoại Tabs",
+        "d": "Đóng tất cả các hộp thoại đang mở"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 34,
+      "question": "Phần lề để đóng gáy sách (Gutter) có thể đặt ở vị trí nào?",
+      "options": {
+        "a": "Lề trái và phải",
+        "b": "Lề trái và trên",
+        "c": "Lề trái và dưới",
+        "d": "Chỉ đặt ở lể trái"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 35,
+      "question": "Để đóng khung cho khối văn bản được chọn, thao tác nào sau đây là đúng",
+      "options": {
+        "a": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn Borders and Shading, chọn kiểu khung, OK",
+        "b": "Chọn khối văn bản, mở hộp thoại Paragraph, chọn kiểu khung",
+        "c": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn Borders and Shading, chọn kiểu khung, trong mục Apply to, chọn Text, click OK",
+        "d": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn kiểu khung trong danh sách"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 36,
+      "question": "Lựa chọn nào sau đây thực hiện xóa tất cả các định dạng của khối văn bản đang được chọn",
+      "options": {
+        "a": "Nhấn phím Delete",
+        "b": "Click nút Clear All formatting trong nhóm lệnh Font",
+        "c": "Nhấn tổ hợp phím Shift Delete",
+        "d": "Không thể xóa định dạng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 37,
+      "question": "Khi nhiều khối văn bản khác nhau được áp dụng cùng một Style, cách nào sau đây là tốt nhất dùng để hiệu chỉnh định dạng đồng thời cho các khối văn bản trên.",
+      "options": {
+        "a": "Hiệu chỉnh Style đã được áp dụng",
+        "b": "Lần lượt chọn các khối văn bản và hiệu chỉnh định dạng",
+        "c": "Hiệu chỉnh định dạng của một khối sau đó dùng chức năng Format Painter",
+        "d": "Dùng chức năng Paste Special"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 38,
+      "question": "Lựa chọn nào sau đây dùng để chuyển dữ liệu trong một bảng thành dạng Text",
+      "options": {
+        "a": "Đặt trỏ trong bảng, chọn tab Layout, click nút Convert to Text",
+        "b": "Chọn bảng, Click nút Border trong nhóm lệnh Paragraph, chọn No border",
+        "c": "Dùng chức năng eraser để xóa các cạnh của bảng",
+        "d": "Chọn bảng và nhấn phím Delete"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 39,
+      "question": "Khi đặt trỏ trong bảng dữ liệu thì trên thanh Ribbon xuất hiện một tab_________ chứa các lệnh để định dạng và hiệu chỉnh bảng",
+      "options": {
+        "a": "Table Tools",
+        "b": "Table Format",
+        "c": "Table design",
+        "d": "Table Format and Design"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 40,
+      "question": "Chức năng nào sau đây dùng để xoay chữ trong một ô của bảng",
+      "options": {
+        "a": "Text direction",
+        "b": "Text orientation",
+        "c": "Text rotate",
+        "d": "Không có chức năng xoay chữ trong ô"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 41,
+      "question": "Để kết hợp nhiều ô thành một ô trong bảng, thao tác nào sau đây là SAI?",
+      "options": {
+        "a": "Chọn các ô cần kết hợp, chọn tab Layout trong Table Tools, click nút Merge cells",
+        "b": "Chọn các ô cần kết hợp, click chuột phải, chọn Merge cells",
+        "c": "Chọn các ô cần kết hợp, chọn tab Design trong Table Tools, click nút Merge cells",
+        "d": "Đặt trỏ trong bảng, click nút eraser trong nhóm lệnh Draw của tab Layout, xóa các cạnh của ô cần kết hợp"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 42,
+      "question": "Chức năng nào dùng để canh đều độ rộng của các cột trong bảng",
+      "options": {
+        "a": "Distribute columns",
+        "b": "Distribute rows",
+        "c": "Distribute table",
+        "d": "Distribute cells"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 43,
+      "question": "Thao tác nào thực hiện tách một bảng thành 2 bảng riêng biệt",
+      "options": {
+        "a": "Đặt trỏ tại dòng cần tách, chọn chức năng Split Table trong nhóm lệnh Merge của tab Layout",
+        "b": "Đặt trỏ tại dòng cần tách, click chuột phải, chọn Split Table",
+        "c": "Chọn dòng tại vị trí cần tách, chọn chức năng Delete Row",
+        "d": "Không thực hiện được chức năng tách bảng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 44,
+      "question": "Khi một bảng kéo dài trên nhiều trang, cách nào sau đây làm cho tiêu đề của bảng lặp lại tại đầu của mỗi trang",
+      "options": {
+        "a": "Đặt trỏ trong bảng, click nút repeat Header rows trong nhóm lệnh Data của tab Layout",
+        "b": "Sao chép tiêu đề của bảng cho mỗi trang",
+        "c": "Click chuột phải trên dòng tiêu đề, chọn repeat Header rows",
+        "d": "Mặc định tiêu đề bảng lặp lại ở đầu của mỗi trang"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 45,
+      "question": "Thao tác nào sau đây không dùng để xóa một bảng",
+      "options": {
+        "a": "Chọn bảng, click nút Delete trong mini Toolbar, chọn Delete Table",
+        "b": "Chọn bảng và nhấn phím Delete",
+        "c": "Chọn bảng, chọn tab Layout, click nút Delete, chọn Delete Table",
+        "d": "Chọn bảng, click chuột phải, chọn Delete table"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 46,
+      "question": "Phát biểu nào sau đây nói về Mini toolbar trong word 2013",
+      "options": {
+        "a": "Thanh công cụ xuất hiện tại vị trí chọn khối văn bản",
+        "b": "Thanh công cụ nằm bên trên của thanh Ribbon",
+        "c": "Thanh công cụ không có sẵn trên thanh Ribbon",
+        "d": "Thanh công cụ chỉ có trong Word 2010"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 47,
+      "question": "Trong cùng một tài liệu, làm cách nào để có thể xoay trang theo hai hướng Portrait và Landscape",
+      "options": {
+        "a": "Ngắt section",
+        "b": "Ngắt trang",
+        "c": "Ngắt đoạn",
+        "d": "Không thực hiện được"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 48,
+      "question": "Một hình chèn vào trang văn bản,và khi đươc chọn thì trên thanh Ribbon xuất hiện một tab chứa các công cụ định dạng cho hình, đó là tab gì",
+      "options": {
+        "a": "Drawing tools",
+        "b": "Picture tools",
+        "c": "Shape tools",
+        "d": "Format tools"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 49,
+      "question": "Thao tác nào sau đây dùng để chèn Watemark vào trang",
+      "options": {
+        "a": "Chọn tab Design-> Watemark",
+        "b": "Chọn tab Page layout-> Watemark",
+        "c": "Chọn tab Home ->Watemark",
+        "d": "Chọn tab Insert ->Watemark"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Số dòng tối đa có thể thiết lập ứng với chiều cao của một Drop cap",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "2",
+        "d": "10"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 51,
+      "question": "Nhấn phím F8 3 lần để chọn __________",
+      "options": {
+        "a": "Một câu",
+        "b": "Một đoạn",
+        "c": "Một từ",
+        "d": "Một trang"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 52,
+      "question": "Chức năng nào dùng để định dạng vị trí tương đối của hình so với văn bản",
+      "options": {
+        "a": "Wrap text",
+        "b": "Position",
+        "c": "Align",
+        "d": "Group"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 53,
+      "question": "Lựa chọn nào sau đây KHÔNG phải là cách chèn số trang vào tài liệu",
+      "options": {
+        "a": "Insert -> Page Number",
+        "b": "Page Layout -> Page Number",
+        "c": "Insert-> Header, trong Header & Footer Tools, click nút Page Number",
+        "d": "Double click vào phần header, chọn Page Number trên Header & footer Tools"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 54,
+      "question": "Cách thiết lập Font mặt định trong word",
+      "options": {
+        "a": "Trong hộp thoại Font, chọn Font cần thiết lập mặc định, click Set As Default",
+        "b": "Chọn Tab File-> Option, tại mục use default Font, chọn Font mặc định",
+        "c": "Chọn Tab File-> Option-> Advanced, use default Font for outline view",
+        "d": "Không thể thiết lập Font mặc định"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 55,
+      "question": "Tổ hợp phím nào dùng để canh lề cho văn bản kiểu Justify",
+      "options": {
+        "a": "Ctrl + J",
+        "b": "Ctrl + R",
+        "c": "Ctrl + L",
+        "d": "Ctrl + C"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 56,
+      "question": "Những chức năng nào KHÔNG dùng để định dạng nền của một shape",
+      "options": {
+        "a": "Shape fill",
+        "b": "Shape Styles",
+        "c": "Shape outline",
+        "d": "Format Shape"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 57,
+      "question": "Watemark là gì?",
+      "options": {
+        "a": "Watermark là một hình ảnh hoặc dòng chữ được in mờ bên dưới văn bản dùng để đánh dấu bản quyền, chống sao chép",
+        "b": "Watermark một chức năng dùng để định dạng văn bản",
+        "c": "Watermark là một hình ảnh chèn vào văn bản để trang trí",
+        "d": "Watermark là công cụ chống sao chép"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 58,
+      "question": "Chèn vào trang một Shape hoặc WordArt, khi các đối tượng này được chọn thì trên thanh Ribbon xuất hiện tab ___________ chứa các công cụ định dạng đối tượng được chọn",
+      "options": {
+        "a": "WordArt Tools",
+        "b": "Shape Tools",
+        "c": "Picture Tools",
+        "d": "Drawing tools"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 59,
+      "question": "Khi chèn WordArt vào trang, chức năng nào sau đây dùng để định dạng wordArt có dạng như hình",
+      "options": {
+        "a": "Text effect -> Transform",
+        "b": "Text effect -> Shadow",
+        "c": "Text effect -> Reflection",
+        "d": "Text effect -> Glow"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 60,
+      "question": "Thay đổi đơn vị đo trên thước của word, lựa chọn nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn tab File, Options, chọn trang Advanced, tại mục Show measurements in unit of, chọn loại đơn vị",
+        "b": "Chọn tab File, Options, chọn Proofing, tại mục Show measurements in unit of, chọn loại đơn vị",
+        "c": "Chọn tab File, Options, chọn General, tại mục Show measurements in unit of, chọn loại đơn vị",
+        "d": "Chọn tab File, Options, chọn Display, tại mục measurements in unit of, chọn loại đơn vị"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 61,
+      "question": "Lựa chọn nào sau đây là cách chèn công thức toán học?",
+      "options": {
+        "a": "Chọn tab Insert, click nút Equation trong nhóm lệnh Symbols",
+        "b": "Chọn tab Insert, click nút Equation trong nhóm lệnh Text",
+        "c": "Chọn tab Insert, click nút Equation trong nhóm lệnh Illutrations",
+        "d": "Chọn tab Insert, click nút Equation trong nhóm lệnh Equations"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 62,
+      "question": "Cách gán phím tắt cho symbol",
+      "options": {
+        "a": "Trong cửa sổ Symbol, chọn symbol, click nút Shortcut key",
+        "b": "Chọn symbol, chọn tab Insert, click nút Shortcut key",
+        "c": "Trong cửa sổ symbol, chọn tab Insert, click nút Shortcut key",
+        "d": "Không thể gán phím tắt cho symbol"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 63,
+      "question": "Cách nào sau đây KHÔNG dùng để chèn dấu ngắt trang?",
+      "options": {
+        "a": "Insert ->Page Break",
+        "b": "Page layout-> Breaks->Page",
+        "c": "Ctrl + Enter",
+        "d": "Shift + Enter"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 64,
+      "question": "Cách di chuyển đến bookmark",
+      "options": {
+        "a": "Mở hộp thoại Find and Replace, chọn tab Goto, chọn Bookmark, nhập tên bookmark, click Go to",
+        "b": "Mở hộp thoại Goto, chọn Bookmark, nhập tên bookmark, click Go to",
+        "c": "Mở hộp thoại Hyperlink, nhập tên bookmark, click Go to",
+        "d": "Mở hộp thoại Find, nhập tên bookmark, click Go to"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 65,
+      "question": "Tổ hợp phím nào dùng để tăng Font size",
+      "options": {
+        "a": "Ctrl + ]",
+        "b": "Ctrl + [",
+        "c": "Shift + F3",
+        "d": "Shift + F1"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 66,
+      "question": "Lệnh nào trong chức năng Change case dùng để định dạng chữ hoa đầu mỗi từ",
+      "options": {
+        "a": "Sentence case",
+        "b": "Uppercase",
+        "c": "Lowercase",
+        "d": "Capitaline each word"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 67,
+      "question": "Thao tác nào dùng để gạch chân từng từ",
+      "options": {
+        "a": "Mở hộp thoại Font, tại mục Underline style chọn Word only",
+        "b": "Trong menu của nút Underline trong nhóm lệnh Font, chọn Word only",
+        "c": "Chọn từng từ, và chọn chức năng Underline",
+        "d": "Mở hộp thoại Underline style chọn Word only"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 68,
+      "question": "Lựa chọn nào sau đây dùng để hiển thị thanh Document Properties",
+      "options": {
+        "a": "File ->Info-> Properties-> Show document Panel",
+        "b": "File ->general-> Properties-> Show document Panel",
+        "c": "File ->Advanced-> Properties-> Show document Panel",
+        "d": "File ->Info-> Properties-> Show document Properties"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 69,
+      "question": "Cách nào sau đây dùng để chèn thông tin của tài liệu vào Header hoặc Footer, sau cho nội dung này sẽ tự động cập nhật khi thông tin của tập tin thay đổi",
+      "options": {
+        "a": "Trong Header & Footer Tools, click nút Document Info trong nhóm lệnh Insert",
+        "b": "Chọn tab File, click nút Document properties, click nút Insert",
+        "c": "Chọn tab Insert, click nút Document Info trong nhóm lệnh Text",
+        "d": "Trong Header & Footer Tools, chọn tab Insert, click nút Document Info"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 70,
+      "question": "Tổ hợp phím tắt nào dùng để tạo chỉ số trên Superscript",
+      "options": {
+        "a": "Ctr + Shift + ‘+’",
+        "b": "Ctr + ‘+’",
+        "c": "Ctr + Alt + ‘+’",
+        "d": "Shift + ‘+’"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 71,
+      "question": "Khi chọn một SmartArt được chèn vào trang thì trên thanh Ribbon xuất hiện tab_______ chứa các công cụ định dạng SmartArt",
+      "options": {
+        "a": "SmartArt Tools",
+        "b": "Drawing Tools",
+        "c": "Picture Tools",
+        "d": "Shape Tools"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 72,
+      "question": "Thực hiện chức năng trộn thư (Mail merge) bằng wizard bao gồm mấy bước?",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 73,
+      "question": "Chức năng nào sau đây KHÔNG có trong hộp thoại Font",
+      "options": {
+        "a": "Font style",
+        "b": "Font color",
+        "c": "Underline style",
+        "d": "Line Spacing"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 74,
+      "question": "Chức năng nào chỉ định việc tìm kiếm phân biệt chữ hoa và chữ thường",
+      "options": {
+        "a": "Match case",
+        "b": "Match prefix",
+        "c": "Match suffix",
+        "d": "Use wildcards"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 75,
+      "question": "Chức năng nào dùng để tìm các ký tự đặc biệt",
+      "options": {
+        "a": "Special",
+        "b": "Format",
+        "c": "Special character",
+        "d": "Không có chức năng tìm ký tự đặc biệt"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 76,
+      "question": "Có bao nhiêu cách để chèn một bảng vào trang tài liệu",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 77,
+      "question": "Cách nào sau đây dùng để chèn vào trang một bảng mà có thể thực hiện tính toán như một bảng tính excel",
+      "options": {
+        "a": "Draw table",
+        "b": "Convert text to table",
+        "c": "Excel spreadsheet",
+        "d": "Quick table"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 78,
+      "question": "Lựa chọn nào sau đây dùng để thiết lập khoảng cách giữa các đoạn",
+      "options": {
+        "a": "Chọn tab Page layout, trong nhóm lệnh Paragraph, chỉ định khoảng cách trong mục spacing",
+        "b": "Chọn tab Home, trong nhóm lệnh Paragraph, chọn line spacing",
+        "c": "Chọn tab Page layout, trong nhóm lệnh Paragraph, chọn paragraph spacing",
+        "d": "Chọn tab Page layout, page setup, chọn paragraph spacing"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 79,
+      "question": "Để chọn nhiều ô, (hoặc hàng, hoặc cột) trong một bảng mà không liền kề với nhau, ta chọn ô (hoặc hàng, cột) đầu tiên và sau đó giữ phím _____ khi lựa chọn ô, (hoặc hàng, cột) tiếp theo",
+      "options": {
+        "a": "Alt",
+        "b": "Shift",
+        "c": "Enter",
+        "d": "Ctrl"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 80,
+      "question": "Khi nhập dữ liệu vào bảng, nhấn phím _____để chuyển con trỏ sang ô kế tiếp",
+      "options": {
+        "a": "Tab",
+        "b": "Shift",
+        "c": "Enter",
+        "d": "Ctrl"
+      },
+      "answer": "a"
+    }
+  ]
+}

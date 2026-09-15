@@ -1,0 +1,225 @@
+{
+  "title": "Tin học văn phòng - PowerPoint (đề 8)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Loại hiệu ứng nào dùng để gán cho đối tượng để đối tượng thoát khỏi màn hình đang trình chiếu?",
+      "options": {
+        "a": "Entrance",
+        "b": "Emphasis",
+        "c": "Exit",
+        "d": "Motion Path"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 2,
+      "question": "Phát biểu nào sau đây là sai khi gán hiệu ứng cho các đối tượng trên slide?",
+      "options": {
+        "a": "Một đối tượng trên slide chỉ được gán một hiệu ứng",
+        "b": "Một đối tượng có thể gán nhiều hiệu ứng",
+        "c": "Nhiều đối tượng có thể gán cùng một loại hiệu ứng",
+        "d": "Có thể gán âm thanh kèm theo hiệu ứng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 3,
+      "question": "Thao tác nào sau đây dùng để chọn một hyperlink trong slide khi đang trình chiếu?",
+      "options": {
+        "a": "Ctrl + K",
+        "b": "Ctrl + H",
+        "c": "Tab",
+        "d": "Ctrl + L"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 4,
+      "question": "Hiệu ứng đặc biệt được sử dụng để giới thiệu các slide trong một bài thuyết trình được gọi là?",
+      "options": {
+        "a": "Effects",
+        "b": "Custom animations",
+        "c": "Transitions",
+        "d": "Present animations"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 5,
+      "question": "Cách nào sau đây dùng để đưa ảnh nền thống nhất cho tất cả slide?",
+      "options": {
+        "a": "Tạo template",
+        "b": "Tạo slide master",
+        "c": "Sử dụng Autocorrect wizard",
+        "d": "Sử dụng Background"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 6,
+      "question": "Cách nào sau đây dùng để tạo ra các trang chú thích, ghi chú và logo hiển thị trên mỗi trang?",
+      "options": {
+        "a": "Chèn chú thích và logo vào slide master",
+        "b": "Chèn chú thích và logo vào từng slide riêng biệt",
+        "c": "Chèn logo vào chú thích của slide",
+        "d": "Không thể chèn chú thích vào slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 7,
+      "question": "Kiểu View nào không là kiểu View trong PowerPoint?",
+      "options": {
+        "a": "Slide Show View",
+        "b": "Slide View",
+        "c": "Outline view",
+        "d": "Presentation"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 8,
+      "question": "Trong PowerPoint, kiểu View nào là tốt nhất để thêm hiệu ứng transitions?",
+      "options": {
+        "a": "Slide show view",
+        "b": "Slide sorter view",
+        "c": "Slide view",
+        "d": "Notes view"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 9,
+      "question": "Tổ hợp phím tắt nào sau đây để ẩn/hiện các lệnh trên thanh Ribbon?",
+      "options": {
+        "a": "Shift + F1",
+        "b": "Ctrl + F1",
+        "c": "Alt + F1",
+        "d": "Ctrl + Shift + F1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Chức năng Format Painter được sử dụng để làm gì?",
+      "options": {
+        "a": "Để làm cho bức tranh trên slide phong phú hơn",
+        "b": "Để tạo một hình nền đẹp trên một slide",
+        "c": "Để sao chép định dạng của một đối tượng này sang đối tượng khác và ngược lại",
+        "d": "Để thay đổi màu nền của slide"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "Để tên tác giả xuất hiện ở cuối mỗi slide khi trình chiếu, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn tab Insert, trong nhóm lệnh Text, click Header & Footer, nhập tên tác giả vào Footer",
+        "b": "Chọn tab Insert, trong nhóm lệnh Slide, click Header & Footer, nhập tên tác giả vào Footer",
+        "c": "Chọn tab Insert, trong nhóm lệnh Slide, chọn Slide Master, click nút Header & Footer",
+        "d": "Chọn tab Insert, click Header & Footer, nhập tên tác giả vào Footer"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 12,
+      "question": "Để xem trước hiệu ứng motion path, trong Animation Pane, thực hiện chức năng nào sau đây?",
+      "options": {
+        "a": "Show effect button",
+        "b": "Click nút Play from",
+        "c": "Double click vào motion path",
+        "d": "Click nút Play"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 13,
+      "question": "Cách nào sau đây dùng để gán hiệu ứng chuyển từ slide này sang slide khác?",
+      "options": {
+        "a": "Chọn tab Transitions, chọn loại hiệu ứng trong nhóm lệnh Transition to This Slide",
+        "b": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh Animation",
+        "c": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh Transition",
+        "d": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm Slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Chọn tab Transitions, tại mục Duration, nhập 0:05 giây, click Apply to All Slide, thao tác này để làm gì?",
+      "options": {
+        "a": "Chỉ định thời gian trình chiếu một slide",
+        "b": "Khoảng thời gian từ khi kết thúc slide trước đến khi slide tiếp theo được trình chiếu",
+        "c": "Slide tự động trình chiếu sau 00:05 giây",
+        "d": "Xác định thời gian chuyển từ slide này đến slide kế tiếp"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 15,
+      "question": "Để in các Slide theo thứ tự 1,3,6,9, chọn tab File, chọn trang Print và thực hiện thao tác nào sau đây?",
+      "options": {
+        "a": "Chọn Print Current Slide",
+        "b": "Trong khung Slide, nhập 1,3,6,9",
+        "c": "Chọn All, nhập 1,3,6,9",
+        "d": "Setting, chọn Slides, nhập 1,3,6,9"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 16,
+      "question": "Chèn 1 đoạn nhạc vào Slide và thiết lập thuộc tính “Play across slides”, ý nghĩa của thuộc tính này là gì?",
+      "options": {
+        "a": "Đoạn nhạc sẽ chạy xuyên suốt slide",
+        "b": "Chạy hết đoạn nhạc mới chuyển slide",
+        "c": "Tự động tắt nhạc khi trình chiếu",
+        "d": "Không biểu hiện gì khi thực hiện trình chiếu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Khi gán hiệu ứng cho các đối tượng, thuộc tính nào cần thiết lập để đối tượng sau tự động xuất hiện sau đối tượng trước đó?",
+      "options": {
+        "a": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start With Previous",
+        "b": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start on Click",
+        "c": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start After Previous",
+        "d": "Chọn đối tượng, chọn tab Transitions, chọn hiệu ứng, chọn lệnh Start After Previous"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Nếu bạn sử dụng email để gửi một file PowerPoint đến một người dùng khác, bạn có thể thêm nó vào trong email như là một:",
+      "options": {
+        "a": "Inclusion",
+        "b": "Attachment",
+        "c": "Reply",
+        "d": "Forward"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 19,
+      "question": "Để khởi động ứng dụng PowerPoint từ cửa sổ Run, thao tác nào sau đây đúng?",
+      "options": {
+        "a": "Nhấn Ctrl + R, nhập MSPowerpoint.exe nhấn Enter",
+        "b": "Nhấn Ctrl + R, sau đó gõ: POWERPNT.EXE, nhấn Enter",
+        "c": "Nhấn Ctrl + R, nhập powerpoint.exe nhấn Enter",
+        "d": "Nhấn Ctrl + R, nhập ppoint.exe nhấn Enter"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 20,
+      "question": "Một bài trình chiếu có thể được tạo ra từ",
+      "options": {
+        "a": "Một presentation trống",
+        "b": "Một presentation có sẵn",
+        "c": "Một presentation mẫu",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    }
+  ]
+}

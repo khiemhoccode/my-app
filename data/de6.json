@@ -1,0 +1,236 @@
+{
+  "title": "Tin học văn phòng - Excel (đề 6)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Thông báo lỗi nào cho biết khi một số có định dạng rộng hơn độ rộng của một ô.",
+      "options": {
+        "a": "####",
+        "b": "Div/0!",
+        "c": "#div@",
+        "d": "#REF!"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "khi cần biểu diễn xu hướng doanh thu của nhân viên bán hàng trong mỗi tháng , biểu thị nào phù hợp nhất",
+      "options": {
+        "a": "pie chart",
+        "b": "Row chart",
+        "c": "Line char",
+        "d": "Colum chart"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 3,
+      "question": "Để giữ cột tiêu đề hoặc dòng tiêu đề ở vị trí cố định sao cho chúng không di chuyển khi cuộn bảng tính, lênh nào được sử dụng.",
+      "options": {
+        "a": "Unfreeze Panes",
+        "b": "Freeze Panes",
+        "c": "Split",
+        "d": "Hold titles"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "Khi sao chép một công thức",
+      "options": {
+        "a": "Excel xóa bản gốc của công thức",
+        "b": "Excex chỉnh sửa các ô tham chiếu trong công thức mới được sao chép",
+        "c": "Excel sẽ điều chỉnh các ô tham chiếu tuyệt đối",
+        "d": "Excel không điều chỉnh các ô tham chiếu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Lựa chọn náo sau đâykhông là dữ kiệu hợp lệ trong excel",
+      "options": {
+        "a": "Number",
+        "b": "Character",
+        "c": "Label",
+        "d": "Date/time"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 6,
+      "question": "Lệnh nào sau đây để tách cửa sổ làm việc của Excel thành hai của sổ",
+      "options": {
+        "a": "Chọn tab Wiew  splip",
+        "b": "Chọn tab view windown slip",
+        "c": "chọn tab Home  splip",
+        "d": "chọn tab ReView  Splip"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 7,
+      "question": "ký hiệu nao sau đây là nối chuỗi",
+      "options": {
+        "a": "’",
+        "b": "!",
+        "c": "#",
+        "d": "&"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 8,
+      "question": "Trong excel , có thực hiện phép tính  tổng của nhiều dãy nhiều ô nằm liền kề nhau 1 cách tự động bằng cách chọn chức năng nào đây",
+      "options": {
+        "a": "autofill",
+        "b": "anto correct",
+        "c": "Auto sum",
+        "d": "auto format"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 9,
+      "question": "Hàm nào sau đây dùng để lấy phần dư của phép chia",
+      "options": {
+        "a": "Round",
+        "b": "fact",
+        "c": "mod",
+        "d": "div"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 10,
+      "question": "Thiết lập định dạng  cho ô dữ liệu chứa dự liệu sô 5436.8 có dạng #,##0.00, kết quả hiển thị là gì?",
+      "options": {
+        "a": "5,430.00",
+        "b": "5,436.80",
+        "c": "5,436.8",
+        "d": "5,437.00"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 11,
+      "question": "Hàm nào trả về ngày và giờ hiện hành của máy?",
+      "options": {
+        "a": "Date",
+        "b": "today",
+        "c": "Now()",
+        "d": "time"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 12,
+      "question": "Hàm COUNT() dùng để đếm _______",
+      "options": {
+        "a": "Các ô chứa dự liệu số",
+        "b": "các ô chứa dữ liệu text",
+        "c": "các ô rỗng",
+        "d": "các ô không rỗng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Tổ hợp phím nào dùng để chọn một cột",
+      "options": {
+        "a": "ctrl + space Bar",
+        "b": "ctril + page up",
+        "c": "ctril + Enter",
+        "d": "ctril +shift +Enter"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Excel hiển thị địa chỉ của ô hiện hành trong _______",
+      "options": {
+        "a": "formula bar",
+        "b": "status bar",
+        "c": "Name Box",
+        "d": "title bar"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 15,
+      "question": "Phims tắt nào để tạo biểu đồ biểu diễn khối dữ liệu đang được chọn , biểu đồ tạo trong một sheet mới",
+      "options": {
+        "a": "f2",
+        "b": "f4",
+        "c": "f8",
+        "d": "F11"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 16,
+      "question": "Công thức nào sau đây dùng để tìm giá trị cao nhất trong một giá trị:",
+      "options": {
+        "a": "MAX(B1:B3)",
+        "b": "MAXIMUM(B1:B3)",
+        "c": "HIGH(B1:B3)",
+        "d": "HIGHEST(B1:B3)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Trong excel ,tổ hợp phím nào sau đây dùng để chèn ngày hiện hành",
+      "options": {
+        "a": "ctril +D",
+        "b": "ctril +T",
+        "c": "Ctrl + ;",
+        "d": "ctril +/"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Nếu nhập 4/6 vào một ô trong bảng tính excel, không bất cứ định dạng nào thì excel kiểu dự liệu nào?",
+      "options": {
+        "a": "Phân số",
+        "b": "Số",
+        "c": "Text",
+        "d": "Ngày"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 19,
+      "question": "Ô A1 chứa chuỗi “what you see”B1 chứa chuỗi “what you get”,công thức nào sau đây trả về chuỗi “ what you see is what you get”",
+      "options": {
+        "a": "A1&”is”&B1",
+        "b": "A1+”is”+B1",
+        "c": "A1#”is”#B1",
+        "d": "A1$”is”$B1"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "Tổ phím nào dùng để ẩn một dòng trong bảng tính",
+      "options": {
+        "a": "Ctril +H",
+        "b": "Ctril +R",
+        "c": "ctrl + 9",
+        "d": "Ctril + -"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 21,
+      "question": "lựa chọn giúp người định dạng tất cả các số âm có dạng đậm , màu đỏ ,gọi là:",
+      "options": {
+        "a": "Condition Formating",
+        "b": "Compare Formating",
+        "c": "Negative Formating",
+        "d": "Zero Formating"
+      },
+      "answer": "c"
+    }
+  ]
+}

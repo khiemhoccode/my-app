@@ -1,0 +1,445 @@
+{
+  "title": "Trắc nghiệm Tin học văn phòng - 01",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Người và máy tính giao tiếp thông qua ?",
+      "options": {
+        "a": "Bàn phím và màn hình",
+        "b": "Hệ điều hành",
+        "c": "RAM",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "CPU là một từ viết tắt của ?",
+      "options": {
+        "a": "Center Progress of Universal",
+        "b": "Central Processing Unit",
+        "c": "Control Processing Unit",
+        "d": "Control Protocol Uniform"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 3,
+      "question": "Hệ điều hành nào sau đây không sử dụng cho máy tính ?",
+      "options": {
+        "a": "LINUX",
+        "b": "Windows XP",
+        "c": "ANDROID",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 4,
+      "question": "Window 10 là phần mềm gì ?",
+      "options": {
+        "a": "Phần mềm công cụ",
+        "b": "Phần mềm hệ thống",
+        "c": "Phần mềm ứng dụng",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Trong soạn thảo Word, muốn chọn một từ, ta thực hiện ?",
+      "options": {
+        "a": "Click chuột vào từ cần chọn",
+        "b": "Double click vào từ cần chọn",
+        "c": "Bấm tổ hợp phím Ctrl + C",
+        "d": "Bấm tổ hợp phím Ctrl + Home"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 6,
+      "question": "Trong soạn thảo Word, để chèn các kí tự đặc biệt vào văn bản, ta thực hiện ?",
+      "options": {
+        "a": "View -- Symbol",
+        "b": "Tools -- Symbol",
+        "c": "Format -- Symbol",
+        "d": "Insert -- Symbol"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 7,
+      "question": "Cho trước một bảng dữ liệu ghi kết quả cuộc thi chạy cự ly 100m. Cột thời gian chạy của các vận động viên có địa chỉ từ ô D2 đến D12. Để điền công thức xếp vị thứ hạng cho vận động viên (ô D2) thì dùng công thức:",
+      "options": {
+        "a": "=RANK(D2,D2:D12)",
+        "b": "=RANK(D2,$D$2:$D$12)",
+        "c": "=RANK(D2,$D$2:$D$12,1)",
+        "d": "=RANK(D2,$D$2:$D$12,0)"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 8,
+      "question": "Với ĐTB cuối năm là 6.5, Lê Hoàng Vy sẽ đạt xếp loại gì khi biết công thức IF(ĐTB<5, \"Yếu\", IF(ĐTB<6.5, \"TB\", IF(ĐTB<8, \"Khá\", \"Giỏi\"))) ?",
+      "options": {
+        "a": "Giỏi",
+        "b": "Khá",
+        "c": "TB",
+        "d": "Yếu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 9,
+      "question": "Để tạo hiệu ứng cho 1 Slide, bạn sử dụng lựa chọn nào ?",
+      "options": {
+        "a": "Animations -> Add Animation",
+        "b": "Animations -> Animation",
+        "c": "Transitions -> Effect Options",
+        "d": "Transitions -> Transition to this Slide"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 10,
+      "question": "Chức năng Animations/Timing/Delay dùng để ?",
+      "options": {
+        "a": "Thiết lập thời gian chờ trước khi slide được trình chiếu",
+        "b": "Thiết lập thời gian hoạt động cho tất cả các hiệu ứng",
+        "c": "Thiết lập thời gian chờ trước khi hiệu ứng bắt đầu",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "Trong một địa chỉ Email, kí tự nào là kí tự phải có ?",
+      "options": {
+        "a": "=",
+        "b": ":",
+        "c": "!",
+        "d": "@"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Khi truy cập vào một ứng dụng mạng hay internet điều gì sau đây là không thể được ?",
+      "options": {
+        "a": "Hai Username có cùng một Password",
+        "b": "Một Username có hai Password",
+        "c": "Một Username có một Password",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 13,
+      "question": "RAM là gì ?",
+      "options": {
+        "a": "Read Access Memory",
+        "b": "Random Access Memory",
+        "c": "Rewrite Access Memory",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 14,
+      "question": "Thành phần của máy tính bao gồm ?",
+      "options": {
+        "a": "Bộ xử lý trung tâm, bộ nhớ, thiết bị nhập",
+        "b": "Bộ nhớ, thiết bị nhập xuất",
+        "c": "Bộ xử lý trung tâm, bộ nhớ, màn hình, chuột, bàn phím",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 15,
+      "question": "Để đóng cửa sổ trong Windows, ta sử dụng tổ hợp phím ?",
+      "options": {
+        "a": "Alt + F4",
+        "b": "Ctrl + Tab",
+        "c": "Ctrl + Alt + Delete",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 16,
+      "question": "Trong các phần mềm sau, đâu là phần mềm ứng dụng ?",
+      "options": {
+        "a": "Windows 8",
+        "b": "Microsoft Word",
+        "c": "Linux",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 17,
+      "question": "Trong Word, tổ hợp Ctrl + Shift + Enter có chức năng ?",
+      "options": {
+        "a": "Ngắt dòng",
+        "b": "Ngắt đoạn",
+        "c": "Ngắt cột",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Trong Word, để chèn hình vào văn bản, ta chọn biểu tượng ?",
+      "options": {
+        "a": "Images",
+        "b": "Snapshot",
+        "c": "Pictures",
+        "d": "Comment"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 19,
+      "question": "Kết quả của biểu thức =ROUND(1200200,-3) sẽ là ?",
+      "options": {
+        "a": "False",
+        "b": "1201000",
+        "c": "#VALUE",
+        "d": "1200000"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 20,
+      "question": "Trong bảng tính Excel, giá trị trả về của công thức =LEN(\"TRUNG TAM TIN HOC\") là ?",
+      "options": {
+        "a": "15",
+        "b": "16",
+        "c": "17",
+        "d": "18"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 21,
+      "question": "Muốn tô nền cho 1 textbox trong slide hiện hành, sau khi đã chọn Textbox đó ta thực hiện ?",
+      "options": {
+        "a": "Chọn Format -> Chọn Text Fill",
+        "b": "Chọn Format -> Chọn Text Outline",
+        "c": "Chọn Format -> Shape Fill",
+        "d": "Chọn Format -> Shape Outline"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 22,
+      "question": "Muốn chữ \"Powerpoint\" trong một văn bản định dạng thành chữ vừa gạch chân vừa in đậm, ta ?",
+      "options": {
+        "a": "Bấm Ctrl + U",
+        "b": "Bấm Ctrl + U + B",
+        "c": "Bấm Ctrl + B",
+        "d": "Bấm Ctrl + U rồi Ctrl + B (hoặc ngược lại)"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 23,
+      "question": "Khi một dòng chủ đề trong thư ta nhận được bắt đầu bằng chữ RE:; thì thông thường thư là ?",
+      "options": {
+        "a": "Thư rác, thư quảng cáo",
+        "b": "Thư mới",
+        "c": "Thư của nhà cung cấp dịch vụ E-mail mà ta đang sử dụng",
+        "d": "Thư trả lời cho thư mà ta đã gởi trước đó"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 24,
+      "question": "Website Yahoo.com hoặc gmail.com không cho phép người sử dụng thực hiện?",
+      "options": {
+        "a": "Nhận thư",
+        "b": "Live stream",
+        "c": "Tạo hộp thư",
+        "d": "Gởi thư"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 25,
+      "question": "RAM và ROM là gì?",
+      "options": {
+        "a": "Primary memory",
+        "b": "Secondary memory",
+        "c": "Receive memory",
+        "d": "Random Access Memory"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 26,
+      "question": "Chữ viết tắt MB thường gặp trong các tài liệu về máy tính có nghĩa là gì ?",
+      "options": {
+        "a": "Đơn vị đo độ phân giải màn hình",
+        "b": "Đơn vị đo cường độ âm thanh",
+        "c": "Đơn vị đo tốc độ xử lý",
+        "d": "Đơn vị đo khả năng lưu trữ"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 27,
+      "question": "Trong soạn thảo Word, tổ hợp phím nào cho phép đưa con trỏ về cuối văn bản?",
+      "options": {
+        "a": "Shift + End",
+        "b": "Alt + End",
+        "c": "Ctrl + End",
+        "d": "Ctrl + Alt + End"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 28,
+      "question": "Trong bảng tính Excel, hàm Today() trả về?",
+      "options": {
+        "a": "Số ngày trong tháng",
+        "b": "Ngày hiện hành của hệ thống",
+        "c": "Số tháng trong năm",
+        "d": "Số giờ trong ngày"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 29,
+      "question": "Để tạo một slide giống hệt slide hiện hành mà không phải thiết kế lại, người sử dụng cần chọn ?",
+      "options": {
+        "a": "Vào Insert -> chọn New slide",
+        "b": "Vào Insert -> chọn Duplicate",
+        "c": "Vào Insert-> chọn Duplicate select slide",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 30,
+      "question": "Chức năng Bookmark của trình duyệt web dùng để?",
+      "options": {
+        "a": "Lưu trang web về máy tính",
+        "b": "Đặt làm trang chủ",
+        "c": "Đánh dấu trang web trên trình duyệt",
+        "d": "Không thực hiện được"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 31,
+      "question": "Phát biểu nào không đúng về CPU?",
+      "options": {
+        "a": "Là bộ xử lý trung tâm",
+        "b": "Có bộ số học - logic và bộ nhớ",
+        "c": "Có tốc độ làm việc cực nhanh",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 32,
+      "question": "Các tập tin sau khi đã xóa bằng tổ hợp phím Shift + Delete ?",
+      "options": {
+        "a": "Có thể phục hồi khi mở Recycle Bin",
+        "b": "Có thể phục hồi khi mở My Computer",
+        "c": "Chỉ có tập tin *.doc là có thể phục hồi",
+        "d": "Không thể phục hồi từ Recycle Bin"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 33,
+      "question": "Trong soạn thảo Word, muốn tách một ô trong Table thành nhiều ô, ta thực hiện ?",
+      "options": {
+        "a": "Table -- Merge Cells",
+        "b": "Tools -- Merge Cells",
+        "c": "Table -- Split Cells",
+        "d": "Tools -- Split Cells"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 34,
+      "question": "Trong bảng tính Excel, A4 = 4, A2 = 5, A3 = 6, A7 = 7. Tại B2 lập công thức B2 = Sum(A4,A2,Count(A3,A4)). Kết quả B2 là ?",
+      "options": {
+        "a": "9",
+        "b": "10",
+        "c": "11",
+        "d": "Lỗi"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 35,
+      "question": "Để vẽ đồ thị trong Slide ta chọn ?",
+      "options": {
+        "a": "File/ Chart",
+        "b": "Design/ Chart",
+        "c": "View/ Chart",
+        "d": "Insert/ Chart"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 36,
+      "question": "Để tìm thông tin \"sinh viên\" trên trang web www.iuh.edu.vn và không lấy kết quả từ các trang web khác, từ khóa tìm kiếm nào đúng ?",
+      "options": {
+        "a": "sinh viên IN: www.iuh.edu.vn",
+        "b": "sinh viên SITE: www.iuh.edu.vn",
+        "c": "sinh viên ON: www.iuh.edu.vn",
+        "d": "sinh viên FROM: www.iuh.edu.vn"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 37,
+      "question": "Đĩa cứng là ?",
+      "options": {
+        "a": "Thiết bị lưu trữ trong",
+        "b": "Thiết bị lưu trữ nhanh",
+        "c": "Thiết bị lưu trữ ngoài",
+        "d": "Thiết bị xuất dữ liệu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 38,
+      "question": "Phát biểu nào sau đây là đúng nhất ?",
+      "options": {
+        "a": "Hệ điều hành chỉ quản lý thư mục hoặc tập tin",
+        "b": "Thư mục có thể chứa thư mục con và tập tin",
+        "c": "Tập tin có thể chứa thư mục",
+        "d": "Hệ điều hành chỉ quản lý thư mục gốc, không quản lý thư mục con"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 39,
+      "question": "Trong bảng tính Excel, ô C2 chứa hạng của học sinh. Công thức nào tính học bổng theo điều kiện: Nếu xếp hạng từ hạng một đến hạng ba thì được học bổng 200000, còn lại thì để trống ?",
+      "options": {
+        "a": "=IF(C2>=3, 200000, 0)",
+        "b": "=IF(C2<=3, 0, 200000)",
+        "c": "=IF(C2<3, 200000, \"\")",
+        "d": "=IF(C2<=3, 200000, \"\")"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 40,
+      "question": "Vì sao việc mở các tập tin đính kèm thư điện tử lại nguy hiểm ?",
+      "options": {
+        "a": "Vì phải trả tiền dịch vụ",
+        "b": "Vì tập tin đính kèm có thể chứa virus",
+        "c": "Vì tệp đính kèm có dung lượng lớn nên máy tính không chứa được",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "b"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Kết quả</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="wrap">
+    <div class="card result-summary">
+      <h1>Kết quả bài thi</h1>
+      <p class="muted">{{ deck_title }}</p>
+      {% if scored_total > 0 %}
+      <p class="score">{{ score }} / {{ scored_total }} câu đúng</p>
+      <p class="percent">({{ percent }}%)</p>
+      {% if scored_total < total %}
+      <p class="muted small">({{ total - scored_total }} câu trong đề chưa có đáp án nên không được tính điểm)</p>
+      {% endif %}
+      {% else %}
+      <p class="muted">Đề này chưa có đáp án đúng nên chưa thể chấm điểm. Bạn có thể xem lại các lựa chọn mình đã chọn bên dưới.</p>
+      {% endif %}
+      <a href="{{ url_for('home') }}" class="btn">Làm lại</a>
+    </div>
+
+    <h2 class="review-title">Xem lại chi tiết</h2>
+
+    {% for d in details %}
+    <div class="card question {% if d.correct %}{{ 'ok' if d.is_correct else 'bad' }}{% endif %}">
+      <p class="qtitle">Câu {{ loop.index }}. {{ d.question }}</p>
+      <p class="muted small deck-source">{{ d.deck_title }}</p>
+      <div class="options">
+        {% for letter, text in d.options.items() %}
+        <div class="option review
+          {% if d.correct and letter == d.correct %} correct{% endif %}
+          {% if letter == d.chosen and letter != d.correct %} wrong{% endif %}
+          {% if not d.correct and letter == d.chosen %} chosen-neutral{% endif %}">
+          <span class="letter">{{ letter }}.</span> {{ text }}
+          {% if d.correct and letter == d.correct %}<span class="tag tag-correct">Đáp án đúng</span>{% endif %}
+          {% if letter == d.chosen and letter != d.correct %}<span class="tag tag-wrong">Bạn chọn</span>{% endif %}
+          {% if not d.correct and letter == d.chosen %}<span class="tag tag-neutral">Bạn chọn</span>{% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      {% if not d.chosen %}<p class="muted small">Bạn chưa chọn đáp án cho câu này.</p>{% endif %}
+      {% if not d.correct %}<p class="muted small">Câu này chưa có đáp án đúng trong hệ thống.</p>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>

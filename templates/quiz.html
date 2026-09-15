@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>{{ deck_title }} - Đang làm bài</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="progress-text">{{ deck_title }} — Trả lời: <span id="answeredCount">0</span> / {{ questions|length }}</div>
+      <div class="timer" id="timer">30:00</div>
+    </div>
+  </div>
+
+  <form class="wrap" id="quizForm" method="POST" action="{{ url_for('submit_quiz') }}">
+    {% for q in questions %}
+    <div class="card question">
+      <p class="qtitle">Câu {{ loop.index }}. {{ q.question }}</p>
+      <div class="options">
+        {% for letter, text in q.options %}
+        <label class="option">
+          <input type="radio" name="q_{{ q.key }}" value="{{ letter }}" onchange="updateAnswered()">
+          <span>{{ text }}</span>
+        </label>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="card submit-area">
+      <button type="submit" class="btn" onclick="return confirmSubmit()">Nộp bài</button>
+    </div>
+  </form>
+
+<script>
+let remaining = {{ remaining }};
+const timerEl = document.getElementById('timer');
+const form = document.getElementById('quizForm');
+
+function formatTime(s) {
+  const m = Math.floor(s / 60);
+  const sec = s % 60;
+  return String(m).padStart(2, '0') + ':' + String(sec).padStart(2, '0');
+}
+
+function tick() {
+  timerEl.textContent = formatTime(remaining);
+  if (remaining <= 300) {
+    timerEl.classList.add('warning');
+  }
+  if (remaining <= 0) {
+    timerEl.textContent = '00:00';
+    form.submit(); // hết giờ -> tự nộp bài
+    return;
+  }
+  remaining -= 1;
+  setTimeout(tick, 1000);
+}
+tick();
+
+function updateAnswered() {
+  const total = {{ questions|length }};
+  const names = new Set();
+  document.querySelectorAll('#quizForm input[type=radio]:checked').forEach(el => names.add(el.name));
+  document.getElementById('answeredCount').textContent = names.size;
+}
+
+function confirmSubmit() {
+  return confirm('Bạn có chắc muốn nộp bài không?');
+}
+</script>
+</body>
+</html>
