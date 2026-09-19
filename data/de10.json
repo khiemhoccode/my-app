@@ -1,0 +1,1798 @@
+{
+  "title": "Trắc nghiệm Tin học văn phòng - Đề 10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Trong tab Layout của Word, nhóm công cụ nào cho phép điều chỉnh lề trang?",
+      "options": {
+        "a": "Paragraph",
+        "b": "Page Setup",
+        "c": "Page Background",
+        "d": "Text Layout"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "Để tạo Watermark trong Word 2019, chọn tab:",
+      "options": {
+        "a": "Insert",
+        "b": "Review",
+        "c": "Design",
+        "d": "Layout"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 3,
+      "question": "Để thiết lập khổ giấy A4 trong Word, chọn:",
+      "options": {
+        "a": "File → Save As",
+        "b": "Design → Page Color",
+        "c": "Layout → Size",
+        "d": "Review → Language"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 4,
+      "question": "Margins → Custom Margins dùng để:",
+      "options": {
+        "a": "Chọn mẫu trang in có sẵn",
+        "b": "Nhập thông số lề theo ý muốn",
+        "c": "Thay đổi khổ giấy",
+        "d": "Đổi hướng trang"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Để đổi hướng giấy từ dọc Portrait sang ngang Landscape, chọn:",
+      "options": {
+        "a": "File → Options",
+        "b": "Design → Themes",
+        "c": "Layout → Orientation",
+        "d": "View → Layout"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 6,
+      "question": "Mục đích thường gặp của Watermark là:",
+      "options": {
+        "a": "Tăng tốc độ in",
+        "b": "Chèn hình ảnh nền trang",
+        "c": "Thêm văn bản chìm để đánh dấu bản thảo",
+        "d": "Thay đổi font mặc định"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 7,
+      "question": "Page Borders trong Word dùng để:",
+      "options": {
+        "a": "Căn lề văn bản",
+        "b": "Tạo khung viền cho trang",
+        "c": "Đổi hướng trang",
+        "d": "Tạo số trang tự động"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 8,
+      "question": "Muốn áp dụng Watermark chỉ cho một số trang cụ thể, trước tiên cần:",
+      "options": {
+        "a": "Chèn hình ảnh vào Header",
+        "b": "Tách tài liệu thành các Section khác nhau",
+        "c": "Dùng Page Color",
+        "d": "Đổi kiểu Font"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 9,
+      "question": "Lề chuẩn thường được sử dụng trong văn bản hành chính Việt Nam là:",
+      "options": {
+        "a": "Trái 1.5 cm; Phải 1 cm; Trên 2 cm; Dưới 2 cm",
+        "b": "Trái 3 cm; Phải 2 cm; Trên 2 cm; Dưới 2 cm",
+        "c": "Trái 2 cm; Phải 2 cm; Trên 1 cm; Dưới 1 cm",
+        "d": "Trái 4 cm; Phải 2.5 cm; Trên 2.5 cm; Dưới 2 cm"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Trong Page Setup có thể thiết lập:",
+      "options": {
+        "a": "Lề trang, khổ giấy, hướng giấy",
+        "b": "Kiểu Font",
+        "c": "Kiểu đánh số trang",
+        "d": "Màu nền trang"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 11,
+      "question": "Chức năng Margins trong Layout dùng để:",
+      "options": {
+        "a": "Thay đổi khoảng cách giữa các dòng",
+        "b": "Thay đổi kích thước trang giấy",
+        "c": "Thiết lập lề trên, dưới, trái, phải",
+        "d": "Chèn lề vào đầu đoạn"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 12,
+      "question": "Trong tab Layout, Orientation dùng để:",
+      "options": {
+        "a": "Căn trái/phải văn bản",
+        "b": "Chọn hướng giấy ngang hoặc dọc",
+        "c": "Xoay chữ trong bảng",
+        "d": "Căn giữa đoạn văn"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 13,
+      "question": "Chức năng Size trong Page Setup dùng để:",
+      "options": {
+        "a": "Chọn cỡ chữ",
+        "b": "Thay đổi khổ giấy như A4, Letter, Legal",
+        "c": "Đổi độ rộng lề",
+        "d": "Thay đổi kích thước bảng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 14,
+      "question": "Columns trong tab Layout dùng để:",
+      "options": {
+        "a": "Thêm cột cho bảng",
+        "b": "Chia văn bản thành nhiều cột giống như báo",
+        "c": "Thêm cột trong biểu đồ",
+        "d": "Tăng khoảng cách dòng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 15,
+      "question": "Muốn thay đổi khoảng cách giữa các đoạn văn bản trước hoặc sau đoạn, dùng:",
+      "options": {
+        "a": "Paragraph Spacing",
+        "b": "Line Spacing",
+        "c": "Indent",
+        "d": "Font"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 16,
+      "question": "Trong cửa sổ File Explorer, muốn hiển thị tập tin theo kiểu để xem thông tin chi tiết, chọn:",
+      "options": {
+        "a": "Details",
+        "b": "Small Icons",
+        "c": "Content",
+        "d": "List"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Trong Windows, tổ hợp phím nào dùng để mở cửa sổ Run?",
+      "options": {
+        "a": "Alt + R",
+        "b": "Ctrl + X",
+        "c": "Windows + R",
+        "d": "Ctrl + Alt + Delete"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Cách nào dùng để thiết lập định dạng ngày giờ hệ thống?",
+      "options": {
+        "a": "Click phải Taskbar → Date and Time",
+        "b": "Control Panel → Region",
+        "c": "Control Panel → Date and Time",
+        "d": "Taskbar Settings"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 19,
+      "question": "Sản phẩm đầu ra của máy in được gọi là gì?",
+      "options": {
+        "a": "Copy",
+        "b": "Hard Copy",
+        "c": "Soft Copy",
+        "d": "Paper"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 20,
+      "question": "Trong Windows, muốn xóa thư mục hoặc tập tin không đưa vào Recycle Bin, dùng:",
+      "options": {
+        "a": "Ctrl + Delete",
+        "b": "Delete",
+        "c": "Alt + Delete",
+        "d": "Shift + Delete"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 21,
+      "question": "Phần mở rộng của tập tin thể hiện:",
+      "options": {
+        "a": "Ngày giờ thay đổi tập tin",
+        "b": "Tên thư mục chứa tập tin",
+        "c": "Kích thước tập tin",
+        "d": "Kiểu tập tin"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 22,
+      "question": "Trên màn hình Desktop, Windows có thể hiển thị:",
+      "options": {
+        "a": "Chỉ Shortcut",
+        "b": "Chỉ tập tin",
+        "c": "Chỉ thư mục",
+        "d": "Cả Shortcut, tập tin và thư mục"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 23,
+      "question": "Bảng mã Unicode hiển thị tiếng Việt tốt với Font nào sau đây?",
+      "options": {
+        "a": "VNI-Time",
+        "b": "VNI-Times",
+        "c": "Vntime và VNI-Times",
+        "d": "Tahoma"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 24,
+      "question": "Trong Windows, người dùng có thể cài ứng dụng thông qua:",
+      "options": {
+        "a": "Apple Store",
+        "b": "CH Play",
+        "c": "Microsoft Store",
+        "d": "Control Panel"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 25,
+      "question": "Trong Windows, người dùng có thể gỡ bỏ ứng dụng tại:",
+      "options": {
+        "a": "Windows Store",
+        "b": "Apple Store",
+        "c": "Apps & Features trong Settings",
+        "d": "Recovery trong Control Panel"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 26,
+      "question": "Shortcut dùng để làm gì?",
+      "options": {
+        "a": "Là một đường dẫn nhanh đến chương trình/tập tin/thư mục",
+        "b": "Là một loại virus",
+        "c": "Là một loại tập tin hệ thống bắt buộc",
+        "d": "Là phần mở rộng của tập tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 27,
+      "question": "Muốn mở File Explorer nhanh bằng bàn phím, có thể dùng:",
+      "options": {
+        "a": "Windows + E",
+        "b": "Windows + R",
+        "c": "Ctrl + E",
+        "d": "Alt + E"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 28,
+      "question": "Phím tắt Ctrl + C dùng để:",
+      "options": {
+        "a": "Cắt",
+        "b": "Sao chép",
+        "c": "Dán",
+        "d": "Xóa"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 29,
+      "question": "Phím tắt Ctrl + V dùng để:",
+      "options": {
+        "a": "Sao chép",
+        "b": "Cắt",
+        "c": "Dán",
+        "d": "Lưu"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 30,
+      "question": "Phím tắt Ctrl + X dùng để:",
+      "options": {
+        "a": "Cắt",
+        "b": "Sao chép",
+        "c": "Dán",
+        "d": "Hoàn tác"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 31,
+      "question": "Phím tắt Ctrl + Z dùng để:",
+      "options": {
+        "a": "Lưu",
+        "b": "Hoàn tác thao tác vừa thực hiện",
+        "c": "Sao chép",
+        "d": "Đóng cửa sổ"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 32,
+      "question": "Để chụp màn hình và chỉnh sửa bằng Paint, có thể sử dụng công cụ:",
+      "options": {
+        "a": "Paint",
+        "b": "WordPad",
+        "c": "Calculator",
+        "d": "Notepad"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 33,
+      "question": "Muốn tính biểu thức 999^5 bằng máy tính Windows, có thể sử dụng:",
+      "options": {
+        "a": "Notepad",
+        "b": "Calculator",
+        "c": "Paint",
+        "d": "WordPad"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 34,
+      "question": "Trong tab Layout của Word, nhóm công cụ nào cho phép điều chỉnh lề trang?",
+      "options": {
+        "a": "Paragraph",
+        "b": "Page Setup",
+        "c": "Page Background",
+        "d": "Text Layout"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 35,
+      "question": "Để tạo Watermark trong Word 2019, chọn tab:",
+      "options": {
+        "a": "Insert",
+        "b": "Review",
+        "c": "Design",
+        "d": "Layout"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 36,
+      "question": "Để thiết lập khổ giấy A4 trong Word, chọn:",
+      "options": {
+        "a": "File → Save As",
+        "b": "Design → Page Color",
+        "c": "Layout → Size",
+        "d": "Review → Language"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 37,
+      "question": "Margins → Custom Margins dùng để:",
+      "options": {
+        "a": "Chọn mẫu trang in có sẵn",
+        "b": "Nhập thông số lề theo ý muốn",
+        "c": "Thay đổi khổ giấy",
+        "d": "Đổi hướng trang"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 38,
+      "question": "Để đổi hướng giấy từ dọc Portrait sang ngang Landscape, chọn:",
+      "options": {
+        "a": "File → Options",
+        "b": "Design → Themes",
+        "c": "Layout → Orientation",
+        "d": "View → Layout"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 39,
+      "question": "Mục đích thường gặp của Watermark là:",
+      "options": {
+        "a": "Tăng tốc độ in",
+        "b": "Chèn hình ảnh nền trang",
+        "c": "Thêm văn bản chìm để đánh dấu bản thảo",
+        "d": "Thay đổi font mặc định"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 40,
+      "question": "Page Borders trong Word dùng để:",
+      "options": {
+        "a": "Căn lề văn bản",
+        "b": "Tạo khung viền cho trang",
+        "c": "Đổi hướng trang",
+        "d": "Tạo số trang tự động"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 41,
+      "question": "Muốn áp dụng Watermark chỉ cho một số trang cụ thể, trước tiên cần:",
+      "options": {
+        "a": "Chèn hình ảnh vào Header",
+        "b": "Tách tài liệu thành các Section khác nhau",
+        "c": "Dùng Page Color",
+        "d": "Đổi kiểu Font"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 42,
+      "question": "Lề chuẩn thường được sử dụng trong văn bản hành chính Việt Nam là:",
+      "options": {
+        "a": "Trái 1.5 cm; Phải 1 cm; Trên 2 cm; Dưới 2 cm",
+        "b": "Trái 3 cm; Phải 2 cm; Trên 2 cm; Dưới 2 cm",
+        "c": "Trái 2 cm; Phải 2 cm; Trên 1 cm; Dưới 1 cm",
+        "d": "Trái 4 cm; Phải 2.5 cm; Trên 2.5 cm; Dưới 2 cm"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 43,
+      "question": "Trong Page Setup có thể thiết lập:",
+      "options": {
+        "a": "Lề trang, khổ giấy, hướng giấy",
+        "b": "Kiểu Font",
+        "c": "Kiểu đánh số trang",
+        "d": "Màu nền trang"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 44,
+      "question": "Chức năng Margins trong Layout dùng để:",
+      "options": {
+        "a": "Thay đổi khoảng cách giữa các dòng",
+        "b": "Thay đổi kích thước trang giấy",
+        "c": "Thiết lập lề trên, dưới, trái, phải",
+        "d": "Chèn lề vào đầu đoạn"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 45,
+      "question": "Trong tab Layout, Orientation dùng để:",
+      "options": {
+        "a": "Căn trái/phải văn bản",
+        "b": "Chọn hướng giấy ngang hoặc dọc",
+        "c": "Xoay chữ trong bảng",
+        "d": "Căn giữa đoạn văn"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 46,
+      "question": "Chức năng Size trong Page Setup dùng để:",
+      "options": {
+        "a": "Chọn cỡ chữ",
+        "b": "Thay đổi khổ giấy như A4, Letter, Legal",
+        "c": "Đổi độ rộng lề",
+        "d": "Thay đổi kích thước bảng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 47,
+      "question": "Columns trong tab Layout dùng để:",
+      "options": {
+        "a": "Thêm cột cho bảng",
+        "b": "Chia văn bản thành nhiều cột giống như báo",
+        "c": "Thêm cột trong biểu đồ",
+        "d": "Tăng khoảng cách dòng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 48,
+      "question": "Muốn thay đổi khoảng cách giữa các đoạn văn bản trước hoặc sau đoạn, dùng:",
+      "options": {
+        "a": "Paragraph Spacing",
+        "b": "Line Spacing",
+        "c": "Indent",
+        "d": "Font"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 49,
+      "question": "Trong Word, có thể mở tập tin văn bản có định dạng nào sau đây?",
+      "options": {
+        "a": "pdf",
+        "b": "xlsx",
+        "c": "jpg",
+        "d": "mp3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Tổ hợp phím nào dùng để làm chữ in đậm trong Word?",
+      "options": {
+        "a": "Ctrl + U",
+        "b": "Ctrl + I",
+        "c": "Ctrl + B",
+        "d": "Ctrl + D"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 51,
+      "question": "Hàm nào dùng để dò tìm theo cột dọc?",
+      "options": {
+        "a": "HLOOKUP",
+        "b": "VLOOKUP",
+        "c": "MATCH",
+        "d": "INDEX"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 52,
+      "question": "Đối với hàm VLOOKUP, đối số thứ ba có ý nghĩa là:",
+      "options": {
+        "a": "Số hàng cần tìm",
+        "b": "Số cột trả về giá trị",
+        "c": "Kiểu dữ liệu",
+        "d": "Phạm vi dò tìm"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 53,
+      "question": "Công thức =VLOOKUP(105,A2:C10,3,FALSE) có nghĩa là:",
+      "options": {
+        "a": "Tìm 105 trong cột 3",
+        "b": "Tìm giá trị 105 trong vùng A2:C10 và trả về giá trị ở cột thứ 3",
+        "c": "Lấy dòng thứ 3 của vùng",
+        "d": "Trả về địa chỉ ô chứa 105"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 54,
+      "question": "Hàm INDEX trong Excel dùng để:",
+      "options": {
+        "a": "Tạo chỉ mục",
+        "b": "Trả về giá trị tại vị trí xác định trong mảng",
+        "c": "Dò tìm giá trị tương đối",
+        "d": "Kết hợp dữ liệu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 55,
+      "question": "Hàm nào dùng để đếm số ô chứa giá trị số trong vùng?",
+      "options": {
+        "a": "COUNTA",
+        "b": "COUNTIF",
+        "c": "COUNT",
+        "d": "COUNTBLANK"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 56,
+      "question": "Hàm =AVERAGE(5,10,15) trả về:",
+      "options": {
+        "a": "10",
+        "b": "15",
+        "c": "30",
+        "d": "5"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 57,
+      "question": "Hàm nào dùng để tính tổng có điều kiện?",
+      "options": {
+        "a": "SUM",
+        "b": "COUNTIF",
+        "c": "SUMIF",
+        "d": "IF"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 58,
+      "question": "Hàm =MAX(10,20,30,5) trả về:",
+      "options": {
+        "a": "5",
+        "b": "30",
+        "c": "20",
+        "d": "10"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 59,
+      "question": "Kết quả của =COUNTIF(A1:A10,\">50\") là:",
+      "options": {
+        "a": "Số lượng ô trống",
+        "b": "Tổng các giá trị lớn hơn 50",
+        "c": "Số ô có giá trị lớn hơn 50",
+        "d": "Vị trí các ô >50"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 60,
+      "question": "Hàm =COUNTA(A1:A10) sẽ đếm:",
+      "options": {
+        "a": "Các ô chứa giá trị số",
+        "b": "Các ô không trống",
+        "c": "Các ô chứa giá trị logic",
+        "d": "Chỉ các ô chứa chữ"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 61,
+      "question": "Công thức =SUMIF(B2:B10,\">=100\") có lỗi gì?",
+      "options": {
+        "a": "Thiếu điều kiện",
+        "b": "Thiếu vùng tính tổng",
+        "c": "Sai phạm vi",
+        "d": "Không có lỗi"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 62,
+      "question": "Chức năng Filter trong Excel dùng để:",
+      "options": {
+        "a": "Thêm màu nền",
+        "b": "Xóa dữ liệu trùng",
+        "c": "Hiển thị dữ liệu theo điều kiện",
+        "d": "Tạo công thức mới"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 63,
+      "question": "Để lọc dữ liệu theo nhiều điều kiện phức tạp, nên dùng:",
+      "options": {
+        "a": "AutoFilter",
+        "b": "Advanced Filter",
+        "c": "Sort",
+        "d": "Conditional Formatting"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 64,
+      "question": "Muốn thống kê dữ liệu theo nhiều chiều, công cụ phù hợp là:",
+      "options": {
+        "a": "Filter",
+        "b": "Advanced Filter",
+        "c": "PivotTable",
+        "d": "Chart"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 65,
+      "question": "Trong PivotTable, Rows và Columns dùng để:",
+      "options": {
+        "a": "Tạo bảng tổng hợp",
+        "b": "Thiết lập điều kiện lọc",
+        "c": "Nhập công thức",
+        "d": "Tạo biểu đồ"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 66,
+      "question": "Để xóa bộ lọc hiện tại trong Excel, có thể chọn:",
+      "options": {
+        "a": "Delete",
+        "b": "Data → Clear",
+        "c": "Data → Filter → Clear Filter",
+        "d": "Home → Remove"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 67,
+      "question": "Muốn hiển thị các hàng có \"Doanh thu > 100 triệu\", cách nhanh nhất là:",
+      "options": {
+        "a": "Dùng COUNTIF",
+        "b": "Dùng Advanced Filter",
+        "c": "Dùng Filter",
+        "d": "Dùng VLOOKUP"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 68,
+      "question": "Khi sử dụng Filter trong Excel, dữ liệu không thỏa mãn điều kiện sẽ:",
+      "options": {
+        "a": "Bị xóa",
+        "b": "Tạm thời bị ẩn",
+        "c": "Được chuyển sang bảng mới",
+        "d": "Được sắp xếp A → Z"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 69,
+      "question": "Để sử dụng Advanced Filter, vùng điều kiện cần:",
+      "options": {
+        "a": "Đặt cùng hàng với tiêu đề bảng gốc",
+        "b": "Đặt bất kỳ vị trí nào trên bảng",
+        "c": "Đặt trong một vùng riêng, có tiêu đề giống tiêu đề cột cần lọc",
+        "d": "Đặt ngay dưới bảng dữ liệu"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 70,
+      "question": "Để bật chức năng Filter trong Excel, chọn:",
+      "options": {
+        "a": "Home → Sort & Filter",
+        "b": "Insert → Filter",
+        "c": "Data → Filter",
+        "d": "View → Filter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 71,
+      "question": "Phím tắt để in đậm văn bản trong Word là:",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + B",
+        "c": "Ctrl + U",
+        "d": "Ctrl + P"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 72,
+      "question": "Phím tắt để in nghiêng văn bản là:",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + B",
+        "c": "Ctrl + U",
+        "d": "Ctrl + E"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 73,
+      "question": "Phím tắt để gạch chân văn bản là:",
+      "options": {
+        "a": "Ctrl + I",
+        "b": "Ctrl + B",
+        "c": "Ctrl + U",
+        "d": "Ctrl + L"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 74,
+      "question": "Trong Word, muốn tạo mục lục tự động, thứ tự cơ bản là:",
+      "options": {
+        "a": "Đánh số trang → Insert Table",
+        "b": "Gán Heading → References → Table of Contents",
+        "c": "Insert → Shapes",
+        "d": "Layout → Columns"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 75,
+      "question": "Trong Word, muốn chèn số trang, chọn:",
+      "options": {
+        "a": "Home → Page Number",
+        "b": "Insert → Page Number",
+        "c": "Layout → Page Number",
+        "d": "References → Page Number"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 76,
+      "question": "Muốn chèn hình ảnh vào Word, sử dụng:",
+      "options": {
+        "a": "Insert → Pictures",
+        "b": "Layout → Pictures",
+        "c": "References → Pictures",
+        "d": "Review → Pictures"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 77,
+      "question": "Muốn chia văn bản thành 2 hoặc 3 cột như báo, chọn:",
+      "options": {
+        "a": "Insert → Table",
+        "b": "Layout → Columns",
+        "c": "Design → Columns",
+        "d": "Home → Columns"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 78,
+      "question": "Muốn tạo chữ cái đầu đoạn văn lớn như báo, dùng:",
+      "options": {
+        "a": "WordArt",
+        "b": "Drop Cap",
+        "c": "SmartArt",
+        "d": "Text Box"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 79,
+      "question": "Muốn tạo chữ chìm trên nền trang Word, sử dụng:",
+      "options": {
+        "a": "Page Color",
+        "b": "Watermark",
+        "c": "Page Borders",
+        "d": "WordArt"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 80,
+      "question": "Trong Excel, hàm IF dùng để:",
+      "options": {
+        "a": "Tính tổng",
+        "b": "Kiểm tra điều kiện và trả về kết quả tương ứng",
+        "c": "Đếm ô",
+        "d": "Tìm kiếm theo cột"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 81,
+      "question": "Trong Excel, hàm HLOOKUP dùng để dò tìm:",
+      "options": {
+        "a": "Theo chiều ngang",
+        "b": "Theo chiều dọc",
+        "c": "Theo đường chéo",
+        "d": "Theo màu ô"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 82,
+      "question": "Trong Excel, hàm COUNTBLANK dùng để:",
+      "options": {
+        "a": "Đếm ô có số",
+        "b": "Đếm ô có chữ",
+        "c": "Đếm ô trống",
+        "d": "Đếm ô có công thức"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 83,
+      "question": "Trong Excel, hàm COUNTA dùng để:",
+      "options": {
+        "a": "Đếm ô trống",
+        "b": "Đếm ô không trống",
+        "c": "Đếm ô chứa số בלבד",
+        "d": "Tính tổng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 84,
+      "question": "Trong Excel, muốn tính tổng các giá trị thỏa điều kiện, dùng:",
+      "options": {
+        "a": "SUM",
+        "b": "SUMIF",
+        "c": "COUNT",
+        "d": "AVERAGE"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 85,
+      "question": "Trong Excel, muốn tính giá trị trung bình, dùng:",
+      "options": {
+        "a": "SUM",
+        "b": "MAX",
+        "c": "AVERAGE",
+        "d": "COUNTIF"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 86,
+      "question": "Chức năng nào sau đây được sử dụng để căn lề đoạn văn bản trong Word 2019?",
+      "options": {
+        "a": "Font",
+        "b": "Paragraph",
+        "c": "Styles",
+        "d": "Page Layout"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 87,
+      "question": "Muốn căn giữa một đoạn văn bản, bạn sử dụng tổ hợp phím nào?",
+      "options": {
+        "a": "Ctrl + E",
+        "b": "Ctrl + J",
+        "c": "Ctrl + L",
+        "d": "Ctrl + R"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 88,
+      "question": "Để giãn dòng trong đoạn văn bản, bạn vào tab nào trên thanh công cụ?",
+      "options": {
+        "a": "Home > Font",
+        "b": "Insert > Text",
+        "c": "Home > Paragraph",
+        "d": "View > Layout"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 89,
+      "question": "Trong Word 2019, muốn tạo đoạn văn có khoảng cách dòng 1.5, bạn chọn:",
+      "options": {
+        "a": "Line Spacing > 1.0",
+        "b": "Line Spacing > 2.0",
+        "c": "Line Spacing > 1.5",
+        "d": "Line Spacing > Multiple"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 90,
+      "question": "Tính năng \"Justify\" trong căn lề đoạn văn có nghĩa là:",
+      "options": {
+        "a": "Căn lề trái",
+        "b": "Căn giữa",
+        "c": "Căn đều hai bên",
+        "d": "Căn lề phải"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 91,
+      "question": "Tab được sử dụng trong Word 2019 để làm gì?",
+      "options": {
+        "a": "Chỉnh sửa font chữ",
+        "b": "Canh lề đoạn văn",
+        "c": "Căn chỉnh vị trí con trỏ theo điểm định sẵn",
+        "d": "Tạo bảng biểu"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 92,
+      "question": "Để thiết lập Tab, bạn vào menu nào?",
+      "options": {
+        "a": "Insert",
+        "b": "Page Layout",
+        "c": "Home",
+        "d": "Home > Paragraph > Tabs"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 93,
+      "question": "Ký hiệu chữ \"L\" nhỏ trên thanh thước (ruler) biểu thị loại Tab nào?",
+      "options": {
+        "a": "Tab trái (Left Tab)",
+        "b": "Tab phải (Right Tab)",
+        "c": "Tab giữa (Center Tab)",
+        "d": "Tab thập phân (Decimal Tab)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 94,
+      "question": "Phím nào dùng để nhảy đến vị trí Tab đã cài đặt trong Word?",
+      "options": {
+        "a": "Ctrl",
+        "b": "Alt",
+        "c": "Shift",
+        "d": "Tab. - Chèn và định dạng bảng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 95,
+      "question": "Thao tác nào sau đây để chèn một bảng vào tài liệu Word 2019?",
+      "options": {
+        "a": "Chọn tab Home $rightarrow$ Table",
+        "b": "Chọn tab Insert $rightarrow$ Table",
+        "c": "Chọn tab Layout $rightarrow$ Table",
+        "d": "Chọn tab Design $rightarrow$ Table"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 96,
+      "question": "Bằng thao tác kéo chuột trên lưới khi chọn Insert $mathbf{rightarrow}$ Table, ta có thể chèn tối đa bao nhiêu cột và hàng?",
+      "options": {
+        "a": "Cột và 5 hàng",
+        "b": "8 cột và 8 hàng",
+        "c": "10 cột và 8 hàng",
+        "d": "15 cột và 15 hàng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 97,
+      "question": "Công cụ nào dùng để chia một ô thành nhiều ô nhỏ hơn trong bảng?",
+      "options": {
+        "a": "Split Table",
+        "b": "Merge Cells",
+        "c": "Split Cells",
+        "d": "Insert Cells"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 98,
+      "question": "Để gộp nhiều ô thành một ô trong bảng, ta dùng công cụ nào sau đây?",
+      "options": {
+        "a": "Merge Cells",
+        "b": "Split Cells",
+        "c": "Distribute Columns",
+        "d": "AutoFit"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 99,
+      "question": "Chức năng \"AutoFit\" trong tab Layout của bảng dùng để làm gì?",
+      "options": {
+        "a": "Gộp các ô trong bảng",
+        "b": "Căn đều bảng giữa trang",
+        "c": "Tự động điều chỉnh độ rộng cột/hàng",
+        "d": "Thêm hàng vào cuối bảng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 100,
+      "question": "Để định dạng viền cho bảng, bạn vào tab nào sau khi chọn bảng?",
+      "options": {
+        "a": "Home",
+        "b": "Layout",
+        "c": "Design",
+        "d": "View"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 101,
+      "question": "Khi muốn thay đổi kiểu bảng có sẵn, bạn chọn bảng rồi chọn gì trong tab Design?",
+      "options": {
+        "a": "Table Tools",
+        "b": "Table Styles",
+        "c": "Table Options",
+        "d": "Format Table"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 102,
+      "question": "Thao tác nào sau đây dùng để thêm một hàng mới vào phía cuối bảng?",
+      "options": {
+        "a": "Click chuột phải vào hàng $rightarrow$ Insert $rightarrow$ Insert Rows Below",
+        "b": "Tab Home $rightarrow$ Add Row",
+        "c": "Tab Design $rightarrow$ Insert Row",
+        "d": "Tab Layout $rightarrow$ Add New Row"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 103,
+      "question": "Khi cần xóa một hàng trong bảng, thao tác đúng là gì?",
+      "options": {
+        "a": "Click chuột phải vào hàng $rightarrow$ Delete $rightarrow$ Delete Rows",
+        "b": "Nhấn phím Delete",
+        "c": "Vào tab Insert $rightarrow$ Delete",
+        "d": "Vào tab View $rightarrow$ Remove"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 104,
+      "question": "Để bảng tự căn giữa trang, bạn sử dụng cách nào sau đây?",
+      "options": {
+        "a": "Dùng công cụ Center trong tab Layout",
+        "b": "Dùng công cụ Align Center trong tab Design",
+        "c": "Dùng công cụ Center trong tab Home",
+        "d": "Nhấn chuột phải $rightarrow$ Table Properties $rightarrow$ Center Alignment. - Sử dụng bảng tính cơ bản (Excel)"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 105,
+      "question": "Trong Excel, chức năng Filter dùng để:",
+      "options": {
+        "a": "Lọc dữ liệu theo điều kiện",
+        "b": "Sắp xếp dữ liệu theo thứ tự",
+        "c": "Tính tổng dữ liệu",
+        "d": "Định dạng bảng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 106,
+      "question": "Để sắp xếp danh sách tên theo thứ tự A $mathbf{rightarrow}$ Z, bạn chọn:",
+      "options": {
+        "a": "Sort Z $rightarrow$ A",
+        "b": "Sort Smallest to Largest",
+        "c": "Sort A $rightarrow$ Z",
+        "d": "Custom Filter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 107,
+      "question": "Để lọc ra các hàng có giá trị lớn hơn 1000, bạn cần:",
+      "options": {
+        "a": "Chọn Sort",
+        "b": "Dùng Data Validation",
+        "c": "Chọn Filter $rightarrow$ Number Filters $rightarrow$ Greater Than",
+        "d": "Dùng PivotTable"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 108,
+      "question": "Lệnh Sort có thể sắp xếp dữ liệu theo:",
+      "options": {
+        "a": "Chỉ 1 cột",
+        "b": "Tối đa 2 cột",
+        "c": "Tối đa 3 cột",
+        "d": "Nhiều cột tùy chọn"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 109,
+      "question": "Biểu tượng hình phễu trong Excel đại diện cho chức năng:",
+      "options": {
+        "a": "Sắp xếp",
+        "b": "Lọc",
+        "c": "Tính tổng",
+        "d": "Định dạng có điều kiện"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 110,
+      "question": "Chức năng Subtotal được sử dụng để:",
+      "options": {
+        "a": "Lọc dữ liệu",
+        "b": "Tính tổng theo nhóm dữ liệu",
+        "c": "Định dạng dữ liệu",
+        "d": "Nhóm dữ liệu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 111,
+      "question": "Trước khi dùng Subtotal, bạn cần:",
+      "options": {
+        "a": "Định dạng bảng",
+        "b": "Sắp xếp dữ liệu theo cột cần nhóm",
+        "c": "Thêm biểu đồ",
+        "d": "Tạo bảng Pivot"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 112,
+      "question": "Chức năng Subtotal nằm trong tab:",
+      "options": {
+        "a": "Insert",
+        "b": "View",
+        "c": "Data",
+        "d": "Formulas"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 113,
+      "question": "Trong hộp thoại Subtotal, bạn KHÔNG thể chọn tùy chọn nào sau đây?",
+      "options": {
+        "a": "Function: AVERAGE",
+        "b": "Add subtotal to: các cột số",
+        "c": "Replace current subtotals",
+        "d": "Add conditional formatting"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 114,
+      "question": "Chức năng PivotTable trong Excel giúp:",
+      "options": {
+        "a": "Vẽ biểu đồ",
+        "b": "Nhập dữ liệu",
+        "c": "Tóm tắt, phân tích dữ liệu",
+        "d": "Định dạng văn bản"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 115,
+      "question": "Để tạo PivotTable, bạn chọn:",
+      "options": {
+        "a": "Home $rightarrow$ Format Table",
+        "b": "Insert $rightarrow$ PivotTable",
+        "c": "Data $rightarrow$ Filter",
+        "d": "View $rightarrow$ New Window"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 116,
+      "question": "Trong PivotTable, cột \"Values\" thường dùng để:",
+      "options": {
+        "a": "Nhóm dữ liệu",
+        "b": "Tính toán như SUM, COUNT",
+        "c": "Ghi chú",
+        "d": "Hiển thị văn bản"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 117,
+      "question": "Bạn có thể dùng PivotTable để:",
+      "options": {
+        "a": "Chèn hình ảnh",
+        "b": "Lọc dữ liệu và nhóm theo nhiều trường",
+        "c": "Vẽ sơ đồ tổ chức",
+        "d": "Định dạng phông chữ"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 118,
+      "question": "Data Validation dùng để:",
+      "options": {
+        "a": "Tính toán tự động",
+        "b": "Hạn chế kiểu dữ liệu nhập vào ô",
+        "c": "Thêm định dạng",
+        "d": "Chia bảng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 119,
+      "question": "Để tạo danh sách chọn sẵn trong một ô, bạn dùng:",
+      "options": {
+        "a": "Conditional Formatting",
+        "b": "Format as Table",
+        "c": "Data Validation $rightarrow$ List",
+        "d": "Filter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 120,
+      "question": "Khi dùng Data Validation để giới hạn số từ 1 đến 10, bạn chọn kiểu:",
+      "options": {
+        "a": "Whole number",
+        "b": "List",
+        "c": "Text length",
+        "d": "Custom"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 121,
+      "question": "Conditional Formatting được dùng để:",
+      "options": {
+        "a": "Sao chép dữ liệu",
+        "b": "Định dạng dữ liệu theo điều kiện",
+        "c": "Tạo bảng",
+        "d": "Xóa dữ liệu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 122,
+      "question": "Bạn muốn tô màu đỏ cho các ô có giá trị dưới 0, bạn dùng:",
+      "options": {
+        "a": "Format as Table",
+        "b": "Data Validation",
+        "c": "Conditional Formatting $rightarrow$ Less Than",
+        "d": "Filter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 123,
+      "question": "Khi dùng Format as Table, Excel sẽ:",
+      "options": {
+        "a": "Xóa dữ liệu gốc",
+        "b": "Tự động áp dụng định dạng bảng và có thể lọc",
+        "c": "Tạo PivotTable",
+        "d": "Khóa ô dữ liệu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 124,
+      "question": "Lợi ích của Format as Table là:",
+      "options": {
+        "a": "Chỉ thay đổi font chữ",
+        "b": "Tự động cập nhật khi thêm dòng mới",
+        "c": "Không thể dùng công thức",
+        "d": "Không thể lọc dữ liệu"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 125,
+      "question": "Để thay đổi loại biểu đồ sau khi đã tạo, chức năng nào được sử dụng?",
+      "options": {
+        "a": "Format Axis",
+        "b": "Change Chart Type",
+        "c": "Select Data",
+        "d": "Add Data Labels"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 126,
+      "question": "Loại biểu đồ nào thể hiện tỷ lệ phần trăm của các phần so với tổng thể?",
+      "options": {
+        "a": "Line Chart",
+        "b": "Column Chart",
+        "c": "Pie Chart",
+        "d": "Scatter Chart"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 127,
+      "question": "Trong biểu đồ, trục hoành (trục X) thường thể hiện điều gì?",
+      "options": {
+        "a": "Tổng giá trị",
+        "b": "Nhãn phân loại dữ liệu",
+        "c": "Giá trị số",
+        "d": "Không có thông tin"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 128,
+      "question": "Biểu đồ nào sau đây phù hợp nhất để thể hiện xu hướng thay đổi theo thời gian?",
+      "options": {
+        "a": "Pie Chart",
+        "b": "Line Chart",
+        "c": "Bar Chart",
+        "d": "Doughnut Chart"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 129,
+      "question": "Khi chọn biểu đồ, để hiển thị nút điều khiển thêm dữ liệu, đổi kiểu, bạn nhấp vào biểu tượng nào?",
+      "options": {
+        "a": "Filter",
+        "b": "Plus (+)",
+        "c": "Paintbrush",
+        "d": "Tất cả các đáp án trên"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 130,
+      "question": "Để hiển thị nhãn dữ liệu (Data Labels) lên biểu đồ, bạn cần:",
+      "options": {
+        "a": "Chọn biểu đồ $rightarrow$ Insert $rightarrow$ Text",
+        "b": "Chọn biểu đồ $rightarrow$ Chart Elements (+) $rightarrow$ Tick vào \"Data Labels\"",
+        "c": "Vào Page Layout $rightarrow$ Labels",
+        "d": "Sử dụng chức năng Sort"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 131,
+      "question": "Tùy chọn \"Combo Chart\" trong Excel 2019 dùng để làm gì?",
+      "options": {
+        "a": "Kết hợp nhiều kiểu biểu đồ trong một biểu đồ",
+        "b": "Ghép nhiều biểu đồ lại thành một trang",
+        "c": "Tạo biểu đồ từ nhiều sheet",
+        "d": "Tạo biểu đồ với màu sắc đặc biệt"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 132,
+      "question": "Để thay đổi màu sắc của từng cột trong biểu đồ cột, bạn thực hiện như thế nào?",
+      "options": {
+        "a": "Format Axis",
+        "b": "Select Data",
+        "c": "Click vào từng cột $rightarrow$ Format Data Point",
+        "d": "Vào File $rightarrow$ Options"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 133,
+      "question": "Lựa chọn \"Move Chart\" trong Excel cho phép bạn:",
+      "options": {
+        "a": "Xoay biểu đồ",
+        "b": "Di chuyển biểu đồ sang Sheet khác",
+        "c": "Thay đổi loại biểu đồ",
+        "d": "Xóa biểu đồ"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 134,
+      "question": "Biểu đồ nào dưới đây phù hợp nhất để biểu diễn tốc độ phát triển/thay đổi theo thời gian?",
+      "options": {
+        "a": "Pie Chart",
+        "b": "Column Chart",
+        "c": "Line Chart",
+        "d": "Bar Chart"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 135,
+      "question": "Loại hiệu ứng nào dùng để gán cho đối tượng thoát khỏi màn hình đang trình chiếu?",
+      "options": {
+        "a": "Entrance",
+        "b": "Emphasis",
+        "c": "Exit",
+        "d": "Motion Path"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 136,
+      "question": "Phát biểu nào sau đây là đúng khi gán hiệu ứng cho các đối tượng trên slide?",
+      "options": {
+        "a": "Một đối tượng trên slide chỉ được gán một hiệu ứng",
+        "b": "Một đối tượng có thể gán nhiều hiệu ứng",
+        "c": "Nhiều đối tượng có thể gán cùng một loại hiệu ứng",
+        "d": "Có thể gán nhiều âm thanh kèm theo hiệu ứng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 137,
+      "question": "Thao tác nào sau đây dùng để chọn/tạo Hyperlink trong slide?",
+      "options": {
+        "a": "Ctrl + K",
+        "b": "Ctrl + H",
+        "c": "Tab",
+        "d": "Ctrl + L"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 138,
+      "question": "Hiệu ứng đặc biệt được sử dụng để giới thiệu các slide (chuyển cảnh giữa các slide) trong bài thuyết trình được gọi là gì?",
+      "options": {
+        "a": "Effects",
+        "b": "Custom animations",
+        "c": "Transition",
+        "d": "Present animations"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 139,
+      "question": "Cách nào sau đây dùng để đưa ảnh nền thống nhất cho tất cả slide?",
+      "options": {
+        "a": "Tạo template",
+        "b": "Tạo slide master",
+        "c": "Sử dụng Autocorrect wizard",
+        "d": "Sử dụng Background"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 140,
+      "question": "Cách nào sau đây để tạo ra các trang chú thích, ghi chú và logo hiển thị ở mỗi trang?",
+      "options": {
+        "a": "Chèn chú thích và logo vào slide master",
+        "b": "Chèn chú thích và logo vào từng slide riêng biệt",
+        "c": "Chèn logo vào trang chú thích của slide",
+        "d": "Không thể chèn chú thích vào slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 141,
+      "question": "Kiểu View nào không là kiểu view chính thức trong PowerPoint?",
+      "options": {
+        "a": "Slide Show view",
+        "b": "Slide view",
+        "c": "Outline view",
+        "d": "Presentation view"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 142,
+      "question": "Trong PowerPoint, kiểu View nào là tốt nhất để thêm hiệu ứng transitions?",
+      "options": {
+        "a": "Slide show view",
+        "b": "Slide sorter view",
+        "c": "Slide view",
+        "d": "Notes view"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 143,
+      "question": "Tổ hợp phím nào sau đây dùng để ẩn/hiện các lệnh trên thanh Ribbon?",
+      "options": {
+        "a": "Shift + F1",
+        "b": "Ctrl + F1",
+        "c": "Alt + F1",
+        "d": "Ctrl + Shift + F1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 144,
+      "question": "Chức năng Format Painter dùng để làm gì?",
+      "options": {
+        "a": "Để làm cho bức tranh trên slide phong phú hơn",
+        "b": "Để tạo một hình nền đẹp trên một slide",
+        "c": "Để sao chép định dạng của một đối tượng này sang đối tượng khác và ngược lại",
+        "d": "Để thay đổi màu nền của slide"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 145,
+      "question": "Để tên tác giả xuất hiện ở mỗi slide khi trình chiếu, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn tab Insert, trong nhóm lệnh Text, click Header & Footer, nhập tên tác giả vào Footer",
+        "b": "Chọn tab Insert, trong nhóm lệnh slide, click Header & Footer, nhập tên tác giả vào Footer",
+        "c": "Chọn tab Insert, trong nhóm lệnh slide, chọn slide master, click nút Header & Footer",
+        "d": "Chọn tab Insert, click Header & Footer, nhập tên tác giả vào Footer"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 146,
+      "question": "Để xem trước hiệu ứng Motion path trong Animation Pane, thực hiện chức năng nào sau đây?",
+      "options": {
+        "a": "Show effect button",
+        "b": "Click nút Play from",
+        "c": "Double click vào motion path",
+        "d": "Click nút Play"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 147,
+      "question": "Cách nào sau đây dùng để gán hiệu ứng chuyển từ slide này sang slide khác?",
+      "options": {
+        "a": "Chọn tab Transitions, chọn loại hiệu ứng trong nhóm lệnh Transition to this slide",
+        "b": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh Animation",
+        "c": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh Transitions",
+        "d": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm Slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 148,
+      "question": "Chọn tab Transitions, tại mục Duration nhập 00:05 giây, click Apply to all slide. Thao tác này dùng để làm gì?",
+      "options": {
+        "a": "Chỉ định thời gian trình chiếu 1 slide",
+        "b": "Khoảng thời gian từ khi kết thúc slide trước đến khi slide tiếp theo được trình chiếu",
+        "c": "Slide tự động trình chiếu sau 00:05 giây",
+        "d": "Xác định thời gian chuyển từ slide này đến slide kế tiếp"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 149,
+      "question": "Để in các slide theo thứ tự 1, 3, 6, 9, chọn tab File, chọn trang Print và thực hiện các thao tác nào sau đây?",
+      "options": {
+        "a": "Chọn Print Current Slide",
+        "b": "Trong khung Slide, nhập 1, 3, 6, 9",
+        "c": "Chọn All, nhập vào 1, 3, 6, 9",
+        "d": "Settings, chọn Slides, nhập 1, 3, 6, 9"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 150,
+      "question": "Đoạn nhạc đưa vào Slide và thiết lập thuộc tính \"Play across slides\", ý nghĩa của thuộc tính này là gì?",
+      "options": {
+        "a": "Đoạn nhạc sẽ chạy xuyên suốt các slide",
+        "b": "Chạy hết đoạn nhạc mới chuyển slide",
+        "c": "Tự động tắt nhạc khi trình chiếu",
+        "d": "Không biểu hiện gì khi thực hiện trình chiếu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 151,
+      "question": "Khi gán hiệu ứng cho các đối tượng, thuộc tính nào cần thiết lập để đối tượng sau tự xuất hiện sau đối tượng trước đó?",
+      "options": {
+        "a": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start With Previous",
+        "b": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start On Click",
+        "c": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start After Previous",
+        "d": "Chọn đối tượng, chọn tab Transitions, chọn hiệu ứng, chọn lệnh Start After Previous"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 152,
+      "question": "Nếu bạn sử dụng email để gửi một file PowerPoint đến một người dùng khác, bạn có thể thêm nó vào trong email như là một?",
+      "options": {
+        "a": "Inclusion",
+        "b": "Attachment",
+        "c": "Reply",
+        "d": "Forward"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 153,
+      "question": "Để khởi động ứng dụng PowerPoint từ cửa sổ Run, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Nhấn Ctrl + R, nhập MSPowerPoint.exe nhấn Enter",
+        "b": "Nhấn Ctrl + R, sau đó gõ POWERPNT.EXE, nhấn Enter",
+        "c": "Nhấn Ctrl + R, nhập powerpoint.exe nhấn Enter",
+        "d": "Nhấn Ctrl + R, nhập ppoint.exe nhấn Enter"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 154,
+      "question": "Một bài trình chiếu có thể được tạo ra từ đâu?",
+      "options": {
+        "a": "Một presentation trống",
+        "b": "Một presentation có sẵn",
+        "c": "Một presentation mẫu",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 155,
+      "question": "Tên bố cục (layout) của slide này là gì?",
+      "options": {
+        "a": "Blank",
+        "b": "Title slide",
+        "c": "Title and Content",
+        "d": "Title Only"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 156,
+      "question": "Bạn sử dụng nhóm lệnh/công cụ gì để căn chỉnh các đối tượng trên một slide với nhau?",
+      "options": {
+        "a": "Layout tools",
+        "b": "Arrange tools",
+        "c": "Design Ideas feature",
+        "d": "Picture tools"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 157,
+      "question": "Bạn phải bật tùy chọn nào nếu muốn điều khiển việc phát lại tệp video trong khi thuyết trình?",
+      "options": {
+        "a": "Record Slide Show",
+        "b": "Use Presenter View",
+        "c": "Show Playback Controls",
+        "d": "Show Media Controls"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 158,
+      "question": "Tính năng nào phân tích nội dung slide của bạn và đưa ra các tùy chọn gợi ý thiết kế?",
+      "options": {
+        "a": "Design ideas",
+        "b": "SmartArt",
+        "c": "Browse for Themes",
+        "d": "Add-Ins"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 159,
+      "question": "Tab nào là tốt nhất để thêm nhiều loại đối tượng khác nhau vào slide?",
+      "options": {
+        "a": "Animations",
+        "b": "View",
+        "c": "File",
+        "d": "Insert"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 160,
+      "question": "Bạn có thể sử dụng danh mục SmartArt nào để tạo đồ họa thông tin từ các Bullet?",
+      "options": {
+        "a": "All of these answers",
+        "b": "Pyramid",
+        "c": "List",
+        "d": "Matrix"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 161,
+      "question": "Làm thế nào bạn có thể thay đổi giao diện của bảng chỉ bằng một cú nhấp chuột?",
+      "options": {
+        "a": "Apply a cell style",
+        "b": "Apply a graphic style",
+        "c": "Apply a table style",
+        "d": "Right-click a table and choose a new style"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 162,
+      "question": "Bạn muốn bài thuyết trình của mình liên tục phát lặp lại trên màn hình, bạn phải thiết lập tùy chọn nào?",
+      "options": {
+        "a": "Use Presenter view",
+        "b": "Advance slides manually",
+        "c": "Advance slides automatically",
+        "d": "Loop continuously until Esc"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 163,
+      "question": "Bạn có một tài liệu Word muốn nhập dưới dạng phác thảo vào bản trình bày PowerPoint. Bạn nên định dạng văn bản trong tài liệu Word làm nội dung chính bên trong Slide như thế nào?",
+      "options": {
+        "a": "Heading Style 2",
+        "b": "Subtitle",
+        "c": "Content Style",
+        "d": "List 2"
+      },
+      "answer": "a"
+    }
+  ]
+}

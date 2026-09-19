@@ -62,10 +62,11 @@ def home():
             "title": deck["title"],
             "total": total,
             "has_answers": missing == 0,
+            "capped": total > NUM_QUESTIONS,
         })
 
     total_all = sum(d["total"] for d in deck_list)
-    return render_template("index.html", decks=deck_list, total_all=total_all)
+    return render_template("index.html", decks=deck_list, total_all=total_all, num_questions=NUM_QUESTIONS)
 
 
 def _start_common(chosen, mode_label, deck_id):

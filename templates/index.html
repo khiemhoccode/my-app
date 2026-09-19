@@ -29,6 +29,9 @@
             <div class="deck-info">
               <div class="deck-name">{{ d.title }}</div>
               <div class="muted small">{{ d.total }} câu hỏi
+                {% if d.capped %}
+                <span class="tag tag-neutral">Bốc ngẫu nhiên {{ num_questions }} câu</span>
+                {% endif %}
                 {% if not d.has_answers %}
                 <span class="tag tag-wrong">Chưa có đáp án</span>
                 {% endif %}

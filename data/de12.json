@@ -1,5 +1,5 @@
 {
-  "title": "Tin học văn phòng - Word nâng cao (đề 5)",
+  "title": "Trắc nghiệm Tin học văn phòng - Đề 12",
   "questions": [
     {
       "id": 1,
@@ -93,16 +93,16 @@
       "id": 9,
       "question": "Tổ hợp phím tắt nào dùng để tạo chỉ số trên Superscript",
       "options": {
-        "a": "Ctr + Shift + ‘+’",
-        "b": "Ctr + ‘+’",
-        "c": "Ctr + Alt + ‘+’",
-        "d": "Shift + ‘+’"
+        "a": "Ctr + Shift + '+'",
+        "b": "Ctr + '+'",
+        "c": "Ctr + Alt + '+'",
+        "d": "Shift + '+'"
       },
       "answer": "a"
     },
     {
       "id": 10,
-      "question": "Khi chọn một SmartArt được chèn vào trang thì trên thanh Ribbon xuất hiện tab_______ chứa các công cụ định dạng SmartArt",
+      "question": "Khi chọn một SmartArt được chèn vào trang thì trên thanh Ribbon xuất hiện tab_____ chứa các công cụ định dạng SmartArt",
       "options": {
         "a": "SmartArt Tools",
         "b": "Drawing Tools",
@@ -212,7 +212,7 @@
     },
     {
       "id": 20,
-      "question": "Trong Word, mặc định, khoảng cách điểm dừng của mỗi tab là __________",
+      "question": "Trong Word, mặc định, khoảng cách điểm dừng của mỗi tab là",
       "options": {
         "a": "0.25\"",
         "b": "0.5\"",
@@ -347,9 +347,9 @@
       "question": "Để di chuyển dấu nháy sang bên trái của một từ, bạn nhấn phím:",
       "options": {
         "a": "Home",
-        "b": "Ctrl+Phím",
-        "c": "Alt+ Ctrl+Phím",
-        "d": "Alt+Phím"
+        "b": "Ctrl+Phím ⇓",
+        "c": "Alt+ Ctrl+Phím ⇓",
+        "d": "Alt+Phím ⇓"
       },
       "answer": "b"
     },
@@ -357,7 +357,7 @@
       "id": 33,
       "question": "Để di chuyển dấu nháy về đầu dòng, bạn nhấn phím",
       "options": {
-        "a": "",
+        "a": "⇓",
         "b": "Ctrl + Home",
         "c": "Home",
         "d": "Page Up"
@@ -403,7 +403,7 @@
       "options": {
         "a": "Chọn khối văn bản→ chọn size trong mục size trong nhóm lệnh font",
         "b": "Chọn khối văn bản→ click nút Increase font size",
-        "c": "Chọn khối văn bản → nhấn tổ hợp phím Ctrl + phím ]",
+        "c": "Chọn khối văn bản → nhấn tổ hợp phím Ctrl + phím",
         "d": "Tất cả các lựa chọn đều đúng"
       },
       "answer": "b"
@@ -426,7 +426,7 @@
         "a": "Chọn tab Table tools→ Design → nhập kích thước tại mục height/Width",
         "b": "Chọn tab Table tools→ format → nhập kích thước tại mục height/Width",
         "c": "Chọn tab Table tools→ Layout → nhập kích thước tại mục height/Width",
-        "d": "Chọn tab Table tools→ nhập kích thước tại mục hei\tght/Width"
+        "d": "Chọn tab Table tools→ nhập kích thước tại mục hei ght/Width"
       },
       "answer": "c"
     },
@@ -478,10 +478,10 @@
       "id": 44,
       "question": "Trong word, khoảng dừng mặc định của phím tab là",
       "options": {
-        "a": "0.25”",
-        "b": "0.5”",
-        "c": "0.75”",
-        "d": "1”"
+        "a": "0.25\"",
+        "b": "0.5\"",
+        "c": "0.75\"",
+        "d": "1\""
       },
       "answer": "b"
     },
@@ -637,7 +637,7 @@
         "c": "Chọn Insert→ Break",
         "d": "Ctrl+Shift+Enter"
       },
-      "answer": "b"
+      "answer": "d"
     },
     {
       "id": 59,
@@ -731,10 +731,10 @@
       "id": 67,
       "question": "Trong word, khoảng dừng mặc định của phím tab là",
       "options": {
-        "a": "0.25”",
-        "b": "0.5”",
-        "c": "0.75”",
-        "d": "1”"
+        "a": "0.25\"",
+        "b": "0.5\"",
+        "c": "0.75\"",
+        "d": "1\""
       },
       "answer": "b"
     },
@@ -780,7 +780,7 @@
         "c": "Ctrl + J",
         "d": "Ctrl + L"
       },
-      "answer": "d"
+      "answer": "b"
     },
     {
       "id": 72,
@@ -795,7 +795,7 @@
     },
     {
       "id": 73,
-      "question": "_____________ là đường thẳng hoặc liền nét, hoặc chấm hoặc gạch điền vào khoảng trống bên trái ký tự tab để hướng mắt người đọc từ mục này sang mục kế tiếp trong cùng dòng",
+      "question": "_____ là đường thẳng hoặc liền nét, hoặc chấm hoặc gạch điền vào khoảng trống bên trái ký tự tab để hướng mắt người đọc từ mục này sang mục kế tiếp trong cùng dòng",
       "options": {
         "a": "Embed code",
         "b": "Interactive media",
@@ -877,7 +877,7 @@
         "a": "Insert →Page Background → Watermark",
         "b": "Design → Page Background → Watermark",
         "c": "Format → Page Background → Watermark",
-        "d": "Page layout →Page Background → Watermark"
+        "d": "Page layout →Page Background → Watermark 1a 2d 3a 4a 5d 6a 7a 8a 9a 10a 11b 12d 13a 14a 15c 16c 17a 18d 19a 20a 21b 22b 23c 24a 25a 26d 17a 28a 29b 30a 31d 32b 33d 34a 35c 36b 37b 38c 39c 40a 41b 42d 43d 44b 45d 46b 47b 48c 49c 50d 51a 52c 53b 54d 55c 56c 57a 58b 59b 60c 61a 62 b 63c 64b 65b 66a 67b 68b 69d 70d 71d 72b 73c 74b 75c 76a 77d 78a 79a 80b"
       },
       "answer": "b"
     }

@@ -1,41 +1,401 @@
 {
   "title": "Tin học cơ bản IUH (khó nha bro)",
   "questions": [
-    {"id": 1, "question": "Thành phần cơ bản của máy tính là gì?", "options": {"a": "Nhóm thiết bị nhập/xuất, CPU, nhóm thiết bị lưu trữ", "b": "CPU, RAM, ROM", "c": "CPU, Mainboard, RAM", "d": "Màn hình, bàn phím và CPU"}, "answer": null},
-    {"id": 2, "question": "Trong hệ thống máy tính, thiết bị nào sau đây là thiết bị nhập/xuất cơ bản?", "options": {"a": "Bàn phím, màn hình", "b": "Bàn phím, chuột, máy chiếu", "c": "Máy chiếu, máy scan", "d": "Máy in, máy scan, máy chiếu"}, "answer": null},
-    {"id": 3, "question": "Tính chất nào sau đây là một trong các tính chất của bộ nhớ RAM?", "options": {"a": "Lưu trữ dữ liệu vĩnh viễn", "b": "Lưu trữ dữ liệu tạm thời khi máy tính hoạt động", "c": "Người dùng chỉ đọc dữ liệu từ RAM, không ghi được", "d": "Dữ liệu ghi trên RAM do nhà sản xuất ghi một lần khi sản xuất máy tính"}, "answer": null},
-    {"id": 4, "question": "Khái niệm nào sau đây là đúng khi nói về hệ điều hành?", "options": {"a": "Hệ điều hành là một phần mềm hệ thống quan trọng", "b": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ hoạt động của máy tính", "c": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ cấu trúc của máy tính", "d": "Hệ điều hành là phần mềm ứng dụng"}, "answer": null},
-    {"id": 5, "question": "Thiết bị nào sau đây là bộ nhớ chính của máy tính?", "options": {"a": "RAM, ROM", "b": "USB", "c": "Thẻ nhớ", "d": "Ổ đĩa cứng"}, "answer": null},
-    {"id": 6, "question": "Các thiết bị nào sau đây có thể gắn trực tiếp vào máy khi đang hoạt động?", "options": {"a": "USB, HDD, RAM, thẻ nhớ", "b": "USB, thẻ nhớ, DVD, RAM", "c": "Bàn phím, USB, Mouse, ổ cứng di động", "d": "USB, thẻ nhớ, ROM"}, "answer": null},
-    {"id": 7, "question": "Hệ điều hành Windows tương tác với người dùng thông qua?", "options": {"a": "Giao diện đồ họa", "b": "Thiết bị nhập xuất", "c": "Giao diện dòng lệnh", "d": "Bàn phím"}, "answer": null},
-    {"id": 8, "question": "Thành phần nào sau đây là bộ phận xử lý và điều khiển hoạt động của máy tính?", "options": {"a": "ROM", "b": "RAM", "c": "Ổ cứng", "d": "CPU"}, "answer": null},
-    {"id": 9, "question": "Phần mềm hệ thống là gì?", "options": {"a": "Những chương trình do hệ thống tạo ra", "b": "Những chương trình tạo môi trường làm việc và cung cấp dịch vụ cho các phần mềm khác", "c": "Những chương trình thực thi theo yêu cầu của người dùng", "d": "Những chương trình của hệ điều hành"}, "answer": null},
-    {"id": 10, "question": "Khái niệm cơ bản về phần mềm?", "options": {"a": "Phần mềm là chương trình máy tính thực hiện các yêu cầu của người dùng", "b": "Phần mềm là chương trình máy tính dùng điều khiển hoạt động của máy tính", "c": "Phần mềm là chương trình máy tính dùng để khởi động máy tính", "d": "Phần mềm là chương trình máy tính tự động thực hiện một số nhiệm vụ hay chức năng hoặc giải quyết một vấn đề cụ thể nào đó"}, "answer": null},
-    {"id": 11, "question": "Lựa chọn nào sau đây không thuộc nhóm Font Style?", "options": {"a": "Bold", "b": "Italics", "c": "Regular", "d": "Superscript"}, "answer": null},
-    {"id": 12, "question": "Portrait và Landscape là gì?", "options": {"a": "Page Orientation", "b": "Paper Size", "c": "Page Layout", "d": "Page Margin"}, "answer": null},
-    {"id": 13, "question": "Tùy chọn nào sau đây không phải là thuộc tính lề của trang?", "options": {"a": "Left", "b": "Right", "c": "Center", "d": "Top"}, "answer": null},
-    {"id": 14, "question": "Borders được áp dụng cho?", "options": {"a": "Cells", "b": "Paragraph", "c": "Text", "d": "Cells, Text, Paragraph"}, "answer": null},
-    {"id": 15, "question": "Tập tin tài liệu có thể được chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì?", "options": {"a": "Page", "b": "Document", "c": "Section", "d": "Page Setup"}, "answer": null},
-    {"id": 16, "question": "Đơn vị đo lường thông tin cơ bản của máy tính là gì?", "options": {"a": "Byte", "b": "Kilobyte", "c": "Megabyte", "d": "Gigabyte"}, "answer": null},
-    {"id": 17, "question": "1KB bằng bao nhiêu B?", "options": {"a": "1024 B", "b": "1000 B", "c": "2048 B", "d": "948 B"}, "answer": null},
-    {"id": 18, "question": "Các thiết bị nào sau đây sử dụng đơn vị đo thông tin cơ bản để đánh giá?", "options": {"a": "Đĩa cứng", "b": "CPU", "c": "Mainboard", "d": "Màn hình"}, "answer": null},
-    {"id": 19, "question": "Những tín hiệu nào sau đây cho thấy máy tính bị nhiễm virus?", "options": {"a": "Máy chạy chậm bất thường", "b": "Không mở được ổ đĩa, thư mục trên ổ cứng", "c": "Không cài được các phần mềm diệt virus trên máy tính", "d": "Tất cả đều đúng"}, "answer": null},
-    {"id": 20, "question": "Các thành phần chính trong CPU", "options": {"a": "ALU, CU, RAM", "b": "ALU, CU, ROM", "c": "ALU, CU, ROM, RAM", "d": "ALU, CU"}, "answer": null},
-    {"id": 21, "question": "Thiết bị nào sau đây không thuộc nhóm thiết bị xuất?", "options": {"a": "Màn hình", "b": "Projector", "c": "Máy scan", "d": "Máy in"}, "answer": null},
-    {"id": 22, "question": "Thiết bị nào sau đây không thuộc nhóm thiết bị nhập?", "options": {"a": "Bàn phím", "b": "Máy scan", "c": "Máy in", "d": "Chuột"}, "answer": null},
-    {"id": 23, "question": "Phát biểu nào sau đây là đúng nhất?", "options": {"a": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa", "b": "Định dạng ổ đĩa chính là xóa dữ liệu trên ổ đĩa", "c": "Định dạng ổ đĩa là đánh dấu những vị trí lỗi trên đĩa", "d": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa và các vị trí lỗi sẽ được đánh dấu"}, "answer": null},
-    {"id": 24, "question": "Tổ hợp phím nào dùng để mở hộp thoại Open?", "options": {"a": "F12", "b": "Shift + F12", "c": "Alt + F12", "d": "Ctrl + F12"}, "answer": null},
-    {"id": 25, "question": "Lựa chọn nào sau đây không phải là một chức năng trên thước (Ruler)?", "options": {"a": "Tab stop", "b": "Left Indent", "c": "Right Indent", "d": "Center Indent"}, "answer": null},
-    {"id": 26, "question": "Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu chỉ hiển thị trong?", "options": {"a": "Print Layout View", "b": "Reading View", "c": "Print Preview", "d": "Outline View"}, "answer": null},
-    {"id": 27, "question": "Khi khởi động máy tính, phần mềm nào sẽ được thực hiện trước?", "options": {"a": "Phần mềm gõ tiếng Việt", "b": "Hệ điều hành", "c": "Chương trình diệt virus máy tính", "d": "Phần mềm MS Word, MS Excel"}, "answer": null},
-    {"id": 28, "question": "Trong môi trường Windows", "options": {"a": "Nhiều chương trình thực thi đồng thời", "b": "2 chương trình thực thi đồng thời", "c": "Chỉ chạy một chương trình", "d": "Tất cả đều sai"}, "answer": null},
-    {"id": 29, "question": "Trong File Explorer, khi chọn tên ổ đĩa trong Pane trái thì", "options": {"a": "Pane phải hiển thị thông tin chi tiết về ổ đĩa được chọn", "b": "Thực hiện chức năng định dạng lại ổ đĩa được chọn", "c": "Thực hiện chức năng sao chép dữ liệu của ổ đĩa được chọn", "d": "Thực hiện chức năng phân vùng cho ổ đĩa được chọn"}, "answer": null},
-    {"id": 30, "question": "Thao tác nào sau đây dùng để thiết lập thuộc tính của tập tin hoặc thư mục?", "options": {"a": "Click phải chuột tên thư mục/tập tin, chọn Properties", "b": "Click phải chuột tên thư mục/tập tin, chọn Attribute", "c": "Click phải chuột tên thư mục/tập tin, chọn Hidden", "d": "Click phải chuột tên thư mục/tập tin, chọn Type"}, "answer": null},
-    {"id": 31, "question": "Thư mục (folder) là một:", "options": {"a": "Dạng tập tin đặc biệt, được dùng trong việc quản lý các tập tin", "b": "Tập hợp các tập tin và thư mục con", "c": "Phần ổ đĩa chứa một tập hợp các tập tin", "d": "Mục lục để tra cứu thông tin"}, "answer": null},
-    {"id": 32, "question": "Phát biểu nào sau đây là đúng khi nói về Recycle Bin:", "options": {"a": "Recycle Bin là nơi lưu lại các tập tin và thư mục bị xóa bằng phím delete", "b": "Recycle Bin là phần mềm ứng dụng", "c": "Recycle Bin là phần mềm hệ thống", "d": "Recycle Bin là thành phần quản lý phần cứng của máy tính"}, "answer": null},
-    {"id": 33, "question": "Trong File Explorer, cách nào sau đây dùng để chọn một lúc các file/folder nằm liền nhau?", "options": {"a": "Giữ phím Ctrl và chọn từng file/folder trong danh sách", "b": "Giữ phím Alt và chọn từng file/folder trong danh sách", "c": "Chọn một file/folder đầu tiên, nhấn giữ Shift, chọn file/folder cuối trong danh sách", "d": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách"}, "answer": null},
-    {"id": 34, "question": "Trong File Explorer, cách nào sau đây dùng để chọn một lúc các file/folder không nằm liền nhau?", "options": {"a": "Nhấn giữ phím Ctrl và chọn từng file/folder trong danh sách", "b": "Giữ phím Alt và chọn từng file/folder trong danh sách", "c": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách", "d": "Chọn một file/folder đầu tiên, nhấn giữ phím Shift, chọn file/folder cuối trong danh sách"}, "answer": null},
-    {"id": 35, "question": "Khi soạn thảo văn bản trong Word, phím Home dùng để?", "options": {"a": "Di chuyển con trỏ về đầu của tài liệu", "b": "Di chuyển con trỏ đầu của đoạn văn", "c": "Di chuyển con trỏ đầu của màn hình", "d": "Di chuyển con trỏ đầu dòng"}, "answer": null},
-    {"id": 36, "question": "Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau gọi là gì?", "options": {"a": "Macros", "b": "Template", "c": "Mail Merge", "d": "Merge cells"}, "answer": null}
+    {
+      "id": 1,
+      "question": "Thành phần cơ bản của máy tính là gì?",
+      "options": {
+        "a": "Nhóm thiết bị nhập/xuất, CPU, nhóm thiết bị lưu trữ",
+        "b": "CPU, RAM, ROM",
+        "c": "CPU, Mainboard, RAM",
+        "d": "Màn hình, bàn phím và CPU"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "Trong hệ thống máy tính, thiết bị nào sau đây là thiết bị nhập/xuất cơ bản?",
+      "options": {
+        "a": "Bàn phím, màn hình",
+        "b": "Bàn phím, chuột, máy chiếu",
+        "c": "Máy chiếu, máy scan",
+        "d": "Máy in, máy scan, máy chiếu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 3,
+      "question": "Tính chất nào sau đây là một trong các tính chất của bộ nhớ RAM?",
+      "options": {
+        "a": "Lưu trữ dữ liệu vĩnh viễn",
+        "b": "Lưu trữ dữ liệu tạm thời khi máy tính hoạt động",
+        "c": "Người dùng chỉ đọc dữ liệu từ RAM, không ghi được",
+        "d": "Dữ liệu ghi trên RAM do nhà sản xuất ghi một lần khi sản xuất máy tính"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "Khái niệm nào sau đây là đúng khi nói về hệ điều hành?",
+      "options": {
+        "a": "Hệ điều hành là một phần mềm hệ thống quan trọng",
+        "b": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ hoạt động của máy tính",
+        "c": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ cấu trúc của máy tính",
+        "d": "Hệ điều hành là phần mềm ứng dụng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Thiết bị nào sau đây là bộ nhớ chính của máy tính?",
+      "options": {
+        "a": "RAM, ROM",
+        "b": "USB",
+        "c": "Thẻ nhớ",
+        "d": "Ổ đĩa cứng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "Các thiết bị nào sau đây có thể gắn trực tiếp vào máy khi đang hoạt động?",
+      "options": {
+        "a": "USB, HDD, RAM, thẻ nhớ",
+        "b": "USB, thẻ nhớ, DVD, RAM",
+        "c": "Bàn phím, USB, Mouse, ổ cứng di động",
+        "d": "USB, thẻ nhớ, ROM"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 7,
+      "question": "Hệ điều hành Windows tương tác với người dùng thông qua?",
+      "options": {
+        "a": "Giao diện đồ họa",
+        "b": "Thiết bị nhập xuất",
+        "c": "Giao diện dòng lệnh",
+        "d": "Bàn phím"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 8,
+      "question": "Thành phần nào sau đây là bộ phận xử lý và điều khiển hoạt động của máy tính?",
+      "options": {
+        "a": "ROM",
+        "b": "RAM",
+        "c": "Ổ cứng",
+        "d": "CPU"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 9,
+      "question": "Phần mềm hệ thống là gì?",
+      "options": {
+        "a": "Những chương trình do hệ thống tạo ra",
+        "b": "Những chương trình tạo môi trường làm việc và cung cấp dịch vụ cho các phần mềm khác",
+        "c": "Những chương trình thực thi theo yêu cầu của người dùng",
+        "d": "Những chương trình của hệ điều hành"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Khái niệm cơ bản về phần mềm?",
+      "options": {
+        "a": "Phần mềm là chương trình máy tính thực hiện các yêu cầu của người dùng",
+        "b": "Phần mềm là chương trình máy tính dùng điều khiển hoạt động của máy tính",
+        "c": "Phần mềm là chương trình máy tính dùng để khởi động máy tính",
+        "d": "Phần mềm là chương trình máy tính tự động thực hiện một số nhiệm vụ hay chức năng hoặc giải quyết một vấn đề cụ thể nào đó"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 11,
+      "question": "Lựa chọn nào sau đây không thuộc nhóm Font Style?",
+      "options": {
+        "a": "Bold",
+        "b": "Italics",
+        "c": "Regular",
+        "d": "Superscript"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Portrait và Landscape là gì?",
+      "options": {
+        "a": "Page Orientation",
+        "b": "Paper Size",
+        "c": "Page Layout",
+        "d": "Page Margin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Tùy chọn nào sau đây không phải là thuộc tính lề của trang?",
+      "options": {
+        "a": "Left",
+        "b": "Right",
+        "c": "Center",
+        "d": "Top"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 14,
+      "question": "Borders được áp dụng cho?",
+      "options": {
+        "a": "Cells",
+        "b": "Paragraph",
+        "c": "Text",
+        "d": "Cells, Text, Paragraph"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 15,
+      "question": "Tập tin tài liệu có thể được chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì?",
+      "options": {
+        "a": "Page",
+        "b": "Document",
+        "c": "Section",
+        "d": "Page Setup"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 16,
+      "question": "Đơn vị đo lường thông tin cơ bản của máy tính là gì?",
+      "options": {
+        "a": "Byte",
+        "b": "Kilobyte",
+        "c": "Megabyte",
+        "d": "Gigabyte"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "1KB bằng bao nhiêu B?",
+      "options": {
+        "a": "1024 B",
+        "b": "1000 B",
+        "c": "2048 B",
+        "d": "948 B"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 18,
+      "question": "Các thiết bị nào sau đây sử dụng đơn vị đo thông tin cơ bản để đánh giá?",
+      "options": {
+        "a": "Đĩa cứng",
+        "b": "CPU",
+        "c": "Mainboard",
+        "d": "Màn hình"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 19,
+      "question": "Những tín hiệu nào sau đây cho thấy máy tính bị nhiễm virus?",
+      "options": {
+        "a": "Máy chạy chậm bất thường",
+        "b": "Không mở được ổ đĩa, thư mục trên ổ cứng",
+        "c": "Không cài được các phần mềm diệt virus trên máy tính",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 20,
+      "question": "Các thành phần chính trong CPU",
+      "options": {
+        "a": "ALU, CU, RAM",
+        "b": "ALU, CU, ROM",
+        "c": "ALU, CU, ROM, RAM",
+        "d": "ALU, CU"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 21,
+      "question": "Thiết bị nào sau đây không thuộc nhóm thiết bị xuất?",
+      "options": {
+        "a": "Màn hình",
+        "b": "Projector",
+        "c": "Máy scan",
+        "d": "Máy in"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 22,
+      "question": "Thiết bị nào sau đây không thuộc nhóm thiết bị nhập?",
+      "options": {
+        "a": "Bàn phím",
+        "b": "Máy scan",
+        "c": "Máy in",
+        "d": "Chuột"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 23,
+      "question": "Phát biểu nào sau đây là đúng nhất?",
+      "options": {
+        "a": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa",
+        "b": "Định dạng ổ đĩa chính là xóa dữ liệu trên ổ đĩa",
+        "c": "Định dạng ổ đĩa là đánh dấu những vị trí lỗi trên đĩa",
+        "d": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa và các vị trí lỗi sẽ được đánh dấu"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 24,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Open?",
+      "options": {
+        "a": "F12",
+        "b": "Shift + F12",
+        "c": "Alt + F12",
+        "d": "Ctrl + F12"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 25,
+      "question": "Lựa chọn nào sau đây không phải là một chức năng trên thước (Ruler)?",
+      "options": {
+        "a": "Tab stop",
+        "b": "Left Indent",
+        "c": "Right Indent",
+        "d": "Center Indent"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 26,
+      "question": "Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu chỉ hiển thị trong?",
+      "options": {
+        "a": "Print Layout View",
+        "b": "Reading View",
+        "c": "Print Preview",
+        "d": "Outline View"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 27,
+      "question": "Khi khởi động máy tính, phần mềm nào sẽ được thực hiện trước?",
+      "options": {
+        "a": "Phần mềm gõ tiếng Việt",
+        "b": "Hệ điều hành",
+        "c": "Chương trình diệt virus máy tính",
+        "d": "Phần mềm MS Word, MS Excel"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 28,
+      "question": "Trong môi trường Windows",
+      "options": {
+        "a": "Nhiều chương trình thực thi đồng thời",
+        "b": "2 chương trình thực thi đồng thời",
+        "c": "Chỉ chạy một chương trình",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 29,
+      "question": "Trong File Explorer, khi chọn tên ổ đĩa trong Pane trái thì",
+      "options": {
+        "a": "Pane phải hiển thị thông tin chi tiết về ổ đĩa được chọn",
+        "b": "Thực hiện chức năng định dạng lại ổ đĩa được chọn",
+        "c": "Thực hiện chức năng sao chép dữ liệu của ổ đĩa được chọn",
+        "d": "Thực hiện chức năng phân vùng cho ổ đĩa được chọn"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 30,
+      "question": "Thao tác nào sau đây dùng để thiết lập thuộc tính của tập tin hoặc thư mục?",
+      "options": {
+        "a": "Click phải chuột tên thư mục/tập tin, chọn Properties",
+        "b": "Click phải chuột tên thư mục/tập tin, chọn Attribute",
+        "c": "Click phải chuột tên thư mục/tập tin, chọn Hidden",
+        "d": "Click phải chuột tên thư mục/tập tin, chọn Type"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 31,
+      "question": "Thư mục (folder) là một:",
+      "options": {
+        "a": "Dạng tập tin đặc biệt, được dùng trong việc quản lý các tập tin",
+        "b": "Tập hợp các tập tin và thư mục con",
+        "c": "Phần ổ đĩa chứa một tập hợp các tập tin",
+        "d": "Mục lục để tra cứu thông tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 32,
+      "question": "Phát biểu nào sau đây là đúng khi nói về Recycle Bin:",
+      "options": {
+        "a": "Recycle Bin là nơi lưu lại các tập tin và thư mục bị xóa bằng phím delete",
+        "b": "Recycle Bin là phần mềm ứng dụng",
+        "c": "Recycle Bin là phần mềm hệ thống",
+        "d": "Recycle Bin là thành phần quản lý phần cứng của máy tính"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 33,
+      "question": "Trong File Explorer, cách nào sau đây dùng để chọn một lúc các file/folder nằm liền nhau?",
+      "options": {
+        "a": "Giữ phím Ctrl và chọn từng file/folder trong danh sách",
+        "b": "Giữ phím Alt và chọn từng file/folder trong danh sách",
+        "c": "Chọn một file/folder đầu tiên, nhấn giữ Shift, chọn file/folder cuối trong danh sách",
+        "d": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 34,
+      "question": "Trong File Explorer, cách nào sau đây dùng để chọn một lúc các file/folder không nằm liền nhau?",
+      "options": {
+        "a": "Nhấn giữ phím Ctrl và chọn từng file/folder trong danh sách",
+        "b": "Giữ phím Alt và chọn từng file/folder trong danh sách",
+        "c": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách",
+        "d": "Chọn một file/folder đầu tiên, nhấn giữ phím Shift, chọn file/folder cuối trong danh sách"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 35,
+      "question": "Khi soạn thảo văn bản trong Word, phím Home dùng để?",
+      "options": {
+        "a": "Di chuyển con trỏ về đầu của tài liệu",
+        "b": "Di chuyển con trỏ đầu của đoạn văn",
+        "c": "Di chuyển con trỏ đầu của màn hình",
+        "d": "Di chuyển con trỏ đầu dòng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 36,
+      "question": "Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau gọi là gì?",
+      "options": {
+        "a": "Macros",
+        "b": "Template",
+        "c": "Mail Merge",
+        "d": "Merge cells"
+      },
+      "answer": "c"
+    }
   ]
 }

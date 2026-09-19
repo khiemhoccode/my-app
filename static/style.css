@@ -164,16 +164,23 @@ body {
   gap: 10px;
   margin: 20px 0;
   text-align: left;
+  max-height: 420px;
+  overflow-y: auto;
+  padding-right: 4px;
 }
 
 .deck-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 12px;
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 14px 16px;
 }
+
+.deck-info { min-width: 0; }
+.deck-name { overflow-wrap: break-word; }
 
 .deck-name { font-weight: 600; }
 
