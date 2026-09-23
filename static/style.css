@@ -133,6 +133,9 @@ body {
 .result-summary { text-align: center; }
 .score { font-size: 32px; font-weight: 700; margin: 8px 0 0; }
 .percent { color: var(--muted); margin-top: 0; }
+.pass-fail { font-size: 26px; font-weight: 800; margin: 10px 0 4px; letter-spacing: 0.5px; }
+.pass-fail.pass { color: #16a34a; }
+.pass-fail.fail { color: #dc2626; }
 .review-title { margin-top: 28px; }
 
 .question.ok { border-left: 4px solid var(--green); }

@@ -17,6 +17,7 @@ app.secret_key = "doi-chuoi-nay-thanh-gi-do-bi-mat"  # đổi khi triển khai t
 DATA_DIR = Path(__file__).parent / "data"
 NUM_QUESTIONS = 40          # số câu hỏi mỗi lượt thi (lấy hết nếu đề có ít hơn)
 TIME_LIMIT_SECONDS = 30 * 60  # 30 phút
+PASS_THRESHOLD = 25         # đúng từ 25 câu trở lên -> Đậu, dưới 25 -> Rớt
 RANDOM_MODE_ID = "__random__"  # id đặc biệt đại diện cho chế độ "Ngẫu nhiên"
 
 
@@ -195,6 +196,9 @@ def submit_quiz():
     percent = round(score / scored_total * 100, 1) if scored_total else None
     mode_label = session.get("mode_label", "")
 
+    # Đậu/Rớt: chỉ chấm khi có ít nhất 1 câu được tính điểm (đề đã có đáp án đúng)
+    passed = (score >= PASS_THRESHOLD) if scored_total else None
+
     session.clear()
 
     return render_template(
@@ -204,6 +208,8 @@ def submit_quiz():
         total=total,
         scored_total=scored_total,
         percent=percent,
+        passed=passed,
+        pass_threshold=PASS_THRESHOLD,
         details=details,
     )
 

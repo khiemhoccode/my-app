@@ -1,0 +1,841 @@
+{
+  "title": "Ôn Tập Bộ Câu Hỏi Trắc Nghiệm Năm 2022 IUH - Phần 3",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở đầu trang tiếp theo",
+      "options": {
+        "a": "Section Breaks-> Next Page",
+        "b": "Section Breaks-> Continuous",
+        "c": "Section Breaks-> Even Page",
+        "d": "Section Breaks-> Odd Page"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "Thao tác nào sau đây thực hiện chức năng ngắt trang",
+      "options": {
+        "a": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert-> Page Break",
+        "b": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout-> Breaks-> Page",
+        "c": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert-> Breaks-> Page",
+        "d": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout -> Page Break"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 3,
+      "question": "Tổ hợp phím nào sau đây dùng để ẩn/hiện thanh Ribbon",
+      "options": {
+        "a": "Ctrl + F11",
+        "b": "Ctrl + F1",
+        "c": "Shift + F1",
+        "d": "Alt + F1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "Tổ hợp phím \"Ctrl + PageDown\" được sử dụng để di chuyển con trỏ đến",
+      "options": {
+        "a": "Cuối một đoạn (Paragraph)",
+        "b": "Cuối trang (Page)",
+        "c": "Cuối dòng (Line)",
+        "d": "Cuối màn hình (Screen)"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 5,
+      "question": "Tổ hợp phím Ctrl + phím mũi tên phải được dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ về bên phải của một từ",
+        "b": "Di chuyển con trỏ đến cuối dòng",
+        "c": "Di chuyển con trỏ cuối của tài liệu",
+        "d": "Di chuyển con trỏ xuống cuối của một đoạn"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "Khi soạn thảo văn bản trong Word, Phím Home dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ về đầu của tài liệu",
+        "b": "Di chuyển con trỏ đầu của đoạn văn",
+        "c": "Di chuyển con trỏ đầu của màn hình",
+        "d": "Di chuyển con trỏ đầu dòng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 7,
+      "question": "Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau gọi là gì",
+      "options": {
+        "a": "Macros",
+        "b": "Template",
+        "c": "mail merge",
+        "d": "Merge cells"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 8,
+      "question": "Lựa chọn nào sau đây không thuộc nhóm font style?",
+      "options": {
+        "a": "Bold",
+        "b": "Italics",
+        "c": "Regular",
+        "d": "Superscript"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 9,
+      "question": "Portrait và Landscape là",
+      "options": {
+        "a": "Page Orientation",
+        "b": "Paper Size",
+        "c": "Page Layout",
+        "d": "Page Margin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 10,
+      "question": "Tùy chọn nào sau đây không phải là thuộc tính lề của trang?",
+      "options": {
+        "a": "Left",
+        "b": "Right",
+        "c": "Center",
+        "d": "Top"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "Borders được áp dụng cho",
+      "options": {
+        "a": "Cells",
+        "b": "Paragraph",
+        "c": "Text",
+        "d": "Cells, Text, Paragraph"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Tập tin tài liệu có thể được chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì?",
+      "options": {
+        "a": "Page",
+        "b": "Document",
+        "c": "Section",
+        "d": "Page Setup"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 13,
+      "question": "Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu chỉ hiển thị trong _",
+      "options": {
+        "a": "Print Layout view",
+        "b": "Reading View",
+        "c": "Print Preview",
+        "d": "Outline View"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Lựa chọn nào sau đây không phải là một chức năng trên thước (Ruler)",
+      "options": {
+        "a": "Tab stop",
+        "b": "Left Indent",
+        "c": "Right Indent",
+        "d": "Center Indent"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 15,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Open",
+      "options": {
+        "a": "F12",
+        "b": "Shift F12",
+        "c": "Alt + F12",
+        "d": "Ctrl + F12"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 16,
+      "question": "Phím F12 dùng để mở hộp thoại",
+      "options": {
+        "a": "Save As",
+        "b": "Open",
+        "c": "Save",
+        "d": "Close"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Để tiêu đề của bảng tính lặp lại tại đầu của mỗi trang, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Mở hộp thoại Page Setup, chọn tab Sheet, trong mục Print titles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK.",
+        "b": "Mở hộp thoại Page Setup, trong mục Print titles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK.",
+        "c": "Chọn bảng tính, mở hộp thoại Page Setup, trong mục Print titles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK.",
+        "d": "Mở hộp thoại Page Setup, chọn dãy các ô cần lặp lại ở đầu mỗi trang, đưa trỏ vào ô Rows to repeat at top, click OK."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 18,
+      "question": "Dùng chức năng Filter lọc ra những thí sinh có điểm >=8, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Click nút bên phải cột điểm, chọn Number filter-> greater than or equal to, trong hộp thoại Custom Auto filter, nhập giá trị so sánh là 8, ok",
+        "b": "Click chuột phải trong cột điểm Number filter-> greater than or equal to, trong hộp thoại Custom Auto filter, nhập giá trị so sánh là 8, ok",
+        "c": "Click nút bên phải cột điểm, chọn auto filter-> trong hộp thoại Custom Auto filter, nhập giá trị so sánh là 8, ok",
+        "d": "Click nút bên phải cột điểm, chọn Number filter-> less than or equal to, trong hộp thoại Custom Auto filter, nhập giá trị so sánh là 8, ok"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 19,
+      "question": "Dùng chức năng Filter lọc ra các nhân viên có tên bắt đầu bằng ký tự H, lựa chọn nào sau đây thực hiện yêu cầu trên?",
+      "options": {
+        "a": "Click nút bên phải cột Tên nhân viên, chọn Text Filters -> Begin with, trong hộp thoại Custom Auto filter, nhập ký tự H, ok",
+        "b": "Click phải cột Tên nhân viên, chọn Text Filters -> Begin with, nhập ký tự H",
+        "c": "Click phải cột Tên nhân viên, chọn Text Filters -> trong hộp thoại Custom Auto filter, nhập ký tự H*",
+        "d": "Click phải cột Tên nhân viên, chọn Text Filters -> Begin with, nhập ký tự H*"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "Dùng chức năng Conditional Formatting tô màu các ô chứa giá trị <5, Rule nào sau đây phù hợp với yêu cầu trên",
+      "options": {
+        "a": "Format only cells that contain",
+        "b": "Format only top or bottom ranked values",
+        "c": "Format only values that are above or below average",
+        "d": "Use a formula to determine which cells to format"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 21,
+      "question": "Ô A1 và B1 lần lượt chứa các giá trị 8 và 6, lựa chọn nào sau đây là kết quả của công thức =A1*B1/IF(A1>B1,A1-B1,B1-A1)",
+      "options": {
+        "a": "24",
+        "b": "12",
+        "c": "18",
+        "d": "48"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 22,
+      "question": "Ô A1 và B1 lần lượt chứa các giá trị 8 và 6, lựa chọn nào sau đây là kết quả của công thức =IF(A1>B1,A1-B1,B1-A1)",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 23,
+      "question": "Cách nào sau đây dùng để hiệu chỉnh độ rộng của cột vừa với dữ liệu trong ô",
+      "options": {
+        "a": "Đặt trỏ trong cột cần hiệu chỉnh, click nút Format trong nhóm lệnh Cells, chọn Autofit column width",
+        "b": "Click chuột phải trên cột cần hiệu chỉnh, chọn Autofit column width",
+        "c": "Chọn cột cần hiệu chỉnh, double click",
+        "d": "Đặt trỏ tại vị trí bất kỳ trong cột cần hiệu chỉnh, double click"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 24,
+      "question": "Cho bảng tính như hình bên. Công thức nào sau đây dùng để đếm số thí sinh có điểm cao hơn điểm trung bình của cả lớp",
+      "options": {
+        "a": "=COUNTIF(A2:A8,\">\"&AVERAGE(A2:A8))",
+        "b": "=COUNTIF(A2:A8,\">\"& \"AVERAGE(A2:A8) \")",
+        "c": "=COUNTIF(A2:A8,\">AVERAGE(A2:A8) \")",
+        "d": "=COUNTIF(A2:A8,>&AVERAGE(A2:A8))"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 25,
+      "question": "Cho bảng tính như hình bên cạnh. Công thức nào sau đây dùng để đếm số thí sinh có điểm >=8",
+      "options": {
+        "a": "=COUNTIF(A2:A8,\">=8\")",
+        "b": "=COUNTIF(A2:A8,>=8)",
+        "c": "=COUNTIF(A2:A8,'>=8')",
+        "d": "=COUNTA(A2:A8,\">=8\")"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 26,
+      "question": "Trong hộp thoại Format cells, thiết lập định dạng cho dữ liệu kiểu số sao cho khi nhập giá trị 011122333, kết quả hiển thị là 011-12-2333, mẫu định dạng nào sau đây là đúng",
+      "options": {
+        "a": "000-00-0000",
+        "b": "###-##-####",
+        "c": "@@@-@@-@@@@",
+        "d": "$$$-$$-$$$$"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 27,
+      "question": "Cho bảng tính như hình bên. Công thức nào sau đây dùng để điền dữ liệu trong ô B2 và sau đó sao chép cho các ô B3:B8",
+      "options": {
+        "a": "=VLOOKUP(A2,$D$2:$E$6,2,1)",
+        "b": "=VLOOKUP(A2,$D$2:$E$6,2,0)",
+        "c": "=VLOOKUP(A2,$D$2:$E$6,2)",
+        "d": "=VLOOKUP(A2,D2:E6,2,1)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 28,
+      "question": "Cho bảng tính như hình bên. Công thức nào sau đây dùng để điền tên hàng trong ô B2, sau đó sao chép cho các ô B3:B7",
+      "options": {
+        "a": "=VLOOKUP(RIGHT(A2,2)*1,$D$3:$E$5,2,0)",
+        "b": "=VLOOKUP(RIGHT(A2,2),$D$3:$E$5,2,0)",
+        "c": "=VLOOKUP(RIGHT(A2,2),D3:E5,2,0)",
+        "d": "=HLOOKUP(RIGHT(A2,2),$D$3:$E$5,2,0)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 29,
+      "question": "Nhập đối số thứ 2 của hàm Weekday là 2, nếu kết quả của hàm là 3, hãy cho biết đó là ngày thứ mấy trong tuần?",
+      "options": {
+        "a": "Thứ hai",
+        "b": "Thứ ba",
+        "c": "Thứ tư",
+        "d": "Thứ năm"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 30,
+      "question": "Tổ hợp phím nào sau đây dùng để định dạng một số ở dạng %",
+      "options": {
+        "a": "Ctrl + Shift + %",
+        "b": "Ctrl + %",
+        "c": "Shift + %",
+        "d": "Ctrl + Alt + %"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 31,
+      "question": "Ô A1 chứa chuỗi \"Đại Học Công Nghiệp TP.HCM\". Hãy cho biết lựa chọn nào sau đây tương đương với công thức =MID(A1,9,11)",
+      "options": {
+        "a": "=LEFT(RIGHT(A1,18),11)",
+        "b": "=RIGHT(LEFT(A1,19),11)",
+        "c": "=MID(LEFT(A1,19),9,11)",
+        "d": "Tất cả các lựa chọn là tương đương"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 32,
+      "question": "Ô A1 chứa chuỗi \"Khoa Công Nghệ Thông Tin\". Hãy cho biết kết quả của công thức =RIGHT(LEFT(A1,14),9)",
+      "options": {
+        "a": "Công Nghệ",
+        "b": "Thông tin",
+        "c": "Khoa Công Nghệ",
+        "d": "#VALUE!"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 33,
+      "question": "Cho bảng tính như hình bên. Điểm tổng kết bằng trung bình cộng của Điểm lý thuyết và Điểm thực hành nhưng chỉ tính nếu điểm thành phần >=5, ngược lại điểm tổng kết là 0, công thức nào sau đây là đáp án của yêu cầu trên.",
+      "options": {
+        "a": "=IF(MIN(A2:B2)>=5,AVERAGE(A2:B2),0)",
+        "b": "=IF(OR(A2>=5,B2>=5),AVERAGE(A2:B2),0)",
+        "c": "=IF(OR(A2<=5,B2<=5),0, AVERAGE(A2:B2))",
+        "d": "=IF(AND(A2>=5,B2>=5), 0, AVERAGE(A2:B2))"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 34,
+      "question": "Lựa chọn nào sau đây là kết quả của công thức =ROUND(98756.678,-3)",
+      "options": {
+        "a": "99000",
+        "b": "98756.000",
+        "c": "98756",
+        "d": "98000"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 35,
+      "question": "Hàm nào sau đây dùng để đếm các ô không rỗng",
+      "options": {
+        "a": "Count",
+        "b": "Counta",
+        "c": "Countblank",
+        "d": "countif"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 36,
+      "question": "Ô A1 chứa giá trị A04, tại ô B1, nhập công thức =RIGHT(A1,1)*4, kết quả của công thức là gì?",
+      "options": {
+        "a": "#VALUE!",
+        "b": "16",
+        "c": "0",
+        "d": "#REF!"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 37,
+      "question": "Thao tác nào sau đây dùng để sao chép một worksheet thành một Workbook mới",
+      "options": {
+        "a": "Click chuột phải trên tên của Worksheet cần sao chép, chọn Move or Copy, trong ô To book, chọn new book và đánh dấu check vào ô Create a copy",
+        "b": "Click chuột phải trên tên của Worksheet cần sao chép, chọn Copy, tạo một workbook mới và chọn Paste",
+        "c": "Chọn Worksheet cần sao chép, chọn Copy, chọn tab File, chọn new book và đánh dấu check vào ô Create a copy",
+        "d": "Chọn Worksheet cần sao chép, chọn Copy, trong ô To book, chọn new book và đánh dấu check vào ô Create a copy"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 38,
+      "question": "Dùng chức năng Fill điền vào dãy các ô C2:C21 các giá trị: $3.00, $2.95, $2.90, … $2.05, thao tác nào sau đây là đúng",
+      "options": {
+        "a": "Nhập giá trị $3.00 vào ô C2, chọn các ô C2:C21, trong nhóm lệnh editing của tab Home, chọn Fill -> Series, trong ô Step value: nhập -0.5, Stop value: nhập 2.05 ->OK",
+        "b": "Nhập giá trị $3.00 vào ô C2, chọn các ô C3:C21, trong nhóm lệnh editing của tab Home, chọn Fill -> Series, trong ô Step value: nhập -0.5, Stop value: nhập 2.05 ->OK",
+        "c": "Nhập giá trị $3.00 vào ô C2, chọn các ô C2:C21, trong nhóm lệnh editing của tab Home, chọn Fill -> Series, trong ô Step value: nhập 0.5, Stop value: nhập 2.05 ->OK",
+        "d": "Nhập giá trị $3.00 vào ô C2, chọn các ô C2:C21, trong nhóm lệnh editing của tab Home, chọn Fill -> Series, trong mục Type chọn AutoFill->OK"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 39,
+      "question": "Giá trị trong các ô A1, B1, C1 lần lượt là 6, 30 và 170, hãy cho biết công thức nào sau đây tương đương với công thức =IF(A1*B1>C1,C1,A1*B1)",
+      "options": {
+        "a": "=MIN(A1*B1,C1)",
+        "b": "=IF(A1*B1<C1,A1*B1,C1)",
+        "c": "=IF(MIN(A1*B1,C1)=C1,C1,A1*B1)",
+        "d": "Tất cả các lựa chọn đều tương đương"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 40,
+      "question": "Hãy cho biết kết quả của công thức sau =IF(MIN(A1:B1)>=5=TRUE,AVERAGE(A1:B1),0)",
+      "options": {
+        "a": "0",
+        "b": "True",
+        "c": "False",
+        "d": "Công thức sai cú pháp"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 41,
+      "question": "Giá trị trong ô A1 là 3, hãy cho biết kết quả của biểu thức =Mod(A1*3,A1*4) là gì?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "9",
+        "d": "12"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 42,
+      "question": "Một công thức trong Excel được bắt đầu bằng dấu:",
+      "options": {
+        "a": "=",
+        "b": "+",
+        "c": "*",
+        "d": "= hoặc +"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 43,
+      "question": "Trong excel, tên của ô hoặc dãy ô được định nghĩa có giá trị trong phạm vi nào?",
+      "options": {
+        "a": "Trong Worksheet chứa ô hoặc dãy ô được định nghĩa tên",
+        "b": "Trong toàn bộ Workbook",
+        "c": "Trong tất cả các workbook",
+        "d": "Không có giá trị trong bất kỳ phạm vi nào"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 44,
+      "question": "Cách nào sau đây dùng để xóa tên của ô và dãy các ô đã được định nghĩa",
+      "options": {
+        "a": "Chọn tab Formulas -> Name Manager-> chọn tên của ô hoặc dãy các ô cần xóa -> Delete",
+        "b": "Chọn tab Data -> Name Manager-> chọn tên của ô hoặc dãy các ô cần xóa -> Delete",
+        "c": "Chọn tab Home -> Name Manager-> chọn tên của ô hoặc dãy các ô cần xóa -> Delete",
+        "d": "Chọn ô hoặc dãy các ô cần xóa tên -> Delete"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 45,
+      "question": "Dùng chức năng Define Name định nghĩa tên cho ô A1 là tigia, tên tigia tương ứng với loại địa chỉ nào sau đây",
+      "options": {
+        "a": "A1",
+        "b": "$A$1",
+        "c": "A$1",
+        "d": "$A1"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 46,
+      "question": "Định dạng màu xanh lá cho tất cả số âm trong 1 cột dữ liệu, chọn mẫu định dạng nào sau đây?",
+      "options": {
+        "a": "$0.00;[green]#,##0.00;",
+        "b": ";[green]#,##0.00;",
+        "c": "$0.00;[green]#,##0.00",
+        "d": "$0.00;[red]$0.00;\"Zero\";[green]@"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 47,
+      "question": "Nếu định dạng dữ liệu kiểu số trong một ô hoặc dãy ô có dạng: [Blue]#,##0);[Red](#,##0); thì khi nhập giá trị vào ô, kết quả sẽ hiển thị như thế nào?",
+      "options": {
+        "a": "Số dương màu xanh, số âm màu đỏ đặt trong cặp dấu ()",
+        "b": "Số dương màu đỏ, số âm màu xanh đặt trong cặp dấu ()",
+        "c": "Số dương màu xanh đặt trong cặp dấu (), số âm màu đỏ",
+        "d": "Số dương màu xanh, số âm màu đỏ"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 48,
+      "question": "Cách nào sau đây để di chuyển trỏ đến cột cuối cùng của worksheet",
+      "options": {
+        "a": "Nhấn phím End, sau đó nhấn tổ hợp phím Ctrl + ->",
+        "b": "Nhấn phím End, sau đó nhấn tổ hợp phím Ctrl + End",
+        "c": "Nhấn tổ hợp phím Ctrl + ->",
+        "d": "Nhấn tổ hợp phím Shift + End"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 49,
+      "question": "Tổ hợp phím nào sau đây dùng để di chuyển con trỏ đến ô cuối cùng của bảng dữ liệu",
+      "options": {
+        "a": "Ctrl + End",
+        "b": "Ctrl + Shift + End",
+        "c": "Shift + End",
+        "d": "Alt + End"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Thao tác nào sau đây dùng để chèn tên tập tin excel (tên của workbook) vào header của bảng tính sao cho khi thay đổi tên tập tin thì tên tập tin trong header tự động cập nhật theo",
+      "options": {
+        "a": "Chọn tab Insert, trong nhóm lệnh Text, chọn Header&Footer, đặt trỏ trong phần header, trong nhóm lệnh Header&Footer elements của tab design, chọn File name",
+        "b": "Chọn tab Insert, trong nhóm lệnh Header&Footer, đặt trỏ trong phần header, trong nhóm lệnh Header&Footer elements của tab design, chọn File name",
+        "c": "Chọn tab Insert, trong nhóm lệnh Page Setup, chọn Header&Footer, đặt trỏ trong phần header, trong nhóm lệnh Header&Footer elements của tab design, chọn File name",
+        "d": "Chọn tab insert, trong nhóm lệnh Text, chọn Header&Footer, trong phần header, nhập tên tập tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 51,
+      "question": "Trong bảng tính Excel, thao tác nào sau đây dùng để chèn dấu ngắt trang",
+      "options": {
+        "a": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout-> Breaks-> Insert Page Break",
+        "b": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert-> Page break",
+        "c": "Đặt trỏ tại vị trí ngắt trang -> click chuột phải và chọn Insert Page Break",
+        "d": "Đặt trỏ tại vị trí ngắt trang-> chọn tab Insert-> Insert Page break"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 52,
+      "question": "Kiểu View nào sau đây cho phép người dùng có thể xem dấu ngắt trang của bảng tính",
+      "options": {
+        "a": "Normal view",
+        "b": "Page layout view",
+        "c": "Page break preview",
+        "d": "Print preview"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 53,
+      "question": "Kiểu View nào sau đây cho phép người dùng chỉ có thể xem nội dung của Header và Footer của bảng tính",
+      "options": {
+        "a": "Normal view",
+        "b": "Page layout view",
+        "c": "Page break preview",
+        "d": "Print preview"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 54,
+      "question": "Mặc định khi thực hiện thao tác in, excel sẽ in toàn bộ bảng tính, cách nào sau đây dùng để in một vùng dữ liệu được chỉ định",
+      "options": {
+        "a": "Chọn vùng dữ liệu cần in, chọn tab Page Layout, trong nhóm lệnh Page Setup, Click nút Print area, chọn Set Print area",
+        "b": "Chọn vùng dữ liệu cần in, chọn tab File, chọn Print, Click nút Print area, chọn Set Print area",
+        "c": "Chọn vùng dữ liệu cần in, chọn tab File, chọn Print, click Page Setup, chọn nút Print area",
+        "d": "Chọn vùng dữ liệu cần in, chọn File -> Print->Print"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 55,
+      "question": "Kiểu View nào sau đây cho phép người dùng có thể nhập nội dung cho Header và Footer của bảng tính",
+      "options": {
+        "a": "Normal view",
+        "b": "Page layout view",
+        "c": "Page break preview",
+        "d": "Print preview"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 56,
+      "question": "Để cố định phần tiêu đề của bảng tính tại hai dòng 1 và 2, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn dòng thứ 3 của bảng tính, trong nhóm lệnh Window của tab View, click nút Freeze Panes, chọn Freeze Panes",
+        "b": "Chọn 2 dòng 1 và 2 của bảng tính, trong nhóm lệnh Window của tab View, click nút Freeze Panes, chọn Freeze Panes",
+        "c": "Chọn dòng thứ 3 của bảng tính, trong nhóm lệnh Window của tab Review, click nút Freeze Panes, chọn Freeze Panes",
+        "d": "Đặt trỏ trong bảng tính, trong nhóm lệnh Window của tab View, click nút Freeze Panes, chọn Freeze Panes"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 57,
+      "question": "Thao tác nào sau đây dùng để định dạng những điểm thi có giá trị cao hơn điểm thi trung bình của cả lớp có kiểu in đậm và màu đỏ",
+      "options": {
+        "a": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn New Rule, chọn rule: Format only values that are above or below average, click format, chọn Font Style: Bold và Color: Red",
+        "b": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn Top/Bottom Rules -> Above Average -> Red Text.",
+        "c": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn Top/Bottom Rules -> Below Average -> Red Text.",
+        "d": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn New Rule, chọn rule: Format only values that are Below or below average, click format, chọn Font Style: Bold và Color: Red"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 58,
+      "question": "Thao tác nào sau đây dùng để xóa định dạng trong một ô hoặc dãy các ô",
+      "options": {
+        "a": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Editing, click nút Clear, chọn Clear Formats",
+        "b": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Clear, chọn Formats",
+        "c": "Chọn các ô cần xóa định dạng, nhấn phím Delete",
+        "d": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Delete, chọn Delete Cells"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 59,
+      "question": "Ô A1 chứa giá trị 15/04/2016, dùng chức năng Fill để điền giá trị cho dãy ô A2:A10, là những ngày làm việc trong tuần bắt đầu từ ngày 15/04/2016, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn dãy ô A1:A10, chọn Fill-> Series, trong mục Date unit, chọn Weekday",
+        "b": "Chọn dãy ô A2:A10, chọn Fill-> Series, trong mục Date unit, chọn Weekday",
+        "c": "Chọn dãy ô A1:A10, chọn Fill-> Series, trong mục Type, chọn AutoFill",
+        "d": "Chọn dãy ô A2:A10, chọn Fill-> Series, trong mục Type, chọn Date"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 60,
+      "question": "Ô A1 chứa giá trị 0.5, A2 chứa giá trị 2, dùng chức năng Fill để điền dữ liệu cho các ô kế tiếp trong cột A theo quy luật như hình, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Chọn các ô từ A1:A8, chọn Fill -> Series, trong nhóm Type, chọn Growth, Chọn Trend",
+        "b": "Chọn các ô từ A1:A8, chọn Fill -> Series, trong nhóm Type, chọn Linear",
+        "c": "Chọn các ô từ A1:A8, chọn Fill -> Series, trong nhóm Type, chọn AutoFill, chọn Trend",
+        "d": "Chọn các ô từ A1:A8, chọn Fill -> Series, trong nhóm Type, chọn Growth"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 61,
+      "question": "Ô A1 chứa giá trị 0.1, sử dụng chức năng Fill để điền dữ liệu cho các ô từ A2, A3, … các giá trị theo quy tắc 0.6, 1.1, 1.6, 2.1, … và giá trị kết thúc là 3, thao tác nào sau đây là đúng?",
+      "options": {
+        "a": "Đặt trỏ trong ô A1, chọn Fill-> Series, tại mục Series in, chọn Columns, tại ô Step values, nhập giá trị 0.5, stop values, nhập giá trị 3",
+        "b": "Đặt trỏ trong ô A1, chọn Fill-> Series, tại mục type, chọn Autofill, tại ô Step values, nhập giá trị 0.5, stop values, nhập giá trị 3",
+        "c": "Đặt trỏ trong ô A1, chọn Fill-> Series, tại mục type, chọn Linear, tại ô Step values, nhập giá trị 0.4, stop values, nhập giá trị 3",
+        "d": "Đặt trỏ trong ô A1, chọn Fill-> Series, tại mục type, chọn Growth, tại ô Step values, nhập giá trị 0.6, stop values, nhập giá trị 3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 62,
+      "question": "Cách nào sau đây dùng để sao chép dữ liệu trong dãy ô A1:A4 thành dòng từ C1:F1",
+      "options": {
+        "a": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste Special, chọn Transpose",
+        "b": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste",
+        "c": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô A1, chọn Paste Special, chọn Rows",
+        "d": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste Link"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 63,
+      "question": "Để sao chép giá trị của dữ liệu từ vị trí này đến vị trí khác trong bảng tính của excel, lựa chọn nào sau đây là đúng?",
+      "options": {
+        "a": "Đặt trỏ tại vị trí cần sao chép, click nút Paste trong nhóm lệnh Clipboard",
+        "b": "Đặt trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste special, chọn values",
+        "c": "Đặt trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste special, chọn all",
+        "d": "Đặt trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste special, chọn Data"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 64,
+      "question": "Chức năng nào sau đây làm cho nội dung trong một ô tự động xuống dòng khi gặp lề phải của ô",
+      "options": {
+        "a": "Wrap text",
+        "b": "Shrink to fit",
+        "c": "Merge cells",
+        "d": "Merge across"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 65,
+      "question": "Trong excel, cách nào sau đây dùng để xuống dòng trong một ô",
+      "options": {
+        "a": "Enter",
+        "b": "Shift + Enter",
+        "c": "Alt + Enter",
+        "d": "Ctrl + Enter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 66,
+      "question": "Trong excel, cách nào sau đây dùng để thiết lập Font mặc định",
+      "options": {
+        "a": "Chọn File->Options->General, tại mục Use this as the default font, chọn Font mặc định",
+        "b": "Chọn Home->Font->General, chọn tab Font, chọn Font mặc định",
+        "c": "Chọn Home->trong nhóm lệnh Font, chọn Font mặc định",
+        "d": "Chọn File->Options->Advanced, tại mục Use this as the default font, chọn Font mặc định"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 67,
+      "question": "Hàm Vlookup và Hlookup có bao nhiêu đối số",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 68,
+      "question": "Phát biểu nào sau đây là đúng về bảng dữ liệu chứa giá trị tìm kiếm của hàm VLOOKUP và HLOOKUP",
+      "options": {
+        "a": "Cột hoặc hàng chứa mã dò tìm đặt ở vị trí bất kỳ trong bảng dò tìm",
+        "b": "Cột hoặc hàng chứa mã dò tìm luôn đặt ở vị trí đầu tiên trong bảng dò tìm",
+        "c": "Cột hoặc hàng chứa mã dò tìm luôn đặt ở vị trí cuối cùng trong bảng dò tìm",
+        "d": "Cột hoặc hàng chứa mã dò tìm luôn đặt bên cạnh cột hoặc hàng chứa giá trị cần tìm"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 69,
+      "question": "Cho bảng tính như hình, tại ô C2, nhập công thức =VLOOKUP(B2,$E$2:$F$6,2,0), kết quả là gì?",
+      "options": {
+        "a": "#N/A",
+        "b": "#REF",
+        "c": "#NAME",
+        "d": "#ERROR"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 70,
+      "question": "Cho bảng tính như hình, công thức nào sau đây là đúng để điền dữ liệu vào cột đơn giá.",
+      "options": {
+        "a": "=VLOOKUP(A2,$A$10:$C$12,3,0)",
+        "b": "=VLOOKUP(A2,B10:C12,3,0)",
+        "c": "=VLOOKUP(LEFT(A2,1),$A$10:$C$12,3,0)",
+        "d": "=VLOOKUP(A2,C10:C12,3,0)"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 71,
+      "question": "Cho bảng tính như hình, công thức nào sau đây dùng để điền dữ liệu vào cột tên hàng?",
+      "options": {
+        "a": "=VLOOKUP(A2,A11:B13,2,0)",
+        "b": "=VLOOKUP(A2,$A$11:$B$13,2,0)",
+        "c": "=VLOOKUP(A2,A11:A13,2,0)",
+        "d": "=VLOOKUP(A2,B11:B13,2,0)"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 72,
+      "question": "Cho bảng tính như hình, hãy lập công thức điền dữ liệu vào cột xếp loại",
+      "options": {
+        "a": "=VLOOKUP(B2,$E$2:$I$3,2,1)",
+        "b": "=HLOOKUP(B2,$E$2:$I$3,2,0)",
+        "c": "=VLOOKUP(B2,$E$2:$I$3,2,0)",
+        "d": "=HLOOKUP(B2,$E$2:$I$3,2,1)"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 73,
+      "question": "Cho bảng tính như hình bên. Công thức nào sau đây dùng để điền dữ liệu trong ô B2 và sau đó sao chép cho các ô B3:B8",
+      "options": {
+        "a": "=VLOOKUP(A2,$D$2:$E$6,2,0)",
+        "b": "=VLOOKUP(A2,$D$2:$E$6,2)",
+        "c": "=VLOOKUP(A2,$D$2:$E$6,2,1)",
+        "d": "=VLOOKUP(A2,D2:E6,2,1)"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 74,
+      "question": "Cho bảng tính như hình bên. Công thức nào sau đây dùng để điền tên hàng trong ô B2, sau đó sao chép cho các ô B3:B7",
+      "options": {
+        "a": "=VLOOKUP(RIGHT(A2,2)*1,$D$3:$E$5,2,0)",
+        "b": "=VLOOKUP(RIGHT(A2,2),$D$3:$E$5,2,0)",
+        "c": "=VLOOKUP(RIGHT(A2,2),D3:E5,2,0)",
+        "d": "=HLOOKUP(RIGHT(A2,2),$D$3:$E$5,2,0)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 75,
+      "question": "Chọn bảng tính như hình, tại ô C2, nhập công thức =VLOOKUP(B2,$E$2:$F$6,2,1), kết quả là gì?",
+      "options": {
+        "a": "Giỏi",
+        "b": "Khá",
+        "c": "Trung bình",
+        "d": "Yếu"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 76,
+      "question": "Nếu bỏ qua đối số cuối trong hàm Vlookup và Hlookup thì kiểu dò tìm là gì?",
+      "options": {
+        "a": "Dò tìm tương đối",
+        "b": "Dò tìm chính xác",
+        "c": "Công thức báo lỗi",
+        "d": "Không thực hiện được"
+      },
+      "answer": "a"
+    }
+  ]
+}

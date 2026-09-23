@@ -13,6 +13,12 @@
       {% if scored_total > 0 %}
       <p class="score">{{ score }} / {{ scored_total }} câu đúng</p>
       <p class="percent">({{ percent }}%)</p>
+      {% if passed %}
+      <p class="pass-fail pass">✅ ĐẬU</p>
+      {% else %}
+      <p class="pass-fail fail">❌ RỚT</p>
+      {% endif %}
+      <p class="muted small">(Điều kiện đậu: đúng từ {{ pass_threshold }}/{{ scored_total }} câu trở lên)</p>
       {% if scored_total < total %}
       <p class="muted small">({{ total - scored_total }} câu trong đề chưa có đáp án nên không được tính điểm)</p>
       {% endif %}

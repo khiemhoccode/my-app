@@ -1,0 +1,841 @@
+{
+  "title": "Ôn Tập Bộ Câu Hỏi Trắc Nghiệm Năm 2022 IUH - Phần 2",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Phát biểu nào dưới đây là đúng?",
+      "options": {
+        "a": "Nhà sản xuất quy định 1 MB = 1000KB",
+        "b": "Nhà sản xuất chỉ sản xuất các sản phẩm theo quy ước 1MB = 1024 KB",
+        "c": "Nhà sản xuất không sản xuất theo quy định của đơn vị thông tin cơ bản",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "Hãy cho biết phát biểu nào sau đây là đúng khi nói về đơn vị đo lường thông tin cơ bản?",
+      "options": {
+        "a": "Đơn vị lưu trữ thông tin cơ bản của máy tính là byte",
+        "b": "Đơn vị lưu trữ thông tin cơ bản của máy tính là Kilo byte",
+        "c": "Đơn vị lưu trữ thông tin cơ bản của máy tính là Mega byte",
+        "d": "Đơn vị lưu trữ thông tin cơ bản của máy tính là Giga byte"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 3,
+      "question": "Các thiết bị nào dưới đây không sử dụng đơn vị đo lường thông tin cơ bản để đánh giá",
+      "options": {
+        "a": "Rom, Ram, CPU",
+        "b": "HDD, SSD, DVD",
+        "c": "FDD, DVD, USB",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 4,
+      "question": "Các thiết bị nào sau đây sử dụng đơn vị đo thông tin cơ bản để đánh giá?",
+      "options": {
+        "a": "Đĩa cứng",
+        "b": "CPU",
+        "c": "Mainboard",
+        "d": "Màn hình"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 5,
+      "question": "Trong các đơn vị đo thông tin sau đây. Đơn vị nào là nhỏ nhất?",
+      "options": {
+        "a": "Byte",
+        "b": "KB",
+        "c": "MB",
+        "d": "TB"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "Thông tin lưu trữ trong máy tính dưới dạng gì?",
+      "options": {
+        "a": "Thập phân",
+        "b": "Bát phân",
+        "c": "Nhị phân",
+        "d": "Thập lục phân"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 7,
+      "question": "Khái niệm nào sau đây là đúng khi nói về đơn vị đo lường thông tin cơ bản?",
+      "options": {
+        "a": "Đơn vị nhỏ nhất trong máy tính là Bit",
+        "b": "Đơn vị nhỏ nhất trong máy tính là Byte",
+        "c": "Không có đơn vị nhỏ nhất trong máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 8,
+      "question": "Phát biểu nào sau đây là đúng khi nói về đơn vị đo lường cơ bản?",
+      "options": {
+        "a": "Đơn vị đo lường thông tin cơ bản chỉ dùng đo dung lượng của đĩa cứng",
+        "b": "Đơn vị đo lường thông tin cơ bản chỉ đo lường trọng lượng của máy tính",
+        "c": "Đơn vị đo lường thông tin cơ bản là đơn vị đo dung lượng dữ liệu lưu trữ trong máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 9,
+      "question": "Hãy cho biết kết quả của phép toán 1MB = ? GB?",
+      "options": {
+        "a": "1024",
+        "b": "1/1024",
+        "c": "1/2048",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Trong các đơn vị đo lường thông tin cơ bản, nhà sản xuất quy định 1KB bằng bao nhiêu B?",
+      "options": {
+        "a": "1024 B",
+        "b": "1000 B",
+        "c": "2048 B",
+        "d": "948 B"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 11,
+      "question": "Có bao nhiêu loại đơn vị đo thông tin cơ bản?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "1"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 12,
+      "question": "Đơn vị đo lường thông tin cơ bản của máy tính là gì?",
+      "options": {
+        "a": "Byte",
+        "b": "Kilo Byte",
+        "c": "Mega Byte",
+        "d": "Giga Byte"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Máy Scanner được kết nối với máy tính thông qua cổng nào sau đây?",
+      "options": {
+        "a": "USB",
+        "b": "RJ 45",
+        "c": "LPT",
+        "d": "RJ 11"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Tốc độ 1x chuẩn của ổ đĩa CD-ROM thường có giá trị là:",
+      "options": {
+        "a": "1024 KBps",
+        "b": "150 KBps",
+        "c": "1500 KBps",
+        "d": "2048 KBps"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 15,
+      "question": "Vi xử lý thế hệ Core 2 Duo của Intel được tích hợp bao nhiêu nhân xử lí?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 16,
+      "question": "Cổng PS/2 có màu xanh lá được kết nối với thiết bị nào sau đây?",
+      "options": {
+        "a": "Chuột",
+        "b": "Scanner",
+        "c": "Bàn phím",
+        "d": "Modem"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Chức năng của hệ điều hành là gì?",
+      "options": {
+        "a": "Quản lý quá trình",
+        "b": "Quản lý bộ nhớ",
+        "c": "Quản lý hệ thống lưu trữ",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 18,
+      "question": "Bộ phận chuyển đổi sang ngôn ngữ máy để CPU có thể xử lý là?",
+      "options": {
+        "a": "Rom",
+        "b": "Chipset (North Bridge)",
+        "c": "Ram",
+        "d": "Mainboard"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 19,
+      "question": "Sự khác nhau giữa Ram và Rom",
+      "options": {
+        "a": "Ram là bộ nhớ truy xuất ngẫu nhiên, Rom là bộ nhớ chỉ để đọc",
+        "b": "Ram là bộ nhớ chỉ để đọc, Rom là bộ nhớ truy xuất ngẫu nhiên",
+        "c": "Ram là bộ nhớ vừa đọc vừa ghi, Rom là bộ nhớ chỉ để đọc",
+        "d": "Ram là bộ nhớ để đọc, Rom là bộ nhớ vừa đọc vừa ghi"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "Ngôn ngữ để CPU có thể xử lý thông tin có dạng:",
+      "options": {
+        "a": "Thập phân",
+        "b": "Bát phân",
+        "c": "Nhị Phân",
+        "d": "Thập lục phân"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 21,
+      "question": "Tốc độ truy xuất của máy tính phụ thuộc vào",
+      "options": {
+        "a": "Ram",
+        "b": "ROM",
+        "c": "CPU",
+        "d": "GPU"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 22,
+      "question": "Nguyên lý hoạt động của CPU",
+      "options": {
+        "a": "Nhận lệnh, giải mã lệnh, thực hiện lệnh.",
+        "b": "Nhận lệnh, giải mã lệnh, nhận toán hạng, thực hiện lệnh, ngắt.",
+        "c": "Nhận lệnh, giải mã lệnh, thực hiện lệnh, ngắt.",
+        "d": "Nhận lệnh, giải mã lệnh, nhận toán hạng, thực hiện lệnh, cất toán hạng, ngắt."
+      },
+      "answer": "d"
+    },
+    {
+      "id": 23,
+      "question": "Hệ điều hành máy tính tương tác với người dùng thông qua?",
+      "options": {
+        "a": "Giao diện đồ họa",
+        "b": "Thiết bị nhập xuất",
+        "c": "Giao diện dòng lệnh",
+        "d": "Bàn phím"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 24,
+      "question": "Trong các hoạt động của máy tính thì hoạt động nào là quan trọng nhất?",
+      "options": {
+        "a": "Xử lý thông tin",
+        "b": "Lưu trữ thông tin",
+        "c": "Trao đổi thông tin",
+        "d": "Truyền thông tin"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 25,
+      "question": "Khi hệ thống máy tính khởi động, thiết bị được truy xuất đầu tiên là?",
+      "options": {
+        "a": "ROM",
+        "b": "RAM",
+        "c": "Ổ cứng",
+        "d": "CPU"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 26,
+      "question": "Trong CPU có các thành phần nào?",
+      "options": {
+        "a": "CPU, CU, ALU",
+        "b": "CU, ALU",
+        "c": "CLU, ALU",
+        "d": "RAM, CU, ALU"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 27,
+      "question": "Bộ xử lý quan trọng nhất của máy tính là gì?",
+      "options": {
+        "a": "Ram",
+        "b": "Chíp cầu Bắc",
+        "c": "Chíp cầu Nam",
+        "d": "CPU"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 28,
+      "question": "Khái niệm cơ bản về phần mềm ứng dụng?",
+      "options": {
+        "a": "Phần mềm ứng dụng là phần mềm dùng để tạo ra ứng dụng",
+        "b": "Phần mềm ứng dụng là phần mềm phục vụ cho các công việc khác nhau trong cuộc sống và công việc hằng ngày.",
+        "c": "Phần mềm ứng dụng là công cụ",
+        "d": "Phần mềm ứng dụng là một phần mềm hệ thống quan trọng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 29,
+      "question": "Khái niệm cơ bản về phần mềm?",
+      "options": {
+        "a": "Phần mềm là chương trình máy tính khi được thực thi mang hiệu quả và chức năng mong muốn",
+        "b": "Phần mềm là chương trình máy tính khi thực thi mang lại kết quả mong muốn",
+        "c": "Phần mềm là chương trình máy tính được thực thi mang lại một chương trình khác",
+        "d": "Tất cả ý trên đều sai."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 30,
+      "question": "Khái niệm nào sau đây là đúng khi nói về hệ điều hành?",
+      "options": {
+        "a": "Hệ điều hành là một phần mềm hệ thống quan trọng",
+        "b": "Hệ điều hành là phần mềm hệ thống dùng để điều khiển toàn bộ hoạt động của máy tính trong suốt thời gian máy tính hoạt động",
+        "c": "Hệ điều hành là phần mềm hệ thống dùng để điều khiển toàn bộ cấu trúc của máy tính",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 31,
+      "question": "Có bao nhiêu loại bộ nhớ chính",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 32,
+      "question": "Phát biểu nào sau đây là sai khi nói về bộ nhớ chính!",
+      "options": {
+        "a": "Bộ nhớ chính là bộ nhớ quan trọng nhất của máy tính.",
+        "b": "Bộ nhớ chính không thể thay đổi trong suốt thời gian máy tính hoạt động",
+        "c": "Bộ nhớ chính có thể thay đổi được trong lúc máy đang hoạt động",
+        "d": "Cả a và b đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 33,
+      "question": "Bộ nhớ thứ cấp bao gồm các thiết bị nào dưới đây:",
+      "options": {
+        "a": "HDD, DVD, CD, Ram",
+        "b": "HDD, DVD, Thẻ Nhớ, Băng Từ",
+        "c": "HDD, SSD, Rom, Ram",
+        "d": "Ram, Rom, DVD, USB"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 34,
+      "question": "Trong hệ thống máy tính, các thành phần nào sau đây được xem là bộ nhớ chính?",
+      "options": {
+        "a": "Ram, Rom",
+        "b": "Ram, HDD",
+        "c": "Rom, USB",
+        "d": "Ram, Rom, HDD"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 35,
+      "question": "Công dụng cơ bản của nút chuột trái là gì?",
+      "options": {
+        "a": "Chọn đối tượng",
+        "b": "Xóa đối tượng",
+        "c": "Chọn một hoặc nhiều đối tượng",
+        "d": "Xóa một hoặc nhiều đối tượng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 36,
+      "question": "Trong hệ thống bàn phím cơ bản, nút F12 có công dụng nào sau đây?",
+      "options": {
+        "a": "Đổi tên file",
+        "b": "Đổi tên thư mục",
+        "c": "Đổi tên file và thư mục",
+        "d": "Lưu tập tin với tên mới khác tên ban đầu của một file"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 37,
+      "question": "Nút F6 trên bàn phím dùng để làm gì?",
+      "options": {
+        "a": "Xóa kí tự được chọn trước",
+        "b": "Truy cập thanh địa chỉ trên trình duyệt web",
+        "c": "Truy cập thanh địa chỉ trên cửa sổ hiện hành",
+        "d": "Di chuyển con trỏ trong thanh địa chỉ và dùng để bôi đen thanh địa chỉ trên các trình duyệt"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 38,
+      "question": "Nút F2 trên bàn phím có công dụng gì?",
+      "options": {
+        "a": "Thoát khỏi trạng thái copy hàm trong excel",
+        "b": "Xóa kí tự đầu câu",
+        "c": "Đổi tên tập tin",
+        "d": "Đổi tên đối tượng được chọn"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 39,
+      "question": "Trong một máy tính, các thiết bị nào sau đây có thể gắn trực tiếp lên thùng máy khi đang hoạt động",
+      "options": {
+        "a": "USB, HDD, Ram, Thẻ Nhớ",
+        "b": "USB, Thẻ Nhớ, DVD, Ram",
+        "c": "Bàn phím, USB, Mouse, Ổ cứng di động",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 40,
+      "question": "Trong một hệ thống máy tính cá nhân, các thiết bị nào được liệt kê dưới đây là thiết bị nhập/ xuất không chuẩn",
+      "options": {
+        "a": "Bàn phím, Mouse, Màn hình",
+        "b": "Bàn phím, Máy Chiếu, Máy In",
+        "c": "Máy in, Máy Chiếu, Máy Scan, Mouse",
+        "d": "Máy Chiếu, Máy Scan, Máy quét từ"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 41,
+      "question": "Các thành phần cơ bản của một thùng máy tính bao gồm:",
+      "options": {
+        "a": "Vỏ thùng, CPU, Ram, Mainboard",
+        "b": "CPU, Ram, MainBoard, HDD, Power",
+        "c": "CPU, Ram, DVD-Rom, MainBoard, Power",
+        "d": "Vỏ máy, CPU, Ram, HDD, MainBoard, Power"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 42,
+      "question": "Trong hệ thống máy tính, thiết bị nào sau đây là thiết bị nhập / xuất cơ bản:",
+      "options": {
+        "a": "Bàn phím, Màn hình",
+        "b": "Bàn phím, Chuột, Máy chiếu",
+        "c": "Máy chiếu, Máy scan",
+        "d": "Máy In, Máy Scan, Máy Chiếu"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 43,
+      "question": "Số dòng tối đa có thể thiết lập ứng với chiều cao của một Drop cap",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "2",
+        "d": "10"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 44,
+      "question": "Thao tác nào sau đây dùng để chèn Watermark vào trang",
+      "options": {
+        "a": "Chọn tab Design-> Watermark",
+        "b": "Chọn tab Page layout-> Watermark",
+        "c": "Chọn tab Home ->Watermark",
+        "d": "Chọn tab Insert ->Watermark"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 45,
+      "question": "Một hình chèn vào trang văn bản, và khi được chọn thì trên thanh Ribbon xuất hiện một tab chứa các công cụ định dạng cho hình, đó là tab gì",
+      "options": {
+        "a": "Drawing tools",
+        "b": "Picture tools",
+        "c": "Shape tools",
+        "d": "Format tools"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 46,
+      "question": "Trong cùng một tài liệu, làm cách nào để có thể xoay trang theo hai hướng Portrait và Landscape",
+      "options": {
+        "a": "Ngắt section",
+        "b": "Ngắt trang",
+        "c": "Ngắt đoạn",
+        "d": "Không thực hiện được"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 47,
+      "question": "Phát biểu nào sau đây nói về Mini toolbar trong word 2013",
+      "options": {
+        "a": "Thanh công cụ xuất hiện tại vị trí chọn khối văn bản",
+        "b": "Thanh công cụ nằm bên trên của thanh Ribbon",
+        "c": "Thanh công cụ không có sẵn trên thanh Ribbon",
+        "d": "Thanh công cụ chỉ có trong Word 2010"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 48,
+      "question": "Thao tác nào sau đây không dùng để xóa một bảng",
+      "options": {
+        "a": "Chọn bảng, click nút Delete trong mini Toolbar, chọn Delete Table",
+        "b": "Chọn bảng và nhấn phím Delete",
+        "c": "Chọn bảng, chọn tab Layout, click nút Delete, chọn Delete Table",
+        "d": "Chọn bảng, click chuột phải, chọn Delete table"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 49,
+      "question": "Khi một bảng kéo dài trên nhiều trang, cách nào sau đây làm cho tiêu đề của bảng lặp lại tại đầu của mỗi trang",
+      "options": {
+        "a": "Đặt trỏ trong bảng, click nút repeat Header rows trong nhóm lệnh Data của tab Layout",
+        "b": "Sao chép tiêu đề của bảng cho mỗi trang",
+        "c": "Click chuột phải trên dòng tiêu đề, chọn repeat Header rows",
+        "d": "Mặc định tiêu đề bảng lặp lại ở đầu của mỗi trang"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Thao tác nào thực hiện tách một bảng thành 2 bảng riêng biệt",
+      "options": {
+        "a": "Đặt trỏ tại dòng cần tách, chọn chức năng Split Table trong nhóm lệnh Merge của tab Layout",
+        "b": "Đặt trỏ tại dòng cần tách, click chuột phải, chọn Split Table",
+        "c": "Chọn dòng tại vị trí cần tách, chọn chức năng Delete Row",
+        "d": "Không thực hiện được chức năng tách bảng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 51,
+      "question": "Chức năng nào dùng để canh đều độ rộng của các cột trong bảng",
+      "options": {
+        "a": "Distribute columns",
+        "b": "Distribute rows",
+        "c": "Distribute table",
+        "d": "Distribute cells"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 52,
+      "question": "Để kết hợp nhiều ô thành một ô trong bảng, thao tác nào sau đây là sai?",
+      "options": {
+        "a": "Chọn các ô cần kết hợp, chọn tab Layout trong Table Tools, click nút Merge cells",
+        "b": "Chọn các ô cần kết hợp, click chuột phải, chọn Merge cells",
+        "c": "Chọn các ô cần kết hợp, chọn tab Design trong Table Tools, click nút Merge cells",
+        "d": "Đặt trỏ trong bảng, click nút eraser trong nhóm lệnh Draw của tab Layout, xóa các cạnh của ô cần kết hợp"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 53,
+      "question": "Chức năng nào sau đây dùng để xoay chữ trong một ô của bảng",
+      "options": {
+        "a": "Text direction",
+        "b": "Text orientation",
+        "c": "Text rotate",
+        "d": "Không có chức năng xoay chữ trong ô"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 54,
+      "question": "Khi đặt trỏ trong bảng dữ liệu thì trên thanh Ribbon xuất hiện một tab chứa các lệnh để định dạng và hiệu chỉnh bảng",
+      "options": {
+        "a": "Table Tools",
+        "b": "Table Format",
+        "c": "Table design",
+        "d": "Table Format and Design"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 55,
+      "question": "Lựa chọn nào sau đây dùng để chuyển dữ liệu trong một bảng thành dạng Text",
+      "options": {
+        "a": "Đặt trỏ trong bảng, chọn tab Layout, click nút Convert to Text",
+        "b": "Chọn bảng, Click nút Border trong nhóm lệnh Paragraph, chọn No border",
+        "c": "Dùng chức năng eraser để xóa các cạnh của bảng",
+        "d": "Chọn bảng và nhấn phím Delete"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 56,
+      "question": "Khi nhiều khối văn bản khác nhau được áp dụng cùng một Style, cách nào sau đây là tốt nhất dùng để hiệu chỉnh định dạng đồng thời cho các khối văn bản trên.",
+      "options": {
+        "a": "Hiệu chỉnh Style đã được áp dụng",
+        "b": "Lần lượt chọn các khối văn bản và hiệu chỉnh định dạng",
+        "c": "Hiệu chỉnh định dạng của một khối sau đó dùng chức năng Format Painter",
+        "d": "Dùng chức năng Paste Special"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 57,
+      "question": "Lựa chọn nào sau đây thực hiện xóa tất cả các định dạng của khối văn bản đang được chọn",
+      "options": {
+        "a": "Nhấn phím Delete",
+        "b": "Click nút Clear All formatting trong nhóm lệnh Font",
+        "c": "Nhấn tổ hợp phím Shift Delete",
+        "d": "Không thể xóa định dạng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 58,
+      "question": "Để đóng khung cho khối văn bản được chọn, thao tác nào sau đây là đúng",
+      "options": {
+        "a": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn Borders and Shading, chọn kiểu khung, OK",
+        "b": "Chọn khối văn bản, mở hộp thoại Paragraph, chọn kiểu khung",
+        "c": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn Borders and Shading, chọn kiểu khung, trong mục Apply to, chọn Text, click OK",
+        "d": "Chọn khối văn bản, trong nhóm lệnh Paragraph, click nút borders, chọn kiểu khung trong danh sách"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 59,
+      "question": "Phần lề để đóng gáy sách (Gutter) có thể đặt ở vị trí nào?",
+      "options": {
+        "a": "Lề trái và phải",
+        "b": "Lề trái và trên",
+        "c": "Lề trái và dưới",
+        "d": "Chỉ đặt ở lề trái"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 60,
+      "question": "Tổ hợp phím Ctrl + T được sử dụng để thực hiện chức năng __",
+      "options": {
+        "a": "Hanging Indent",
+        "b": "Left Indent",
+        "c": "Mở hộp thoại Tabs",
+        "d": "Đóng tất cả các hộp thoại đang mở"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 61,
+      "question": "Cách nào sau đây có thể sử dụng chức năng Format Painter nhiều lần",
+      "options": {
+        "a": "Click biểu tượng Lock Format Painter",
+        "b": "Double click trên biểu tượng Format Painter",
+        "c": "Chọn View-> Format Painter -> Multiple Use",
+        "d": "Chức năng Format Painter không thể sử dụng nhiều lần"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 62,
+      "question": "Tab stop position không thể canh lề kiểu",
+      "options": {
+        "a": "Decimal",
+        "b": "Center",
+        "c": "Bar",
+        "d": "Justify"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 63,
+      "question": "Tổ hợp phím Ctrl + Shift + C được sử dụng để __",
+      "options": {
+        "a": "Sao chép nội dung",
+        "b": "Sao chép định dạng",
+        "c": "Sao chép công thức",
+        "d": "Sao chép hình ảnh"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 64,
+      "question": "Thao tác nào sau đây dùng để thay đổi Font chữ của toàn bộ tài liệu",
+      "options": {
+        "a": "Chọn tab Design-> Font-> chọn bộ Font cần thay đổi",
+        "b": "Chọn tab Home, chọn Font trong nhóm lệnh Font",
+        "c": "Chọn tab Home -> mở hộp thoại Font, chọn font cần thay đổi",
+        "d": "Chọn tab Design-> mở hộp thoại Font, chọn font cần thay đổi"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 65,
+      "question": "Tổ hợp phím nào dùng để ngắt cột",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Shift + Enter",
+        "d": "Alt + Enter"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 66,
+      "question": "Tổ hợp phím nào dùng để ngắt dòng",
+      "options": {
+        "a": "Ctrl + Enter",
+        "b": "Ctrl + Shift + Enter",
+        "c": "Shift + Enter",
+        "d": "Alt + Enter"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 67,
+      "question": "Tổ hợp phím nào dùng để mở hộp thoại Find and Replace, và tab Goto được kích hoạt",
+      "options": {
+        "a": "Ctrl + G",
+        "b": "Ctrl + F",
+        "c": "Ctrl + H",
+        "d": "Ctrl + R"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 68,
+      "question": "Tổ hợp phím Ctrl + phím mũi tên phải được dùng để",
+      "options": {
+        "a": "Di chuyển con trỏ về bên phải của một từ",
+        "b": "Di chuyển con trỏ đến cuối dòng",
+        "c": "Di chuyển con trỏ cuối của tài liệu",
+        "d": "Di chuyển con trỏ xuống cuối của một đoạn"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 69,
+      "question": "Tính năng nào giúp chèn nội dung từ Clipboard như một văn bản không có định dạng",
+      "options": {
+        "a": "Paste Special",
+        "b": "Format Painter",
+        "c": "Page Setup",
+        "d": "Styles"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 70,
+      "question": "Lựa chọn nào không liên quan đến định dạng thụt lề của đoạn văn bản",
+      "options": {
+        "a": "First line",
+        "b": "Hanging",
+        "c": "Left indent, Right indent",
+        "d": "Spacing"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 71,
+      "question": "Chức năng Link to Previous được sử dụng để chỉ định",
+      "options": {
+        "a": "Section hiện tại tiếp tục sử dụng Header và Footer của section trước",
+        "b": "Section hiện tại tiếp tục sử dụng định dạng của section trước",
+        "c": "Section hiện tại tiếp tục với section trước trên cùng một trang",
+        "d": "Section hiện tại liên kết với section trước"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 72,
+      "question": "Thao tác nào để bật hoặc tắt thước (Ruler) trong cửa sổ soạn thảo",
+      "options": {
+        "a": "Chọn tab Review-> đánh dấu chọn vào ô Ruler",
+        "b": "Chọn tab View-> đánh dấu chọn vào ô Ruler",
+        "c": "Chọn tab Insert Ruler",
+        "d": "Chọn tab Page Layout-> đánh dấu chọn vào ô Ruler"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 73,
+      "question": "Chức năng nào dùng để thiết lập header và footer ở trang chẵn và trang lẻ có nội dung khác nhau?",
+      "options": {
+        "a": "Different first page",
+        "b": "Different Odd & even pages",
+        "c": "Different sections",
+        "d": "Different Odd pages & Different even pages"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 74,
+      "question": "Mặc định, header và Footer xuất hiện ở trang nào?",
+      "options": {
+        "a": "Trang đầu tiên của tài liệu",
+        "b": "Trang cuối cùng của tài liệu",
+        "c": "Những trang được chỉ định",
+        "d": "Tất cả các trang"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 75,
+      "question": "Lựa chọn nào sau đây không phải là tùy chọn của Section Break",
+      "options": {
+        "a": "Next Page",
+        "b": "Previous Page",
+        "c": "Odd Page",
+        "d": "Even Page"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 76,
+      "question": "Lựa chọn nào sau đây dùng để ngắt phần (Section break) sao cho phần tiếp theo bắt đầu ở đầu trang chẵn tiếp theo",
+      "options": {
+        "a": "Section Breaks-> Next Page",
+        "b": "Section Breaks-> Continuous",
+        "c": "Section Breaks-> Even Page",
+        "d": "Section Breaks-> Odd Page"
+      },
+      "answer": "c"
+    }
+  ]
+}

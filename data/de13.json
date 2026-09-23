@@ -1,0 +1,852 @@
+{
+  "title": "Ôn Tập Bộ Câu Hỏi Trắc Nghiệm Năm 2022 IUH - Phần 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Khi đang làm việc với PowerPoint, muốn xóa bỏ một Slide, ta thực hiện",
+      "options": {
+        "a": "Insert - Delete Slide",
+        "b": "Click chuột phải lên slide cần xóa - Delete Slide",
+        "c": "Design - Delete Slide",
+        "d": "Slide Show - Delete Slide"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "URL được viết đầy đủ là",
+      "options": {
+        "a": "Unique reference label",
+        "b": "Uniform reference label",
+        "c": "Uniform resource locator",
+        "d": "Unique resource locator"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 3,
+      "question": "Phần mềm nào sau đây không phải trình duyệt Web?",
+      "options": {
+        "a": "Microsoft Internet Explorer",
+        "b": "Mozilla Firefox",
+        "c": "Netcape",
+        "d": "Microsoft Wi-Fi"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 4,
+      "question": "Máy chủ dùng để đặt các trang Web trên Internet",
+      "options": {
+        "a": "Server mail",
+        "b": "Server",
+        "c": "Web Server",
+        "d": "Work Station"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 5,
+      "question": "Trang chủ là gì?",
+      "options": {
+        "a": "Là một trang web đầu tiên của một Website.",
+        "b": "Là tập hợp các trang web có liên quan đến nhau.",
+        "c": "Là địa chỉ của Website.",
+        "d": "Tất cả các câu trên đều đúng."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "Web Server là gì?",
+      "options": {
+        "a": "Là máy chủ dùng để đặt các trang Web trên Internet.",
+        "b": "Là máy tính đang được sử dụng để xem nội dung các trang web.",
+        "c": "Là một dịch vụ của Internet.",
+        "d": "Tất cả các câu trên đều đúng."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 7,
+      "question": "WWW là chữ viết tắt của",
+      "options": {
+        "a": "World Wide Web",
+        "b": "World Wide Word",
+        "c": "World Wide Wood",
+        "d": "Không có câu nào đúng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 8,
+      "question": "Một trình duyệt web là gì?",
+      "options": {
+        "a": "Chương trình có thể hiển thị một trang web",
+        "b": "Chương trình dùng để xem các tài liệu html",
+        "c": "Người sử dụng để truy cập vào các nguồn tài nguyên của internet",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 9,
+      "question": "Trang web động là",
+      "options": {
+        "a": "Người dùng không thể chỉnh sửa, thay đổi dữ liệu được",
+        "b": "Người dùng có thể đăng tin mới, chỉnh sửa tin và chỉnh sửa danh mục.",
+        "c": "Trang web dùng các ảnh động",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Quá trình chuyển các file từ một máy tính trên Internet vào máy tính của bạn được gọi là",
+      "options": {
+        "a": "Uploading",
+        "b": "Forwarding",
+        "c": "FTP",
+        "d": "Downloading"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 11,
+      "question": "Giao thức file transfer protocol được xây dựng trên kiến trúc mạng",
+      "options": {
+        "a": "Mô hình dữ liệu trung tâm",
+        "b": "Mô hình hướng dịch vụ",
+        "c": "Mô hình Client - Server",
+        "d": "Tất cả đề đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 12,
+      "question": "HTTP là giao thức __.",
+      "options": {
+        "a": "Tầng ứng dụng",
+        "b": "Tầng vận chuyển",
+        "c": "Tầng mạng",
+        "d": "Không có câu nào đúng"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "Khi nói đến giao thức mạng thuật ngữ FTP được hiểu là",
+      "options": {
+        "a": "Giao thức truyền file",
+        "b": "Giao thức của công ty FPT Internet",
+        "c": "Fiber Transfer Port",
+        "d": "Tất cả các câu trên đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 14,
+      "question": "Phần mềm nào sau đây có thể cho phép nhận và gửi Email",
+      "options": {
+        "a": "Microsoft File Explorer",
+        "b": "Internet Explorer",
+        "c": "Microsoft Edge",
+        "d": "Câu B và C"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 15,
+      "question": "Internet Explorer ta có thể mở một trang chủ bằng cách",
+      "options": {
+        "a": "Ctrl+Shift+H",
+        "b": "Ctrl+Shift+Home",
+        "c": "Alt+Home",
+        "d": "Shift+Home"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 16,
+      "question": "Microsoft Edge là gì? Chọn câu trả lời đúng",
+      "options": {
+        "a": "Là một Web Browser chạy trên Windows10",
+        "b": "Là một phiên bản mới của hệ điều hành Windows",
+        "c": "Là một chương trình quản trong bộ Microsoft Office 2016",
+        "d": "Tất cả đều sai."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 17,
+      "question": "Trong khi soạn thảo email nếu muốn gởi kèm file chúng ta bấm vào nút",
+      "options": {
+        "a": "send",
+        "b": "copy",
+        "c": "attach",
+        "d": "file/save"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 18,
+      "question": "Khi gủi email mục Subject dùng để điền",
+      "options": {
+        "a": "Trang chủ email",
+        "b": "Tiêu đề của bức thư",
+        "c": "Địa chỉ người nhận",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 19,
+      "question": "Spam là gì email?",
+      "options": {
+        "a": "Là việc gửi hàng loạt thư email đến nhiều người",
+        "b": "Là một loại virus",
+        "c": "Là một chương trình duyệt email",
+        "d": "Là một Server email"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "Tính năng Cc và Bcc khác nhau khi gửi email cho nhiều người",
+      "options": {
+        "a": "Cc người nhận biết những ai nhận, Bcc là những người không được nhận",
+        "b": "Bcc người nhận biết những ai nhận, Cc không biết những được nhận",
+        "c": "Cc và Bcc giống nhau.",
+        "d": "Cc người nhận biết những ai nhận, Bcc không biết những được nhận"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 21,
+      "question": "Muốn lưu trữ các địa chỉ yêu thích Web (Browser) Internet Explorer, ta sử dụng chức năng:",
+      "options": {
+        "a": "Add link",
+        "b": "Add Bookmark",
+        "c": "Add to Favorites",
+        "d": "Organize Favorites"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 22,
+      "question": "Nút Back trên các trình duyệt Web dùng để?",
+      "options": {
+        "a": "Quay trở lại trang Web trước đó",
+        "b": "Quay trở lại cửa sổ trước đó",
+        "c": "Quay trở lại màn hình trước đó",
+        "d": "Đi đến trang Web tiếp theo"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 23,
+      "question": "Nút Forward trên thanh công cụ của trình duyệt Internet Explorer dùng để:",
+      "options": {
+        "a": "Đi đến cửa sổ kế tiếp",
+        "b": "Đi đến trang web tiếp theo trong các trang web đã duyệt qua",
+        "c": "Đi đến trang web cuối cùng được mở",
+        "d": "Quay lại cửa sổ trước đó"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 24,
+      "question": "Chương trình dùng để xem nội dung các trang web được gọi là:",
+      "options": {
+        "a": "Bộ soạn thảo nội dung web",
+        "b": "Phần mềm tiện ích",
+        "c": "Phần mềm hệ thống",
+        "d": "Trình duyệt web"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 25,
+      "question": "Tính năng Bcc khi gửi email cho nhiều người",
+      "options": {
+        "a": "Danh sách Bcc là những người không được nhận",
+        "b": "Những người nhận email không thể trả lời email",
+        "c": "Người nhận không biết những ai được nhận",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 26,
+      "question": "Quá trình attach file các file từ một máy tính lên email",
+      "options": {
+        "a": "Uploading",
+        "b": "Forwarding",
+        "c": "FTP",
+        "d": "Downloading"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 27,
+      "question": "Chọn phát biểu không sai về tính năng attach file trong Email",
+      "options": {
+        "a": "Đính kèm <3 file (text, pic, xlsx), dung lượng <5MB",
+        "b": "Đính kèm tất cả các file và thư mục",
+        "c": "Đính kèm <3 file, dung lượng >100MB",
+        "d": "Đính kèm tất cả các file và thư mục"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 28,
+      "question": "Khi nhận được một email muốn gửi email cho một người khác bằng cách",
+      "options": {
+        "a": "Forward",
+        "b": "Reply",
+        "c": "Forward All",
+        "d": "Reply All"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 29,
+      "question": "Khi nhận được một email trong đó có nhiều người cùng nhận, muốn trả lời tất cả bằng cách",
+      "options": {
+        "a": "Forward",
+        "b": "Reply",
+        "c": "Forward All",
+        "d": "Reply All"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 30,
+      "question": "Tính năng attach file trong Email giúp ta có thể…",
+      "options": {
+        "a": "Xóa virus ra khỏi Email",
+        "b": "Đính kèm file khi gửi Email",
+        "c": "Xóa các file đính kèm lỗi",
+        "d": "Đính kèm thư mục"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 31,
+      "question": "Phần mềm nào sau đây có thể cho phép nhận và gửi Email",
+      "options": {
+        "a": "Microsoft File Explorer",
+        "b": "Microsoft Access",
+        "c": "Windows Fax and Scan",
+        "d": "Microsoft Outlook"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 32,
+      "question": "Chọn phát biểu đúng về Email",
+      "options": {
+        "a": "Là phương thức truyền tập tin từ máy này đến máy khác trên mạng.",
+        "b": "Là dịch vụ cho phép ta truy cập đến hệ thống máy tính khác trên mạng.",
+        "c": "Là dịch vụ cho phép ta gởi và nhận thư điện tử.",
+        "d": "Là hình thức hội thoại trực tiếp trên Internet."
+      },
+      "answer": "c"
+    },
+    {
+      "id": 33,
+      "question": "Dung lượng lưu trữ tối đa của một tài khoản email không tính phí google là:",
+      "options": {
+        "a": "15GB",
+        "b": "4GB",
+        "c": "1024MB",
+        "d": "1TB"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 34,
+      "question": "Chọn một địa chỉ Email đúng cú pháp?",
+      "options": {
+        "a": "cuibap.com.vn",
+        "b": "cuibap.email.com",
+        "c": "cuibap@abcd.com",
+        "d": "cuibap.@abcd.vn"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 35,
+      "question": "TCP/IP được viết tắt từ:",
+      "options": {
+        "a": "Transmission Control Protocol / Internet Protocol.",
+        "b": "Transmission Control Panel / Internet Protocol.",
+        "c": "Transaction Control Prototype / Internet Prototype.",
+        "d": "Transmission Control Protocol / Internet Prototype."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 36,
+      "question": "HTTP là gì?",
+      "options": {
+        "a": "Là giao thức truyền siêu văn bản.",
+        "b": "Là ngôn ngữ để soạn thảo nội dung các trang Web.",
+        "c": "Là tên của trang web.",
+        "d": "Là địa chỉ của trang Web."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 37,
+      "question": "Các nhà cung cấp dịch vụ Internet được viết là",
+      "options": {
+        "a": "IIS",
+        "b": "IAP",
+        "c": "TCP",
+        "d": "ISP"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 38,
+      "question": "Chọn phát biểu đúng về địa chỉ IP",
+      "options": {
+        "a": "Địa chỉ IP dùng để xác định đối tượng nhận và gửi thông tin trên Internet.",
+        "b": "Địa chỉ IP bao gồm 32 bit được chia thành 4 nhóm, mỗi nhóm cách nhau bằng dấu chấm (.).",
+        "c": "Câu a và b đều đúng.",
+        "d": "Câu a và b đều sai."
+      },
+      "answer": "c"
+    },
+    {
+      "id": 39,
+      "question": "Chọn phát biểu đúng nhất về Internet Protocol. Là …",
+      "options": {
+        "a": "Các công ty quản lý Internet",
+        "b": "Các địa chỉ trang web trên Internet",
+        "c": "Nhà quản lý Internet",
+        "d": "Giao thức kết nối internet"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 40,
+      "question": "Địa chỉ URL một website có thể có__",
+      "options": {
+        "a": "Nhiều hơn một địa chỉ",
+        "b": "Chỉ duy nhất một địa chỉ",
+        "c": "Chỉ duy nhất một web browser",
+        "d": "Chỉ duy nhất một IP"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 41,
+      "question": "Trong MS PowerPoint, để slide tự động gọi slide kế tiếp sau thời gian 3 giây, ta chọn tất cả các slide, sau đó thực hiện",
+      "options": {
+        "a": "Slide show / Timing / Thiết lập Duration là 3s",
+        "b": "Slide show / Thiết lập Duration là 3s",
+        "c": "Transition / Timing / Thiết lập Duration là 3s",
+        "d": "Design / Thiết lập Duration là 3s"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 42,
+      "question": "Khi sử dụng Microsoft PowerPoint để trình diễn, muốn trở lại slide trước đó ta phải ấn phím",
+      "options": {
+        "a": "PgUp",
+        "b": "Enter",
+        "c": "PgDn",
+        "d": "Esc"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 43,
+      "question": "Khi sử dụng Microsoft PowerPoint để trình diễn, muốn chấm dứt chế độ trình diễn ta thực hiện:",
+      "options": {
+        "a": "Nhấn phím Break",
+        "b": "Nhấn phím Esc",
+        "c": "Nhấn phím Space Bar",
+        "d": "Nhấn phím Enter"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 44,
+      "question": "Trong MS Powerpoint, để sao chép 1 slide trong tập tin trình diễn (Presentation), ta chọn slide rồi thực hiện:",
+      "options": {
+        "a": "Nhấn tổ hợp phím Ctrl-C",
+        "b": "Tab Home / Clipboard / Copy",
+        "c": "Click chuột phải lên slide / Copy",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 45,
+      "question": "Trong MS Powerpoint, lựa chọn nào sau đây dùng để tạo hiệu ứng hoạt hình cho các đối tượng",
+      "options": {
+        "a": "Tab Home / Slide Transition / Animation",
+        "b": "Tab Transition / Animation",
+        "c": "Tab Animations / Animation",
+        "d": "Tab Slide show / Custom Animation"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 46,
+      "question": "Trong MS Powerpoint, loại hiệu ứng nào sau đây dùng để di chuyển đối tượng khi trình chiếu:",
+      "options": {
+        "a": "Emphasis",
+        "b": "Exit",
+        "c": "Entrance",
+        "d": "Motion Paths"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 47,
+      "question": "Trong MS Powerpoint, loại hiệu ứng nào sau đây thường dùng để gán cho các đối tượng khi bắt đầu trình chiếu:",
+      "options": {
+        "a": "Entrance",
+        "b": "Motion Paths",
+        "c": "Exit",
+        "d": "Emphasis"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 48,
+      "question": "Trong MS Powerpoint, loại hiệu ứng nào sau đây dùng để làm nổi bật (nhấn mạnh) đối tượng khi trình chiếu:",
+      "options": {
+        "a": "Entrance",
+        "b": "Motion Paths",
+        "c": "Exit",
+        "d": "Emphasis"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 49,
+      "question": "Phần mở rộng của MS power point 2013 là gì?",
+      "options": {
+        "a": "PTM",
+        "b": "POPX",
+        "c": "POWX",
+        "d": "PPTX"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 50,
+      "question": "Để thay đổi màu nền của các slide, ta thực hiện",
+      "options": {
+        "a": "Nhấp vào nút fill color trên thanh drawing",
+        "b": "Chọn Insert/slide design",
+        "c": "Chọn Home/objects",
+        "d": "Chọn Design – Customize – Format Background"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 51,
+      "question": "Kiểu View nào chỉ hiển thị một slide duy nhất khi soạn thảo",
+      "options": {
+        "a": "Normal view",
+        "b": "Outline view",
+        "c": "Slide sorter",
+        "d": "Notes page"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 52,
+      "question": "Để xóa hiệu ứng trên một đối tượng, chọn đối tượng cần xóa hiệu ứng, và thực hiện thao tác nào sau đây?",
+      "options": {
+        "a": "Click nút Animation Pane trong nhóm Advanced Animation trên tab Animation, chọn hiệu ứng cần xóa, click Remove",
+        "b": "Click phải trên đối tượng click Remove",
+        "c": "Nhấn phím Delete",
+        "d": "Xóa đối tượng đã gán hiệu ứng chèn lại đối tượng khác"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 53,
+      "question": "Cách nào sau đây thực hiện thiết lập hiệu ứng cho các đối tượng trên slide?",
+      "options": {
+        "a": "Chọn tab Insert, chọn lệnh Custom Animation, click Add Effect",
+        "b": "Chọn tab Home, chọn lệnh Custom Animation, click Add Effect",
+        "c": "Chọn tab View, chọn lệnh Custom Animation, click Add Effect",
+        "d": "Chọn tab Animation, chọn lệnh Advanced Animation, click Add Animation, chọn Add Effect"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 54,
+      "question": "Khi đang trình chiếu một tập tin PowerPoint, muốn kết thúc phiên trình diễn, ta thực hiện:",
+      "options": {
+        "a": "Click phải chuột, rồi chọn Exit",
+        "b": "Click phải chuột, rồi chọn Return",
+        "c": "Click phải chuột, rồi chọn End Show",
+        "d": "Click phải chuột, rồi chọn Screen"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 55,
+      "question": "Để trình diễn một Slide trong PowerPoint, ta bấm:",
+      "options": {
+        "a": "Phím F5",
+        "b": "Phím F3",
+        "c": "Phím F1",
+        "d": "Phím F10"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 56,
+      "question": "Trong PowerPoint, để thay đổi thiết kế của Slide, ta thực hiện",
+      "options": {
+        "a": "Design – Themes…",
+        "b": "Review - Slide Design...",
+        "c": "Insert - Slide Design...",
+        "d": "Slide Show - Slide Design..."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 57,
+      "question": "Khi đang làm việc với PowerPoint, để chèn thêm một Slide mới, ta thực hiện:",
+      "options": {
+        "a": "Edit - New Slide",
+        "b": "Design - New Slide",
+        "c": "Slide Show - New Slide",
+        "d": "Insert - New Slide"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 58,
+      "question": "Khi đang làm việc với PowerPoint, muốn trình diễn tài liệu được soạn thảo, ta thực hiện:",
+      "options": {
+        "a": "File - View Show",
+        "b": "View - View Show",
+        "c": "Slide Show – Start Slide Show…",
+        "d": "Tools - View Show"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 59,
+      "question": "Khi đang làm việc với PowerPoint, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...) của Slide, ta thực hiện",
+      "options": {
+        "a": "Home - Slide - Layout...",
+        "b": "View - Slide Layout...",
+        "c": "Insert - Slide Layout...",
+        "d": "File - Slide Layout..."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 60,
+      "question": "Phát biểu nào sau đây đúng?",
+      "options": {
+        "a": "Trong chương trình MS PowerPoint, chúng ta có thể thiết lập các tùy chọn cho một slide hay một tập slide cùng một lúc.",
+        "b": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể thiết lập các tùy chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc.",
+        "c": "Trong một trình chiếu chỉ tạo được một slide master.",
+        "d": "Trong một trình chiếu chỉ có thể áp dụng một template."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 61,
+      "question": "Trong chương trình MS PowerPoint, chức năng Custom Animation dùng để làm gì?",
+      "options": {
+        "a": "Tạo hiệu ứng cho các đối tượng trên slide.",
+        "b": "Dùng để tạo hiệu ứng lật trang slide",
+        "c": "Dùng để thiết lập giao diện cho slide.",
+        "d": "Tạo các thiết lập định dạng cho hình ảnh trong slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 62,
+      "question": "Phát biểu nào sau đây đúng?",
+      "options": {
+        "a": "Trong chương trình MS PowerPoint, chúng ta có thể thiết lập thời gian chờ, âm thanh cho các hiệu ứng lật trang hay các hiệu ứng của các đối tượng",
+        "b": "Trong chương trình MS PowerPoint, chúng ta chỉ có thể click chuột để chuyển đổi cho các hiệu ứng lật trang hay các hiệu ứng của các đối tượng",
+        "c": "Tất cả đều sai",
+        "d": "Tất cả đều đúng."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 63,
+      "question": "Trong chương trình MS PowerPoint, chức năng Transitions dùng để làm gì?",
+      "options": {
+        "a": "Định dạng hiệu ứng chuyển trang cho các slide",
+        "b": "Định dạng giao diện cho slide",
+        "c": "Định dạng hiệu ứng cho các đối tượng trên slide",
+        "d": "Định dạng trang in cho slide"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 64,
+      "question": "Trong chương trình MS PowerPoint, chức năng Design/Themes dùng để làm gì?",
+      "options": {
+        "a": "Định dạng giao diện của slide",
+        "b": "Định dạng hiệu ứng lật trang",
+        "c": "Định dạng hiệu ứng cho các đối tượng trên slide",
+        "d": "Tất cả đều sai"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 65,
+      "question": "Sử dụng hiệu ứng motion path khi",
+      "options": {
+        "a": "Để bắt đầu quá trình trình chiếu",
+        "b": "Muốn thực hiện trình chiếu nâng cao",
+        "c": "Muốn di chuyển các đối tượng trong một slide",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 66,
+      "question": "Khi đang làm việc với PowerPoint, để chèn thêm một Slide mới, ta thực hiện:",
+      "options": {
+        "a": "Edit - New Slide",
+        "b": "File - New Slide",
+        "c": "Slide Show - New Slide",
+        "d": "Insert - New Slide"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 67,
+      "question": "Những định dạng file âm thanh nào sau đây có thể thêm vào PowerPoint?",
+      "options": {
+        "a": ".wav và .mid",
+        "b": ".wav và .gif",
+        "c": ".wav và .jpg",
+        "d": ".jpg và .gif"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 68,
+      "question": "Để kết thúc việc trình diễn trong PowerPoint, ta bấm:",
+      "options": {
+        "a": "Phím 10",
+        "b": "Phím ESC",
+        "c": "Phím Enter",
+        "d": "Phím Delete"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 69,
+      "question": "Những định dạng file nào sau đây có thể thêm vào trong PowerPoint?",
+      "options": {
+        "a": ".jpg",
+        "b": ".giv",
+        "c": ".wav",
+        "d": "Tất cả đều đúng"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 70,
+      "question": "Lựa chọn nào sau đây là đúng?",
+      "options": {
+        "a": "1 TB = 2^10 B",
+        "b": "1 TB = 2^20 B",
+        "c": "1 TB = 2^30 B",
+        "d": "1 TB = 2^40 B"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 71,
+      "question": "Lựa chọn nào sau đây là đúng?",
+      "options": {
+        "a": "1 TB = 2^10 GB",
+        "b": "1 TB = 2^10 MB",
+        "c": "1 TB = 2^10 KB",
+        "d": "1 TB = 2^10 B"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 72,
+      "question": "Lựa chọn nào sau đây là sai?",
+      "options": {
+        "a": "1MB = 1024 KB",
+        "b": "1MB = 220 B",
+        "c": "1 MB = 1/1024 GB",
+        "d": "1 MB = 1000 KB"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 73,
+      "question": "Lựa chọn nào sau đây là đúng?",
+      "options": {
+        "a": "1 KB = 1023 B",
+        "b": "1KB = 1025 B",
+        "c": "1 KB = 1024 B",
+        "d": "1 KB = 1027 B"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 74,
+      "question": "Lựa chọn nào sau đây là kết quả của phép toán \"1GB + 1MB\"?",
+      "options": {
+        "a": "101 GB",
+        "b": "100 GB",
+        "c": "100,1 GB",
+        "d": "1025 MB"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 75,
+      "question": "Lựa chọn nào sau đây là kết quả của phép toán \"100KB + 100MB\"?",
+      "options": {
+        "a": "101 MB",
+        "b": "110 MB",
+        "c": "100,1 MB",
+        "d": "102500 KB"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 76,
+      "question": "Hãy cho biết phép toán so sánh nào sau đây là sai?",
+      "options": {
+        "a": "1TB = 1024 GB",
+        "b": "1TB = 2^10 GB",
+        "c": "1TB = 2^40 B",
+        "d": "1TB = 2^50 B"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 77,
+      "question": "Hãy cho biết phép so sánh nào sau đây là đúng?",
+      "options": {
+        "a": "1KB = 1024 GB",
+        "b": "1KB = 2^10 MB",
+        "c": "1KB = 2^10 B",
+        "d": "1KB = 2^-10 MB"
+      },
+      "answer": "c"
+    }
+  ]
+}
