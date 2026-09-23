@@ -787,7 +787,7 @@
       "question": "Lựa chọn nào sau đây là sai?",
       "options": {
         "a": "1MB = 1024 KB",
-        "b": "1MB = 220 B",
+        "b": "1MB = 2²⁰ B",
         "c": "1 MB = 1/1024 GB",
         "d": "1 MB = 1000 KB"
       },
